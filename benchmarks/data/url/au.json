@@ -1,0 +1,4124 @@
+[
+    {
+        "url": "https://askubuntu.com/questions/1208029/ubuntu-screen-flickering-while-booting-up-before-the-login-screen"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1208027/mouse-cursor-disappears-after-i-run-sudo-apt-get-update-on-ubuntu-18-04-3"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1208021/ubuntu-18-04-3-64bits-not-booting-after-restart"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1208015/how-to-upgrade-python-from-python3-7-to-python3-8"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1208010/why-ubuntu-19-10-can-not-find-second-monitor"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1207998/why-does-samba-list-the-whole-server-folder-structure"
+    },
+    {
+        "url": "https://askubuntu.com/questions/691323/the-bluetooth-driver-doesnt-work-in-lenovo-flex-3-14-please-help-me-resolving"
+    },
+    {
+        "url": "https://askubuntu.com/questions/11017/how-do-i-automatically-obscure-my-face-when-using-video-chat"
+    },
+    {
+        "url": "https://askubuntu.com/questions/11009/using-same-hdd-on-multiple-laptops-as-boot-drive"
+    },
+    {
+        "url": "https://askubuntu.com/questions/691336/toshiba-satellite-l855-ubuntu-15-synaptics-issue"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1513167/ntfs-not-accessible-on-ubuntu-budgie-24-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1513164/unable-to-activate-gnome-shell-extensions"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1513180/ntfs-external-hard-drive-does-not-mount"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1513151/vitual-host-not-working-after-adding-the-code-in-the-apache2-conf-file"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1513179/ubuntu-24-04-second-monitor-lost-after-suspend"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1513169/how-to-configure-the-fingerprint-reader-of-a-hp-envy-x360-convertible-13-on-ubun"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1513154/chocking-rights-on-directory-with-command-ls-l-gives-total-0"
+    },
+    {
+        "url": "https://askubuntu.com/questions/250754/cinnamon-on-ubuntu-high-cpu-usage"
+    },
+    {
+        "url": "https://askubuntu.com/questions/250749/unable-to-view-message-tray-in-gnome-3-6"
+    },
+    {
+        "url": "https://askubuntu.com/questions/250767/radeon-mobility-hd-6620g-hdmi-sound-output-not-working"
+    },
+    {
+        "url": "https://askubuntu.com/questions/250781/unable-to-run-matlab"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1080225/change-function-for-power-button"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1080258/availability-of-pdf2htmlex-package-in-ubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1080257/gtk-update-icon-cache-the-generated-cache-was-invalid"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1559722/insert-prefix-to-each-line-of-file-if-line-is-not-blank-otherwise-do-something-e"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1080254/openvpn-via-network-manager-not-working"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1080230/how-to-make-ubuntu-server-18-04-use-dns-nameservers-from-etc-network-interfaces"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1080228/how-do-i-get-the-ubuntu-dock-off-the-secondary-monitor"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1323049/unable-to-play-videos-mp4-with-vlc-nor-parole"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1323054/ubuntu-20-10-gnome-wayland-apps-dont-scale"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1037637/plasmashell-crashes-doesnt-start"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1037634/redirect-output-and-save-to-remote-server"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1037604/aptik-doesnt-appear-in-search-results"
+    },
+    {
+        "url": "https://askubuntu.com/questions/233382/install-ttf-fonts-in-xorg"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1037598/dogged-persistence-of-networkmanager"
+    },
+    {
+        "url": "https://askubuntu.com/questions/233389/how-can-i-fix-errors-relating-to-the-launch-of-the-software-center"
+    },
+    {
+        "url": "https://askubuntu.com/questions/233386/how-can-i-view-youtube-videos-in-tor-browser"
+    },
+    {
+        "url": "https://askubuntu.com/questions/971380/how-to-mount-filesystem-automatically"
+    },
+    {
+        "url": "https://askubuntu.com/questions/971383/when-i-type-gedit-bash-aliases-i-get-an-empty-page"
+    },
+    {
+        "url": "https://askubuntu.com/questions/971374/how-to-restore-usb-drive-after-using-startup-disk-creator-on-ubuntu-17-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/971378/ubuntu-17-10-gnome-not-honoring-blank-screen-settings"
+    },
+    {
+        "url": "https://askubuntu.com/questions/393014/installing-dual-boot-ubuntu-64-bit-13-10-along-side-windows-8-1-enterprise"
+    },
+    {
+        "url": "https://askubuntu.com/questions/392959/cant-boot-into-ubuntu-after-windows-8-1-upgrade-boot-repair-doesnt-fix-it"
+    },
+    {
+        "url": "https://askubuntu.com/questions/392958/need-to-rotate-logs-from-virtual-hosts-on-ubuntu-vps"
+    },
+    {
+        "url": "https://askubuntu.com/questions/392956/how-detect-modem-connected-to-the-usb-of-system-through-commands-in-linux"
+    },
+    {
+        "url": "https://askubuntu.com/questions/393000/ubuntu-locale-difference-between-zh-cn-utf8-and-zh-cn-utf-8"
+    },
+    {
+        "url": "https://askubuntu.com/questions/392998/how-to-increase-boot-partition-on-ubuntu-server-via-ssh"
+    },
+    {
+        "url": "https://askubuntu.com/questions/392992/using-old-same-version-iso-for-new-install-any-problems"
+    },
+    {
+        "url": "https://askubuntu.com/questions/690787/java-installation-problem-or-issue-of-the-noob"
+    },
+    {
+        "url": "https://askubuntu.com/questions/392973/how-do-i-find-out-lines-of-a-file-that-are-not-present-in-another-file"
+    },
+    {
+        "url": "https://askubuntu.com/questions/690765/real-time-planetarium"
+    },
+    {
+        "url": "https://askubuntu.com/questions/690756/is-it-possible-to-theme-the-bfb-launcher-background-separately-in-unity-7"
+    },
+    {
+        "url": "https://askubuntu.com/questions/690761/emerald-on-ubuntu-15-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/690734/how-i-can-download-and-install-c-in-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1407194/ubuntu-22-04-audio-output-not-working"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1407195/how-can-i-tell-wine-which-output-audio-device-to-use"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1407149/ubuntu-reboots-instead-of-shutdown-on-imac"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1006435/java-web-application-jnlp-doesnt-work"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1006499/how-to-get-more-information-about-error-loading-extension"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1006496/how-to-not-always-show-left-ubuntu-dock-in-gnome-shell"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1006464/access-android-phone-via-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1006456/download-virtual-package"
+    },
+    {
+        "url": "https://askubuntu.com/questions/976967/how-to-fix-apt-update-error-package-hash-sum-mismatch"
+    },
+    {
+        "url": "https://askubuntu.com/questions/976970/what-is-the-ecm-used-in-building-fcitx"
+    },
+    {
+        "url": "https://askubuntu.com/questions/357307/installing-vmware-player-chmod-cannot-access-no-such-file-or-directory"
+    },
+    {
+        "url": "https://askubuntu.com/questions/357282/do-updates-make-speed-of-system-slower"
+    },
+    {
+        "url": "https://askubuntu.com/questions/357288/suspend-doesnt-happen-at-all"
+    },
+    {
+        "url": "https://askubuntu.com/questions/357278/launching-zte-mf92-hsdpa-modem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/357276/i-have-no-icons-or-even-launcher-in-ubuntu-desktop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/357277/mail-use-gpg-encryption"
+    },
+    {
+        "url": "https://askubuntu.com/questions/357266/how-to-show-time-in-ubuntu-13-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/219839/ubuntu-12-04-dual-boot-with-windows-7-doesnt-boot-after-i-deleted-some-files"
+    },
+    {
+        "url": "https://askubuntu.com/questions/219808/how-do-i-open-weblinks-with-firefox-not-gedit"
+    },
+    {
+        "url": "https://askubuntu.com/questions/219811/eclipse-juno-wont-open-gui-java-apps-when-run-with-gksudo"
+    },
+    {
+        "url": "https://askubuntu.com/questions/219831/redirect-system-sound-to-audio-card-headphones"
+    },
+    {
+        "url": "https://askubuntu.com/questions/219828/getting-deb-package-dependencies-for-an-offline-ubuntu-computer-through-windows"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1144574/different-error-messages-on-boot-nouveau-hdaudio"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1144569/make-the-diff-command-look-only-for-differences-from-a-specified-range-of-line"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1144544/unable-to-restart-apache2"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1144541/all-attempts-to-add-packages-fail"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1386221/software-updater-did-nothing-when-clicked-upgrade-to-20-04-from-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1386217/wifi-power-management-keeps-turning-on"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1386210/why-doesnt-the-watch-command-work-on-an-alias"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1386192/how-to-optimize-or-better-control-my-amd-card"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1386191/why-ubuntu-takes-too-long-to-startup-after-removing-swap-partition"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1386189/wake-from-sleep-on-password-protected-hdd"
+    },
+    {
+        "url": "https://askubuntu.com/questions/790490/ubuntu-16-04-usb-modem-detected-as-cd-rom-unable-to-connect"
+    },
+    {
+        "url": "https://askubuntu.com/questions/790492/how-to-increase-text-size-systemwide-including-browsers-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/790478/accessibility-click-lock-drag"
+    },
+    {
+        "url": "https://askubuntu.com/questions/790470/16-04-freezes-shortly-on-purple-screen"
+    },
+    {
+        "url": "https://askubuntu.com/questions/35547/what-internet-bandwidth-speed-tools-are-available"
+    },
+    {
+        "url": "https://askubuntu.com/questions/35537/the-computer-does-not-wake-up-from-sleep-after-a-ram-upgrade"
+    },
+    {
+        "url": "https://askubuntu.com/questions/437790/booting-ubuntu-on-a-windows-machine"
+    },
+    {
+        "url": "https://askubuntu.com/questions/437789/unindent-selected-lines-in-gedit"
+    },
+    {
+        "url": "https://askubuntu.com/questions/437783/how-do-i-install-ubuntu-server-from-usb-without-internet-access"
+    },
+    {
+        "url": "https://askubuntu.com/questions/437755/dpkg-error-processing-linux-generic-unmet-dependency-error"
+    },
+    {
+        "url": "https://askubuntu.com/questions/437758/burnt-cd-keeps-coming-up-unreadable-at-install"
+    },
+    {
+        "url": "https://askubuntu.com/questions/437764/how-to-limit-apt-listchanges-mails-to-only-security-updates"
+    },
+    {
+        "url": "https://askubuntu.com/questions/437754/samsung-ssd-840-pro-configuration"
+    },
+    {
+        "url": "https://askubuntu.com/questions/777404/how-to-completely-remove-amazon-from-my-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/777395/boot-ubuntu-16-04-server-iso-from-grub"
+    },
+    {
+        "url": "https://askubuntu.com/questions/777389/installing-java-8-on-ubuntu-14-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/777386/how-do-i-upgrade-from-14-04-to-14-10-instead-of-15-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/777388/unable-to-locate-package-libqt4-core-and-libqt4-gui-on-ubuntu-16"
+    },
+    {
+        "url": "https://askubuntu.com/questions/508948/hybrid-graphics-how-to-enable-the-second-card"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1344158/same-user-password-no-longer-allows-access-to-ubuntu-share-from-windows-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1344141/how-do-i-launch-an-application-in-a-specific-virtual-desktop-with-xfwm4"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1344139/installing-ubuntu-18-04-without-turning-off-the-rst"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1344135/boost-saturation-intel-hd-graphics"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1088617/recommended-partitioning-for-an-ubuntu-18-04-installation"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1088611/ubuntu-client-cannot-connect-to-ubuntu-server-since-update-but-windows-client-ca"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1088603/ubuntu-18-04-lts-missing-sleep-option"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1088591/cpus-switching-to-very-low-speed-in-18-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1088600/starcraft-2-on-ubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1088559/ubuntu-18-04-switch-back-to-synaptics-as-input-driver"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1088567/ubuntu-18-10-does-not-start-with-nvidia-drivers"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1088575/weird-message-when-installing-programs"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1088556/no-journal-files-were-found-on-chrooted-rescue-system"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1398628/dell-latitude-5480-wireless-not-working"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1398623/recommended-ownership-of-public-html-for-apache"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1398624/no-wifi-rtl8821ce-card-and-no-ethernet"
+    },
+    {
+        "url": "https://askubuntu.com/questions/161732/how-do-i-disable-modify-cpu-underclocking-due-to-temperature-on-a-laptop-with-a"
+    },
+    {
+        "url": "https://askubuntu.com/questions/161736/ubuntu-box-just-redisplaying-login-screen-after-update"
+    },
+    {
+        "url": "https://askubuntu.com/questions/314833/diagnosing-the-problem-when-canon-printer-fails-to-print-under-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/314817/how-do-i-install-a-kernel-module-in-an-lxc-guest-machine"
+    },
+    {
+        "url": "https://askubuntu.com/questions/314810/how-do-i-troubleshoot-system-slowness-seen-when-viewing-pdfs-or-videos"
+    },
+    {
+        "url": "https://askubuntu.com/questions/314809/why-are-mysterious-jpg-files-being-created-in-my-home-folder"
+    },
+    {
+        "url": "https://askubuntu.com/questions/314803/command-not-found-when-running-svn"
+    },
+    {
+        "url": "https://askubuntu.com/questions/314802/is-there-a-comprehensive-list-of-mupdf-keyboard-shortcuts"
+    },
+    {
+        "url": "https://askubuntu.com/questions/314786/how-to-set-up-environmental-variable-in-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/314788/administrative-password-doesnt-work"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1054876/install-ubuntu-18-keep-grub-on-second-hard-drive"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1054872/wifi-unable-to-find-networks-on-ubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1054873/virtual-box-proprietary-license"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1054844/rgb-keyboard-back-light-turns-off-when-ubuntu-boots-mr-x6ti"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1054845/installed-i3-but-no-windowmanager-choice-present-on-login-gdm-ubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1054839/mysql-service-always-crashes"
+    },
+    {
+        "url": "https://askubuntu.com/questions/644328/how-can-i-install-usbip-on-ubuntu-14-04-2"
+    },
+    {
+        "url": "https://askubuntu.com/questions/674438/only-one-cpu-is-being-used"
+    },
+    {
+        "url": "https://askubuntu.com/questions/674426/installing-linux-4-3-on-existing-ubuntu-release"
+    },
+    {
+        "url": "https://askubuntu.com/questions/674440/correct-way-to-set-which-clang-binaries-to-use"
+    },
+    {
+        "url": "https://askubuntu.com/questions/674430/send-an-email-from-the-localserver-using-php"
+    },
+    {
+        "url": "https://askubuntu.com/questions/674389/mouse-clicks-wont-respond-in-the-majority-of-the-work-area-ubuntu-15-04-w-unity"
+    },
+    {
+        "url": "https://askubuntu.com/questions/674394/column-selection-mode-ctrlv-on-vim-doesnt-work-as-expected"
+    },
+    {
+        "url": "https://askubuntu.com/questions/18357/how-to-install-otf-fonts"
+    },
+    {
+        "url": "https://askubuntu.com/questions/18352/how-to-enable-moonlight"
+    },
+    {
+        "url": "https://askubuntu.com/questions/18338/gnome-indicator-applet-not-showing-same-items-on-two-computers"
+    },
+    {
+        "url": "https://askubuntu.com/questions/18332/splash-screen-not-showing-up"
+    },
+    {
+        "url": "https://askubuntu.com/questions/18327/can-i-import-contacts-without-syncing"
+    },
+    {
+        "url": "https://askubuntu.com/questions/18328/expect-script-that-enters-a-username-and-password"
+    },
+    {
+        "url": "https://askubuntu.com/questions/859666/qos-user-bandwidth-management"
+    },
+    {
+        "url": "https://askubuntu.com/questions/859663/stop-networkmanager-from-setting-every-network-as-auto-connect"
+    },
+    {
+        "url": "https://askubuntu.com/questions/859662/need-help-to-interpret-output-of-free-command"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240463/how-can-i-do-a-backslash-in-spanish-keyboard-using-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240461/iptables-drops-all-connections-despite-previous-rules"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240456/ubuntu-18-04-on-dell-xps-is-draining-power-very-fast"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240452/netplan-configuration-for-a-router-with-2-or-more-input-isps-with-failover-for-s"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240450/i-broke-my-wifi-interface-configuration-with-wicd-how-can-i-fix-it"
+    },
+    {
+        "url": "https://askubuntu.com/questions/702874/openstack-juju-yaml-field-explanations"
+    },
+    {
+        "url": "https://askubuntu.com/questions/702873/dependency-problem-when-installing-kernel-4-2-6-on-nuc-computer-running-trusty"
+    },
+    {
+        "url": "https://askubuntu.com/questions/18248/how-to-change-ubuntu-into-lubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/18249/no-sound-when-monitor-is-turned-off"
+    },
+    {
+        "url": "https://askubuntu.com/questions/18228/problem-with-wake-after-suspend-using-usb-remote"
+    },
+    {
+        "url": "https://askubuntu.com/questions/18216/how-to-set-up-xubuntu-to-show-applications-menu-on-desktop-right-click"
+    },
+    {
+        "url": "https://askubuntu.com/questions/18222/how-to-prevent-system-applications-like-the-software-center-from-asking-for-pa"
+    },
+    {
+        "url": "https://askubuntu.com/questions/508578/help-to-restore-perfect-installation-from-windows-share-or-how-to-reinstall-gnom"
+    },
+    {
+        "url": "https://askubuntu.com/questions/508577/installing-icewm-from-source-does-not-work-but-apt-get-works"
+    },
+    {
+        "url": "https://askubuntu.com/questions/504670/how-do-i-change-the-default-graphics-driver-from-intel-to-nvidia-in-ubuntu-gnome"
+    },
+    {
+        "url": "https://askubuntu.com/questions/504669/how-to-restore-a-d%c3%a9j%c3%a0-dup-backup-file-at-command-prompt-with-duplicity"
+    },
+    {
+        "url": "https://askubuntu.com/questions/504660/make-ubuntustudio-look-like-regular-ubuntui-wanted-the-kernal-not-the-desktop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/504631/xubuntu-14-04-closing-lid-doesnt-immediately-trigger-xscreensaver"
+    },
+    {
+        "url": "https://askubuntu.com/questions/504638/view-ubuntu-local-desktop-remotely"
+    },
+    {
+        "url": "https://askubuntu.com/questions/352106/enter-password-to-unlock-login-keyring"
+    },
+    {
+        "url": "https://askubuntu.com/questions/352103/connection-mystery-with-ssh"
+    },
+    {
+        "url": "https://askubuntu.com/questions/92190/how-do-i-start-an-application-maximized-without-decorations-in-gnome-shell"
+    },
+    {
+        "url": "https://askubuntu.com/questions/92188/black-screen-when-booting-on-an-acer-aspire-5732z"
+    },
+    {
+        "url": "https://askubuntu.com/questions/92183/how-can-i-make-pcmanfm-open-plain-text-files-with-leafpad-by-default-in-lubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/92176/drag-drop-attachment-to-thunderbirds-icon-in-unity"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1019844/dead-island-from-steam-not-working-on-my-ubuntu-17-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1019838/how-can-i-get-boot-into-an-existing-windows-10-from-grub"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1019843/ubuntu-nvidia-drivers-and-login-loop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1019826/how-to-use-nvidia-geforce-920mx-in-ubuntu-17-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1019837/how-to-add-ssh-user-and-set-permission"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1019832/ubuntu-will-not-boot-only-getting-extremely-fast-scrolling-text"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1019813/my-applications-do-not-proceed-when-i-leave-my-computer"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1019820/installing-ms-visio-2010-and-updates-in-playonlinux-wine"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1019806/how-do-make-broadcom-proprietary-driver-for-bcm4312-14e44315-to-work-with-cha"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1019801/how-do-i-fix-create-the-gprename-desktop-file-in-xenial"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1019804/my-machine-is-taking-more-than-usual-to-boot-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1473138/convert-ifconfig-alias-to-netplan"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1473127/install-22-04-fail-to-boot-after-grub-menu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1473116/i-have-a-dual-drive-pc-i-mistakenly-wiped-the-hdd-and-now-wont-boot-how-do-i"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1473130/i-tried-to-install-google-chrome-on-ubuntu-22-10-using-the-terminal-but-this-fol"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1473103/upgrading-from-ubuntu-20-04-to-22-04-broke-my-system"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1473105/frequent-crashes-since-upgrade-to-23-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1473095/how-do-i-get-write-permissions-on-a-samba-share"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1473094/huge-arrows-in-gnome-43-quick-settings-icons"
+    },
+    {
+        "url": "https://askubuntu.com/questions/777300/pam-ad-issues-with-server-based-application"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1064563/how-do-i-properly-install-selinux-on-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1064536/ubuntu-server-16-04-sees-only-logical-volumes-hardware-raid-doesnt-see-phys"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1064528/cant-install-ubuntu-from-an-usb-stick-ae-not-found-ae-already-exists"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1064514/how-can-i-make-a-bash-script-display-its-output-like-man-not-filling-up-the-t"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1064511/installation-of-ubuntu-18-04-on-an-acer-with-uefi-grub-installation-doesnt-wo"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325229/hspa-3g-modem-manager-for-backtrack-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325231/combining-two-laptops-to-increase-memory"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325198/ubuntu-server-window-manager-network-applet"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325213/old-ubuntu-new-windows"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325187/accidentally-applied-color-profile"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325205/13-04-boot-problem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325194/teamviewer-ctrl-alt-doesnt-work"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325217/forcefully-loading-only-nvidia-graphics-on-boot-and-not-intel-integrated"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325183/will-mir-have-remote-display-capabilities"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325178/icons-in-desktop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325186/browsing-internet-problem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1463368/wi-fi-suddenly-does-not-connect-on-ubuntu-22-04-authentication-times-out"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1463364/unmet-dependencies-trying-to-install-samba-ubuntu-22-04-2"
+    },
+    {
+        "url": "https://askubuntu.com/questions/587888/why-does-echo-give-different-results-than-ls"
+    },
+    {
+        "url": "https://askubuntu.com/questions/587889/issue-with-graphics-drivers-after-install"
+    },
+    {
+        "url": "https://askubuntu.com/questions/587877/can-i-install-ubuntu-with-out-formating-disk"
+    },
+    {
+        "url": "https://askubuntu.com/questions/587856/raid-drive-wont-assemble"
+    },
+    {
+        "url": "https://askubuntu.com/questions/587860/ubuntu-14-04-wont-open-dvds"
+    },
+    {
+        "url": "https://askubuntu.com/questions/587866/installing-ubuntu-on-a-mac-mini-using-blutooth-mouse-keyboard"
+    },
+    {
+        "url": "https://askubuntu.com/questions/587851/suspend-problem-in-ubuntu-14-04-02-lenovo-z510"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1351123/kubuntu-limited-cpu-power"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1351118/cant-get-bluetooth-to-work-on-hp-laptop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1351116/pc-turns-off-log-outs-when-disconnected-from-tv"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1351126/ubuntu-20-04-2-lts-will-not-boot"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1452141/swap-two-workspaces"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1452135/if-tmp-is-a-symbolic-link-it-isnt-wiped-on-reboot"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1452146/wifi-very-slow-with-some-sources-modem-vs-android-hotspot"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1087400/how-to-install-compatible-debug-symbols-for-systemsettings"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1087439/telegram-persian-font-changed-after-upgrade-to-18-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1087402/18-04-after-supspend-the-internal-screen-shows-dell-logo-external-screen-work"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1087426/finding-installed-packages-not-supported-by-the-ubuntu-team"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1087434/how-to-detect-any-keyboard-or-mouse-input-from-background-script"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1087430/sudo-make-install-not-working-in-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/280990/c-compiler-program-ide"
+    },
+    {
+        "url": "https://askubuntu.com/questions/280981/12-10-running-slowly"
+    },
+    {
+        "url": "https://askubuntu.com/questions/280974/cant-install-a-thing"
+    },
+    {
+        "url": "https://askubuntu.com/questions/280973/black-screen-during-shutdown"
+    },
+    {
+        "url": "https://askubuntu.com/questions/413434/why-is-the-size-of-update-manager-different-from-time-to-time"
+    },
+    {
+        "url": "https://askubuntu.com/questions/413404/ctrlaltf1-incorrect-login"
+    },
+    {
+        "url": "https://askubuntu.com/questions/413405/cant-install-wine"
+    },
+    {
+        "url": "https://askubuntu.com/questions/413398/what-are-the-differences-between-v-an-v-to-get-the-version-of-software-in-ubun"
+    },
+    {
+        "url": "https://askubuntu.com/questions/413391/tightvnc-is-not-working-properly-its-showing-grey-background-with-x-cursor"
+    },
+    {
+        "url": "https://askubuntu.com/questions/413387/ubuntu-server-12-04-apt-get-update-errors-404-w-failed-to-fetch"
+    },
+    {
+        "url": "https://askubuntu.com/questions/413706/ubuntu-low-graphics-mode"
+    },
+    {
+        "url": "https://askubuntu.com/questions/413383/failed-to-install-grub-ubuntu-12-0-4"
+    },
+    {
+        "url": "https://askubuntu.com/questions/413367/ping-multiple-ips-using-bash"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1185674/innovative-integration-co-processor"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1185638/how-to-disable-web-cam-microphone-and-use-usb-microphone-as-audio-input"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1185628/alias-to-open-last-file-edited-in-vim"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1185631/remove-php-7-3-on-ubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1185614/shutdown-after-a-running-command-terminate"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1067969/htop-graphics-cut-off-in-aws-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1067967/setting-smart-dns-on-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1067964/i-am-getting-an-error-when-i-excute-ifconfig-command-on-my-virtual-machine-ubu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/863467/mv-cannot-move-jdk1-8-0-91-to-java-8-oracle-jdk1-8-0-91-directory-not-empt"
+    },
+    {
+        "url": "https://askubuntu.com/questions/203470/problems-with-software-sources-i-tried-to-add-a-repository-and-it-failed-how"
+    },
+    {
+        "url": "https://askubuntu.com/questions/203465/ubuntu-12-04-12-10-keeps-on-freezing"
+    },
+    {
+        "url": "https://askubuntu.com/questions/203466/no-permission-to-suspend-hibernate-after-upgrading-to-12-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/203454/iso-download-fails-ubuntu-server-12-04-1-lts-32bit"
+    },
+    {
+        "url": "https://askubuntu.com/questions/100367/how-to-switch-and-list-windows-possibly-of-the-same-application-in-unity"
+    },
+    {
+        "url": "https://askubuntu.com/questions/100341/unity-interface-close-minimize-maximize-too-small"
+    },
+    {
+        "url": "https://askubuntu.com/questions/100348/why-is-ppa-purge-not-installed-by-default"
+    },
+    {
+        "url": "https://askubuntu.com/questions/100360/where-are-keyboard-shortcuts-stored"
+    },
+    {
+        "url": "https://askubuntu.com/questions/100345/why-should-i-jump-from-windows-to-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/100337/grub-doesnt-boot-up-windows-as-default-even-though-i-modified-it-using-start-up"
+    },
+    {
+        "url": "https://askubuntu.com/questions/100340/kernel-settings-for-interactive-and-responsive-desktop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/100320/how-do-i-report-a-sensitive-security-issue"
+    },
+    {
+        "url": "https://askubuntu.com/questions/100325/how-to-get-the-correct-battery-status"
+    },
+    {
+        "url": "https://askubuntu.com/questions/100324/configure-error-intel-wimax-sdk-is-required-error-when-recompiling-network"
+    },
+    {
+        "url": "https://askubuntu.com/questions/537241/org-gnome-settings-daemon-plugins-power-settings-ignored-in-xubuntu-14-04-1"
+    },
+    {
+        "url": "https://askubuntu.com/questions/537225/how-do-i-use-the-no-border-option-in-compiz"
+    },
+    {
+        "url": "https://askubuntu.com/questions/537230/computer-hacked-vnc-server-request"
+    },
+    {
+        "url": "https://askubuntu.com/questions/537237/trouble-handling-partitions"
+    },
+    {
+        "url": "https://askubuntu.com/questions/537234/how-to-copy-install-various-data-from-a-dvd-drive-to-hard-disk-in-ununtu-14-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814326/how-to-connect-to-a-ssl-vpn-tunnel-with-motpmobile-one-time-password-using-ubu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814325/disadvantages-to-using-ntfs-as-main-storage-drive"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814327/printer-brother-dcp-1610w-not-working-under-xubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814323/how-do-i-get-skype-for-linux-alpha-minimized-to-system-tray-at-autostart"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814320/how-to-raise-failed-network-interfaces-after-upgrade-to-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814317/increase-of-ubuntu-entries-on-startup"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814306/ubuntu-16-mysql-2-7-and-multiple-instances-through-systemd"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814307/kubuntu-pppoeconf-broke-ethernet-interface-kde-still-doesnt-see-it-after-fixi"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814295/problem-with-booting-ubuntu-no-botable-device-found"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814291/not-printing-in-colors"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814280/touchpad-and-keyboard-get-freezed-at-login-screen-in-ubuntu12-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/269045/how-to-merge-an-unallocated-partition-with-an-extended-partition"
+    },
+    {
+        "url": "https://askubuntu.com/questions/269041/all-ports-are-closed-until-they-are-opened-manually-by-the-user-is-it-true"
+    },
+    {
+        "url": "https://askubuntu.com/questions/269019/bootup-error-grub-rescue-unknown-file-system"
+    },
+    {
+        "url": "https://askubuntu.com/questions/269014/qml-qt-development-path-verses-quickly-and-gtk"
+    },
+    {
+        "url": "https://askubuntu.com/questions/268749/amd-driver-install-troubleshooting"
+    },
+    {
+        "url": "https://askubuntu.com/questions/457711/page-borders-gone-in-evince-after-14-04-upgrade"
+    },
+    {
+        "url": "https://askubuntu.com/questions/457719/how-to-install-kivy-under-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/457717/how-do-i-replace-windows-xp-with-lubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/457714/installing-ubuntu-on-a-fresh-hard-drive"
+    },
+    {
+        "url": "https://askubuntu.com/questions/608090/expand-ubuntu-partition"
+    },
+    {
+        "url": "https://askubuntu.com/questions/608070/how-to-trace-monitor-the-i-o-of-a-linux-command"
+    },
+    {
+        "url": "https://askubuntu.com/questions/608063/how-do-i-disable-root-password-reset-via-grub-edit"
+    },
+    {
+        "url": "https://askubuntu.com/questions/608062/enabling-wi-fi-on-hp-15-r208nk"
+    },
+    {
+        "url": "https://askubuntu.com/questions/608044/installing-drivers-to-kubuntu-without-internet"
+    },
+    {
+        "url": "https://askubuntu.com/questions/608031/dynamically-set-user-groups-for-directories-and-files-on-a-directory"
+    },
+    {
+        "url": "https://askubuntu.com/questions/483668/stuck-after-login"
+    },
+    {
+        "url": "https://askubuntu.com/questions/483699/how-to-run-a-single-thread-7z-benchmarking-using-the-command-line"
+    },
+    {
+        "url": "https://askubuntu.com/questions/483685/cannot-find-the-iso-file-on-my-computer"
+    },
+    {
+        "url": "https://askubuntu.com/questions/483684/problems-installing-ubuntu-alongside-windows-7"
+    },
+    {
+        "url": "https://askubuntu.com/questions/291952/how-to-set-a-personalized-port-as-default-in-apache"
+    },
+    {
+        "url": "https://askubuntu.com/questions/291980/after-12-04-to-12-10-upgrade-64bit-xorg-held-back-and-unable-to-install-wine"
+    },
+    {
+        "url": "https://askubuntu.com/questions/291948/uninstall-upgrade-13-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/262263/damaged-update-software"
+    },
+    {
+        "url": "https://askubuntu.com/questions/262261/building-ubuntu-server-from-source-on-very-old-hardware"
+    },
+    {
+        "url": "https://askubuntu.com/questions/262253/how-do-i-take-a-screenshot-with-dimensions"
+    },
+    {
+        "url": "https://askubuntu.com/questions/262252/problem-with-my-lenovo-g580-laptop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/262246/unable-to-extend-ubuntu-partition-size"
+    },
+    {
+        "url": "https://askubuntu.com/questions/262241/will-i-get-a-multiple-os-boot-choice-after-installing-ubuntu-with-windows-7"
+    },
+    {
+        "url": "https://askubuntu.com/questions/262238/without-having-swap-partition-how-to-hibernate-using-only-swap-file"
+    },
+    {
+        "url": "https://askubuntu.com/questions/543200/i-cant-upgrade-kernel-on-ubuntu-server-14-04-1"
+    },
+    {
+        "url": "https://askubuntu.com/questions/543239/how-to-replace-unity-7-with-unity-8-on-ubuntu-14-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/543245/ssl-on-ubuntu-server-14-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/543242/cd-to-a-directory-has-hash"
+    },
+    {
+        "url": "https://askubuntu.com/questions/543230/wifi-problem-on-an-fs-amilo-li-1718-under-14-04-lts"
+    },
+    {
+        "url": "https://askubuntu.com/questions/543222/how-to-get-a-list-of-packages-i-installed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/356986/how-to-reinstall-ubuntu-from-flash-drive"
+    },
+    {
+        "url": "https://askubuntu.com/questions/356981/character-in-syslog"
+    },
+    {
+        "url": "https://askubuntu.com/questions/356979/how-to-assign-a-shortcut-key-to-send-my-system-into-hibernation"
+    },
+    {
+        "url": "https://askubuntu.com/questions/700840/how-to-install-wireshark-on-my-dell-with-ubuntu-14-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/700839/ubuntu-14-04-installation-attempt-destroys-windows-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/700827/ubuntu-installed-stuck-in-windows-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/700821/dmesg-log-messages-meaning"
+    },
+    {
+        "url": "https://askubuntu.com/questions/558627/what-is-ubuntu-core"
+    },
+    {
+        "url": "https://askubuntu.com/questions/558631/hard-drive-lock-or-bad-drive"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325953/slow-fx-unity-perfomance-in-a-intelr915g-915gv-910gl-graphics-can-be-improved"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325955/how-do-i-disable-adobe-flash-hardware-acceleration-in-terminal"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325946/unable-to-run-bootable-drive"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325957/the-desktop-wouldnt-appear-after-my-recent-update-to-13-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325944/how-to-change-a-directory-using-shell-script"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325938/playonlinux-error-while-using-internet-explorer"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325933/internal-server-error-on-phpmyadmin-log-in"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325929/malware-and-backdoor-detection-shell-script"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325911/cant-make-intel-hd-4000-drivers-to-work"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325918/second-hard-drive-not-detected"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325919/stuck-in-broken-packages-cycle-related-to-libreoffice-openoffice"
+    },
+    {
+        "url": "https://askubuntu.com/questions/301289/is-it-possible-to-run-adobe-dreamweaver-on-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/301285/how-to-set-ipod-tracks-to-remember-playback-position"
+    },
+    {
+        "url": "https://askubuntu.com/questions/301330/linux-13-04-wired-connection-not-automatically-on"
+    },
+    {
+        "url": "https://askubuntu.com/questions/301326/how-to-install-proteus-from-humble-indie-bundle-depends-proteus-1-1-0ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1294433/how-to-set-focus-to-desktop-icons"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1294429/windows-10-wont-boot-can-i-remove-and-install-linux-from-command-prompt"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443111/abnormal-cpu-usage-in-power-save-vs-performance-mode"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443110/all-screen-icons-disappear-reappear-at-random"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443090/mdadm-no-arrays-found-in-config-file-or-automatically"
+    },
+    {
+        "url": "https://askubuntu.com/questions/489491/whats-in-this-524mb-drive"
+    },
+    {
+        "url": "https://askubuntu.com/questions/489480/ubuntu-not-detecting-huawei-ec178-modem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/489477/make-1-leaving-directory-error"
+    },
+    {
+        "url": "https://askubuntu.com/questions/664427/bwa-configure-problem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/664425/ubuntu-14-04-wont-boot-after-installation"
+    },
+    {
+        "url": "https://askubuntu.com/questions/664404/ubuntu-wont-load-after-showing-ubuntu-logo"
+    },
+    {
+        "url": "https://askubuntu.com/questions/664403/bleachbit-get-crushed-previweing-and-cleaning-these-paths"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1508982/apt-commands-wont-upgrade-my-packages-kept-back"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1508968/multicraft-doesnt-come-up-with-non-code-content"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1508967/gitgithub-com-permission-denied-publickey"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1402263/ubuntu-21-10-show-topbar-on-every-monitor"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1402256/accessing-jupyter-from-a-user-other-than-root-user"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1312932/cant-browse-access-hidden-files-and-folders-with-chromium"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1312919/problem-in-generating-a-gnu-screen-session-with-ruby-in-ubuntu-20-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1312911/the-package-linux-headers-5-4-0-56-needs-to-be-reinstalled-but-an-archive-for-i"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1312906/su-authentication-failure-when-switching-to-non-root-with-password"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1312914/cant-enable-webcam-after-disabling-it"
+    },
+    {
+        "url": "https://askubuntu.com/questions/611347/bin-sh-0-cant-access-tty-job-control-turned-off"
+    },
+    {
+        "url": "https://askubuntu.com/questions/611383/bashrc-edit-messes-up-terminal-command-arrow-up-history-print"
+    },
+    {
+        "url": "https://askubuntu.com/questions/611384/remove-grub-menu-after-dual-booting"
+    },
+    {
+        "url": "https://askubuntu.com/questions/611382/installing-ubuntu-14-04-in-a-system-which-has-already-ubuntu-13-04-and-windows-8"
+    },
+    {
+        "url": "https://askubuntu.com/questions/611359/libreoffice-page-number-start-on-5th-page-also-remove-footer-for-first-4-pages"
+    },
+    {
+        "url": "https://askubuntu.com/questions/611358/12-04-upgrade-sound-input-issues"
+    },
+    {
+        "url": "https://askubuntu.com/questions/611350/need-battery-applet-for-awesome-wm-and-ubuntu-14-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/299392/lan-not-working-while-laptop-on-battery"
+    },
+    {
+        "url": "https://askubuntu.com/questions/299391/401-authorization-in-python-3"
+    },
+    {
+        "url": "https://askubuntu.com/questions/939708/use-hdd-partition-for-data-and-ssd-for-programs"
+    },
+    {
+        "url": "https://askubuntu.com/questions/939707/cant-unlock-screen"
+    },
+    {
+        "url": "https://askubuntu.com/questions/939674/lubuntu-17-04-will-not-connect-to-wifi-no-error-message-displayed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/967919/prevent-usb-device-from-power-drainage"
+    },
+    {
+        "url": "https://askubuntu.com/questions/967918/updated-to-ubuntu-studio-17-10-volume-control-shortcuts-not-working"
+    },
+    {
+        "url": "https://askubuntu.com/questions/967961/html-app-to-deb-package-for-raspberry-beaglebone-device"
+    },
+    {
+        "url": "https://askubuntu.com/questions/967960/how-to-remove-square-brackets-any-text-inside-and-space-after-before-the-bra"
+    },
+    {
+        "url": "https://askubuntu.com/questions/967926/kernel-cleanup-hangs-on-postinst"
+    },
+    {
+        "url": "https://askubuntu.com/questions/967922/bootable-usb-ubuntu-on-windows"
+    },
+    {
+        "url": "https://askubuntu.com/questions/434039/gnome-terminal-stretch-background-image-to-fit-window-size"
+    },
+    {
+        "url": "https://askubuntu.com/questions/434094/log-files-prevent-clean-root-umount"
+    },
+    {
+        "url": "https://askubuntu.com/questions/434082/error-writing-on-apache2"
+    },
+    {
+        "url": "https://askubuntu.com/questions/434072/is-there-any-free-or-paid-version-of-photoshop-available-for-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/434073/trendnet-tew-664ub-not-recognized-in-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/434054/any-reason-why-ubuntus-man-page-on-crontab5-is-less-informative"
+    },
+    {
+        "url": "https://askubuntu.com/questions/434060/huwai-1731-mobile-broadband-not-working-with-dell-inspiron-3521"
+    },
+    {
+        "url": "https://askubuntu.com/questions/312787/compiz-fusion-and-unity-tool"
+    },
+    {
+        "url": "https://askubuntu.com/questions/312782/how-to-install-ubuntu-on-separate-hard-drive-in-a-dual-boot"
+    },
+    {
+        "url": "https://askubuntu.com/questions/312785/eclipse-avd-not-appearing"
+    },
+    {
+        "url": "https://askubuntu.com/questions/312759/why-is-the-monospace-font-of-ubuntu-different-from-the-monospace-font-of-opensus"
+    },
+    {
+        "url": "https://askubuntu.com/questions/312767/installing-pygame-with-pip"
+    },
+    {
+        "url": "https://askubuntu.com/questions/677448/wake-up-from-suspend-does-not-show-log-in-screen-immediately"
+    },
+    {
+        "url": "https://askubuntu.com/questions/677443/installing-a-specific-version-of-vlc-from-a-ppa"
+    },
+    {
+        "url": "https://askubuntu.com/questions/677441/reboot-into-command-line-ssh"
+    },
+    {
+        "url": "https://askubuntu.com/questions/677424/error-xdg-runtime-dir-not-set-in-the-environment"
+    },
+    {
+        "url": "https://askubuntu.com/questions/677422/how-to-troubleshoot-cause-of-read-only-file-system-errors"
+    },
+    {
+        "url": "https://askubuntu.com/questions/827088/how-to-optimize-wifi-usb-for-gaming-in-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/827085/dual-booting-windows-ubuntu-cant-extend-ubuntu-partition-into-allocated-space"
+    },
+    {
+        "url": "https://askubuntu.com/questions/827084/is-there-any-way-to-log-activites-performed-by-a-useranother-super-user"
+    },
+    {
+        "url": "https://askubuntu.com/questions/827083/ubuntu-14-04-login-loop-and-no-wifi"
+    },
+    {
+        "url": "https://askubuntu.com/questions/827079/how-to-tag-folders-in-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/827073/unable-to-use-ubuntu-in-dual-boot-with-windows-7"
+    },
+    {
+        "url": "https://askubuntu.com/questions/827078/finding-command-line-used-when-starting-service-with-systemctl"
+    },
+    {
+        "url": "https://askubuntu.com/questions/882142/external-monitor-lenovo-doesnt-wake-up-after-lock-screen-wake"
+    },
+    {
+        "url": "https://askubuntu.com/questions/882133/installed-64bit-ubuntu-and-no-wifi-hardware-showing-at-all-but-works-fine-on-32b"
+    },
+    {
+        "url": "https://askubuntu.com/questions/882132/how-to-list-the-files-and-folders-inside-a-partition"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1267816/how-to-make-ubuntu-budgie-terminal-open-the-already-running-terminal-instead-of"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1267817/audacity-snap-pango-font-description-set-size-assertion-size-0-failed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1267811/cant-install-ubuntu-20-04-on-asus-tuf-a15-acpi"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1049118/systemd-wont-turn-numlock-off"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1049115/how-do-i-get-rid-of-this-flatpak-dconf-warning"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1049111/add-open-with-vs-code-to-context-menu-in-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1049102/could-alias-python-python3-in-my-bashrc-cause-problems"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1049093/gnome-terminal-default-font-for-not-supported-characters"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1049088/how-to-setup-selenium-for-firefox-in-kubuntu-18-04-properly"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814316/how-to-determine-identity-of-obscure-nicbr-devices-in-powertop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814254/dual-boot-osx-el-capitan-and-ubuntu-16-04-doesnt-work-after-updates-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/269031/change-or-disable-ubuntu-global-keyboard-shortcut-ctrlaltdel-using-terminal"
+    },
+    {
+        "url": "https://askubuntu.com/questions/269034/why-does-installing-jre1-7-0-give-me-no-alternatives"
+    },
+    {
+        "url": "https://askubuntu.com/questions/269012/when-i-install-on-usb-stick-will-it-replace-windows-7"
+    },
+    {
+        "url": "https://askubuntu.com/questions/268750/how-to-install-shan-language-on-ubuntu-12-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/457734/what-is-the-best-choice-to-replace-rds-server-ltsp-or-xdmcp-in-14-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/457733/is-ubuntu-running-all-users-at-the-same-time"
+    },
+    {
+        "url": "https://askubuntu.com/questions/608061/importing-custom-ca-and-personal-ssl-certificates-into-ubuntu-touch-web-browser"
+    },
+    {
+        "url": "https://askubuntu.com/questions/608045/ncurses-problem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/608059/cannot-get-to-command-line-on-my-asus-1015e-running-trusty"
+    },
+    {
+        "url": "https://askubuntu.com/questions/608051/why-does-java-not-work-in-chrome-in-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/483667/wireless-drivers-for-d-link-dwa-182"
+    },
+    {
+        "url": "https://askubuntu.com/questions/483663/unity-dash-slow-or-no-results"
+    },
+    {
+        "url": "https://askubuntu.com/questions/483707/14-04-touchpad-is-too-sensitive"
+    },
+    {
+        "url": "https://askubuntu.com/questions/483691/thunar-open-in-terminal-does-not-work-in-sftp-or-ftp"
+    },
+    {
+        "url": "https://askubuntu.com/questions/483687/editing-gsettings-unsuccesful-when-initiated-from-cron"
+    },
+    {
+        "url": "https://askubuntu.com/questions/483675/graphics-card-issues"
+    },
+    {
+        "url": "https://askubuntu.com/questions/483670/what-causes-ssh-problems-after-rebooting-a-14-04-server"
+    },
+    {
+        "url": "https://askubuntu.com/questions/291924/how-to-customize-personalized-ubuntu-installation-including-nvidia-drivers"
+    },
+    {
+        "url": "https://askubuntu.com/questions/291921/kvm-virt-manager-fails-to-find-load-roms"
+    },
+    {
+        "url": "https://askubuntu.com/questions/292008/how-to-install-lotus-9"
+    },
+    {
+        "url": "https://askubuntu.com/questions/292007/gnome-control-panel-crashes-while-trying-to-access-online-accounts"
+    },
+    {
+        "url": "https://askubuntu.com/questions/292003/what-changes-were-made-to-unity-webapps-in-13-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1032088/mendeley-desktop-processing-loop-on-ubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1032067/why-does-phpstorm-close-when-i-close-the-terminal"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1032070/how-to-fix-tpm2-acpi-table-does-not-define-a-memory-resource"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1032078/sound-starts-working-after-first-sleep"
+    },
+    {
+        "url": "https://askubuntu.com/questions/164980/no-hdd-shows-up-during-install-12-04-on-lenovo-u410"
+    },
+    {
+        "url": "https://askubuntu.com/questions/164984/backup-with-duplicity-on-google-cloud-storage"
+    },
+    {
+        "url": "https://askubuntu.com/questions/164981/installing-problems-with-dell-vostro-3460"
+    },
+    {
+        "url": "https://askubuntu.com/questions/164976/running-ubuntu-on-my-ocz-revodrive-2-no-such-drivers-exist"
+    },
+    {
+        "url": "https://askubuntu.com/questions/164973/12-04-lts-64bit-login-screen-and-error-windows-show-12-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/164954/uninstall-rvm-ruby-ruby-gem-and-rails-in-ubuntu-12-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/164966/how-can-i-get-alt-tab-to-work-in-virtualbox-vm-when-in-full-screen"
+    },
+    {
+        "url": "https://askubuntu.com/questions/448332/ubuntu-dual-boot-instalation-instructions"
+    },
+    {
+        "url": "https://askubuntu.com/questions/448329/whats-a-desktop-file"
+    },
+    {
+        "url": "https://askubuntu.com/questions/448327/how-do-you-restore-bootable-flag-to-windows-partition"
+    },
+    {
+        "url": "https://askubuntu.com/questions/448319/cannot-change-printer-name-werr-access-denied"
+    },
+    {
+        "url": "https://askubuntu.com/questions/448320/on-ubuntu-12-04-is-there-any-tools-to-check-what-programs-are-connecting-to-oth"
+    },
+    {
+        "url": "https://askubuntu.com/questions/448307/which-file-in-ubuntu-defines-meaning-of-each-run-level"
+    },
+    {
+        "url": "https://askubuntu.com/questions/448310/what-commands-go-wild-with-wildcards"
+    },
+    {
+        "url": "https://askubuntu.com/questions/630636/firefox-cache2-doomed-folder"
+    },
+    {
+        "url": "https://askubuntu.com/questions/630591/ubuntu-touch-for-nexus-7-2012"
+    },
+    {
+        "url": "https://askubuntu.com/questions/630590/can-only-have-either-wifi-or-bluetooth-active"
+    },
+    {
+        "url": "https://askubuntu.com/questions/630576/iwlist-set-essid-operation-already-in-progress"
+    },
+    {
+        "url": "https://askubuntu.com/questions/630580/upstart-error-cd-cant-cd-to-home"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1417968/cant-get-wifi-adapter-mt7601u-to-work-on-ubuntu-server-22-04-for-raspberry-pi-4"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1417966/how-to-copy-paste-text-from-input-box-using-pyperclip-in-ubuntu-22-04-and-python"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1417965/installing-ubuntu-22-04-alone-causes-no-boot-device-found-but-works-when-dual-bo"
+    },
+    {
+        "url": "https://askubuntu.com/questions/262225/command-line-not-working"
+    },
+    {
+        "url": "https://askubuntu.com/questions/262248/record-live-stream"
+    },
+    {
+        "url": "https://askubuntu.com/questions/262236/not-able-to-boot-ubuntu-12-04-after-installation-in-windows-7-pc"
+    },
+    {
+        "url": "https://askubuntu.com/questions/543198/trying-to-install-korean-hangul-input-lubuntu-14-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/543238/how-to-integrate-google-tasks-in-evolution-3-12"
+    },
+    {
+        "url": "https://askubuntu.com/questions/543232/slowness-and-instability-after-some-minutes-of-html-videos"
+    },
+    {
+        "url": "https://askubuntu.com/questions/543235/wont-proceed-beyond-login-screen-after-upgrading-from-14-04-to-14-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/543218/unable-to-access-a-drive"
+    },
+    {
+        "url": "https://askubuntu.com/questions/357004/how-to-select-apache2-during-phpmyadmin-installation-on-ubuntu-13-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/357005/how-to-recover-lost-google-chrome-icons-after-deletion-of-the-configuration"
+    },
+    {
+        "url": "https://askubuntu.com/questions/357001/etc-environment-line-2-path-no-such-file-or-directory"
+    },
+    {
+        "url": "https://askubuntu.com/questions/356998/something-wicked-happened-resolving-medibuntu-repository-what-happens"
+    },
+    {
+        "url": "https://askubuntu.com/questions/357002/get-my-app-having-a-kernel-module-accepted-by-the-review-process-of-the-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/356989/will-bf4-beta-work-with-13-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/356976/how-to-remove-and-prevent-libreoffice-ppa-and-updates-from-installing"
+    },
+    {
+        "url": "https://askubuntu.com/questions/356969/lamp-installation-error-unable-to-resolve-host"
+    },
+    {
+        "url": "https://askubuntu.com/questions/700843/dell-xps-13-2015-ubuntu-15-10-touchpad-freezes-after-suspend"
+    },
+    {
+        "url": "https://askubuntu.com/questions/700830/which-version-of-ubuntu-supports-my-card-how-do-i-install-the-closed-source-dr"
+    },
+    {
+        "url": "https://askubuntu.com/questions/558634/maas-not-recognizing-hp-logical-drives"
+    },
+    {
+        "url": "https://askubuntu.com/questions/301299/ubuntu-13-04-bluetooth-adapter-identified-but-cannot-detect-devices"
+    },
+    {
+        "url": "https://askubuntu.com/questions/325907/lubuntu-wont-load"
+    },
+    {
+        "url": "https://askubuntu.com/questions/301295/why-are-there-updates-pending-after-install-even-when-download-updates-during-i"
+    },
+    {
+        "url": "https://askubuntu.com/questions/301319/how-to-fix-messed-up-gui-when-installing-ubuntu-13-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/301308/any-application-open-causes-a-new-tab-in-ubuntu-12-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1398398/ionos-dedicated-ubuntu-pleask-server-not-reachable-dropping-network"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1398402/how-to-unistall-tauon-music-player"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1398392/ubuntu-20-04-lts-driver-intel-wi-fi-6e-ax211-160mhz"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1398394/error-attaching-device-00000207-0-to-dpdk"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1398395/change-default-directory-in-terminal-started-with-shortcut-but-not-in-visual-stu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1294456/ubuntu-20-04-noip-client"
+    },
+    {
+        "url": "https://askubuntu.com/questions/301305/activation-configuration-of-ttys0-ttys3"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1294452/how-do-i-recover-accidentally-deleted-usr-bin-ssh-copy-id"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1294446/is-the-gradle-version-in-ubuntu-20-04-modified-to-support-newer-java-versions"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1294448/i-cant-unplug-my-laptop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1294418/tap-to-click-with-second-finger"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443083/why-do-i-constantly-get-asked-to-close-snap-store-after-i-have-done-so-and-re"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443074/make-phone-calls-from-desktop-computer"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443080/how-to-control-when-daily-automatic-update-happens"
+    },
+    {
+        "url": "https://askubuntu.com/questions/798481/cant-install-popcorn-time"
+    },
+    {
+        "url": "https://askubuntu.com/questions/798476/firefox-menu-doesnt-work-few-html-elements-such-as-dropdown-list-dont-work-t"
+    },
+    {
+        "url": "https://askubuntu.com/questions/798459/overriding-samba-calls-to-unlink-and-unlinkat"
+    },
+    {
+        "url": "https://askubuntu.com/questions/798456/is-it-possible-to-upgrade-to-a-specific-lts-version"
+    },
+    {
+        "url": "https://askubuntu.com/questions/489483/installation-and-use-of-lapack-3-5-0-on-ubuntu-14-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/489482/change-the-unity-launcher-search-provider"
+    },
+    {
+        "url": "https://askubuntu.com/questions/664431/login-prompt-no-longer-on-external-display"
+    },
+    {
+        "url": "https://askubuntu.com/questions/664429/speaker-not-working-no-sound"
+    },
+    {
+        "url": "https://askubuntu.com/questions/664410/difference-between-mpg123-and-mpg123-alsa"
+    },
+    {
+        "url": "https://askubuntu.com/questions/664402/apt-get-install-fails-with-errors"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1508983/what-is-the-risk-of-disabling-secure-boot"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1508978/update-google-chrome-on-ubuntu-22-04-1"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1508959/recording-output-with-audacity"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1402285/how-to-remove-netplan-io-but-keep-ethernet"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1402279/could-dual-booting-have-been-the-cause-of-my-issues"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1402269/how-do-i-add-mozc-as-an-input-method-for-fctix-from-the-command-line"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1402264/cant-start-mysql"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1402266/ubuntu-20-04-how-to-ungroup-apps-in-dock"
+    },
+    {
+        "url": "https://askubuntu.com/questions/611398/ubuntu-touch-versions"
+    },
+    {
+        "url": "https://askubuntu.com/questions/611390/how-to-remove-this-leftover-from-pantheon-desktop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/611397/logitech-g520-in-wow"
+    },
+    {
+        "url": "https://askubuntu.com/questions/939727/unity-desktop-black-instead-of-unlock-screen"
+    },
+    {
+        "url": "https://askubuntu.com/questions/939688/usb-phillips-headphone"
+    },
+    {
+        "url": "https://askubuntu.com/questions/939679/installer-cannot-see-ssd"
+    },
+    {
+        "url": "https://askubuntu.com/questions/939677/ubuntu-16-04-rsync-via-ssh-prompts-me-for-password-how-to-make-it-a-cron-job"
+    },
+    {
+        "url": "https://askubuntu.com/questions/967965/how-do-i-check-whether-im-using-two-different-version-of-cmake"
+    },
+    {
+        "url": "https://askubuntu.com/questions/967950/synaptic-package-manager-interface-is-in-thai-language-how-do-i-change-it-to-en"
+    },
+    {
+        "url": "https://askubuntu.com/questions/967944/how-can-i-reproduce-the-error-package-needs-to-be-reinstalled-but-i-cant-f"
+    },
+    {
+        "url": "https://askubuntu.com/questions/967940/failed-to-start-login-service-after-upgrade-to-17-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/434075/how-to-change-window-opacity-dynamically-in-python-and-quickly"
+    },
+    {
+        "url": "https://askubuntu.com/questions/434066/how-to-transfer-music-and-files-from-ubuntu-13-10-to-android-4-3"
+    },
+    {
+        "url": "https://askubuntu.com/questions/162966/how-do-i-configure-the-gmail-notifier"
+    },
+    {
+        "url": "https://askubuntu.com/questions/162965/how-do-i-install-all-development-libraries"
+    },
+    {
+        "url": "https://askubuntu.com/questions/312737/from-where-ubuntu-one-music-store-gets-its-musics"
+    },
+    {
+        "url": "https://askubuntu.com/questions/312731/tunneling-x11vnc-through-ssh-on-a-non-standard-port-to-ubuntu-computer-tightvnc"
+    },
+    {
+        "url": "https://askubuntu.com/questions/677454/ubuntu-maas-raid-preseed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/677429/enable-crash-dumps-for-non-packaged"
+    },
+    {
+        "url": "https://askubuntu.com/questions/677412/is-is-possible-to-make-additional-fonts-available-only-for-one-application"
+    },
+    {
+        "url": "https://askubuntu.com/questions/677398/linux-alias-with-multiple-and-depending-commands-possible"
+    },
+    {
+        "url": "https://askubuntu.com/questions/677405/how-to-start-firefox-in-safemode"
+    },
+    {
+        "url": "https://askubuntu.com/questions/827095/unable-to-answer-meizu-pro5-phone"
+    },
+    {
+        "url": "https://askubuntu.com/questions/827089/shading-or-blending-issue-with-nvidia-geforce-gt-610"
+    },
+    {
+        "url": "https://askubuntu.com/questions/827082/verifying-ubuntu-on-windows-7-total-newbie"
+    },
+    {
+        "url": "https://askubuntu.com/questions/827066/pc-will-not-boot-ubuntu-or-boot-usb"
+    },
+    {
+        "url": "https://askubuntu.com/questions/827068/bash-ftp-501-port-address-does-not-match-originator"
+    },
+    {
+        "url": "https://askubuntu.com/questions/827062/why-dont-work-buttons-in-gnome-videos-totem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1267805/cant-install-ubuntu-20-04-lts-on-newly-built-pc"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1267799/grub2-just-cycles-the-startup-splash-screen"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1267784/disable-keyboard-lock-key"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1267793/how-to-rename-backup-files-using-its-backup-version-as-a-suffix-to-file-name-an"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1267779/try-wayland-on-20-04-live-usb"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1267795/how-can-i-count-the-number-of-public-keys-that-can-access-an-ssh-account"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1049075/partition-4-does-not-start-on-physical-sector-boundary"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1049076/18-04-kubuntu-kde-power-consumption-is-extremely-high-slowdown"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1049113/dual-boot-windows-with-ubuntu-first"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1049101/no-sound-card-detected"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1049098/nginx-wont-run-php-in-html"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814258/telling-git-to-ignore-files-that-end-with-in-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/457705/batch-files-renaming-w-filenames-shift"
+    },
+    {
+        "url": "https://askubuntu.com/questions/457704/wireless-issues-with-vaio-flip-14a"
+    },
+    {
+        "url": "https://askubuntu.com/questions/457744/how-to-transfer-money-from-my-developer-account"
+    },
+    {
+        "url": "https://askubuntu.com/questions/457731/best-way-to-back-up-entire-system-to-upgrade-to-larger-msata"
+    },
+    {
+        "url": "https://askubuntu.com/questions/483649/no-edid-whatsoever-how-can-i-force-output"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1032090/ubuntu-18-04-login-loop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/164985/installing-after-windows-7"
+    },
+    {
+        "url": "https://askubuntu.com/questions/164960/when-and-how-is-it-safe-to-perform-a-system-update"
+    },
+    {
+        "url": "https://askubuntu.com/questions/164968/ubuntu-12-04-on-dell-latitude-d610-along-with-windows-7"
+    },
+    {
+        "url": "https://askubuntu.com/questions/164941/why-removing-gnome-core-does-not-remove-all-of-its-dependencies"
+    },
+    {
+        "url": "https://askubuntu.com/questions/164944/how-to-install-applications-in-sandbox"
+    },
+    {
+        "url": "https://askubuntu.com/questions/448350/why-dpkg-s-var-lib-dpkg-shows-base-files-dpkg"
+    },
+    {
+        "url": "https://askubuntu.com/questions/448344/how-do-i-install-ubuntu-on-a-pc-that-has-lubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/448341/ubuntu-13-10-to-lg-tv-via-hdmi"
+    },
+    {
+        "url": "https://askubuntu.com/questions/630626/cant-add-remove-packages-post-install-fails"
+    },
+    {
+        "url": "https://askubuntu.com/questions/630625/question-with-connecting-to-docker-container-on-virtualized-ubuntu-server"
+    },
+    {
+        "url": "https://askubuntu.com/questions/630624/unable-to-play-last-tracks-of-mp3-cd"
+    },
+    {
+        "url": "https://askubuntu.com/questions/630598/terminal-and-python-console-isnt-showing-bangla"
+    },
+    {
+        "url": "https://askubuntu.com/questions/291925/how-do-i-shut-down-x-in-order-to-install-nvidia-drivers-looking-to-install-gl-h"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1417981/im-dual-booting-ubuntu-and-macos-can-i-access-my-mac-files-on-ubuntu-and-vice"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1417988/ubuntu-chromium-saves-passwords-but-does-not-recall-them-these-passwords-are-ac"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1417994/why-are-sudo-privileges-lost-running-install-script-for-cli"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1417983/ap-also-acting-as-server-in-a-local-network"
+    },
+    {
+        "url": "https://askubuntu.com/questions/802369/i-need-to-make-a-usb-port-to-be-dumb-to-any-devices-newly-connected"
+    },
+    {
+        "url": "https://askubuntu.com/questions/802360/how-to-fix-vertical-panel-text-and-indicator-plugins-in-xubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/802357/usb-not-found-in-gparted"
+    },
+    {
+        "url": "https://askubuntu.com/questions/802353/erratic-scrollwheel-behavior-scrolling-moves-page-randomly-top-or-down"
+    },
+    {
+        "url": "https://askubuntu.com/questions/802366/spotify-causes-system-ui-freeze"
+    },
+    {
+        "url": "https://askubuntu.com/questions/802352/reinstalling-grub2-from-an-ubuntu-live-usb"
+    },
+    {
+        "url": "https://askubuntu.com/questions/802351/autofs-fails-with-directories-cross-mounted-on-server-until-root-accesses-them"
+    },
+    {
+        "url": "https://askubuntu.com/questions/802340/why-doesnt-a-systemd-nspawn-server-restart-after-reboot-or-crash"
+    },
+    {
+        "url": "https://askubuntu.com/questions/802339/cannot-get-into-bios-or-boot-from-disk-on-samsung-np300-laptop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/802331/installing-mongodb-on-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/802323/need-for-speed-most-wanted-not-working-after-update-from-ubuntu-14-04-to-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/802326/how-can-i-move-my-extended-swap-partition"
+    },
+    {
+        "url": "https://askubuntu.com/questions/979293/docker-ce-post-installation-subprocess-never-finishes"
+    },
+    {
+        "url": "https://askubuntu.com/questions/979266/in-ubuntu-17-10-how-can-i-add-entries-to-the-right-click-context-menu-like-op"
+    },
+    {
+        "url": "https://askubuntu.com/questions/979280/upgrade-to-17-10-breaks-phpmyadmin-configuration"
+    },
+    {
+        "url": "https://askubuntu.com/questions/979278/how-to-install-gnome-shell-extension-gnome-global-application-menu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/262056/how-do-i-choose-which-display-shows-full-screen-modes"
+    },
+    {
+        "url": "https://askubuntu.com/questions/262048/run-ubuntu-without-monitor-in-12-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/262066/gedit-not-found-on-launchbar-when-i-minimize-ubuntu-12-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/262044/how-to-avoid-in-the-task-bar-other-workspace-application-icons"
+    },
+    {
+        "url": "https://askubuntu.com/questions/240297/rearranging-indicators-dropbox-clementine-and-recent-notifications"
+    },
+    {
+        "url": "https://askubuntu.com/questions/240293/my-laptop-only-boots-with-the-acpi-off-parameter-how-can-i-fix-this"
+    },
+    {
+        "url": "https://askubuntu.com/questions/240285/is-there-no-support-for-microphone-recording-in-flash-player-for-linux"
+    },
+    {
+        "url": "https://askubuntu.com/questions/240284/how-to-run-ctags"
+    },
+    {
+        "url": "https://askubuntu.com/questions/240263/glitching-and-delayed-output-when-recording-pulseaudio-loopback"
+    },
+    {
+        "url": "https://askubuntu.com/questions/240266/installed-from-iso"
+    },
+    {
+        "url": "https://askubuntu.com/questions/240261/cant-load-grub-all-of-a-sudden-uefi-problem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/774145/error-while-updating-and-installing-a-package-in-ubuntu-server-14-04-lts"
+    },
+    {
+        "url": "https://askubuntu.com/questions/774147/how-to-fetch-binaries-a-package-will-install"
+    },
+    {
+        "url": "https://askubuntu.com/questions/774138/how-to-copy-system-with-systemback-of-persistent-live-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/823805/where-is-graphic-driver-installed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/823806/ssd-partitioning-120gb"
+    },
+    {
+        "url": "https://askubuntu.com/questions/823835/how-to-play-videos-on-lynda-com"
+    },
+    {
+        "url": "https://askubuntu.com/questions/823828/encountering-xlib-extension-nv-glx-missing-on-display-0-when-using-zed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/823822/installing-oracle-jdk-from-webupd8-ppa"
+    },
+    {
+        "url": "https://askubuntu.com/questions/823808/how-to-edit-and-install-pre-installed-ambiance-theme-without-unity-tweak-tool"
+    },
+    {
+        "url": "https://askubuntu.com/questions/823817/creating-directory-in-ftp-server-using-ncftp-command-from-ubuntu-terminal"
+    },
+    {
+        "url": "https://askubuntu.com/questions/358735/ubuntu-10-04lts-lucid-lynx-hard-disk-back-up"
+    },
+    {
+        "url": "https://askubuntu.com/questions/358714/cant-redirect-standard-output"
+    },
+    {
+        "url": "https://askubuntu.com/questions/358685/partition-problems-hdd-seen-twice"
+    },
+    {
+        "url": "https://askubuntu.com/questions/358686/booting-off-a-usb-drive"
+    },
+    {
+        "url": "https://askubuntu.com/questions/358717/back-up-a-12-04-system-then-upgrade-to-13-04-using-a-liveusb-then-restore-back"
+    },
+    {
+        "url": "https://askubuntu.com/questions/358697/cannot-recognize-wired-or-wireless-connection"
+    },
+    {
+        "url": "https://askubuntu.com/questions/358702/is-there-a-way-to-blank-2-of-3-monitors-with-a-shortcut-or-hotkey-and-leave-prim"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1279799/forgot-to-add-purge-to-autoremove-will-there-be-any-residues"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1279852/installed-ubuntu-20-04-lts-and-now-computer-always-boots-to-grub-prompt"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1279849/ubuntu-purple-screen-after-grub"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1562407/how-do-i-recreate-a-bootable-iso-after-making-changes-to-its-extracted-files"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1279824/how-to-reset-an-openconnect-networkmanager-pinned-certificate"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1279809/prevent-usr-lib-xorg-xorg-from-using-gpu-memory-in-ubuntu-20-04-server"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1042563/evolution-mail-client-does-it-have-copy-sent-to-current-like-tbs-plugin"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1042555/chmod-400-not-working-trying-to-ssh-to-amazon-instance"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1042553/ubuntu-oauth-client"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1042551/user-creation-remote-logging"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1042581/make-a-program-ignore-bashrc"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1042569/reading-from-a-usb"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1042568/where-are-folder-view-desktop-settings-files-located-on-kubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1042573/how-to-login-as-admin-user-or-reset-admin-user-password-when-laptop-keypad-and-e"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1042565/removing-alsa-module-from-kernel-saying-module-is-in-use"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1042564/after-installing-ubuntu-18-04-lts-using-usb-i-can-t-see-my-hard-disk-it-is-not"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1262922/network-issues-after-enabling-ipv6-on-the-router"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1262919/how-to-change-os-name-in-ubuntu-20-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/117664/how-to-play-a-3d-video-properly"
+    },
+    {
+        "url": "https://askubuntu.com/questions/117635/how-to-install-suggested-packages-in-apt-get"
+    },
+    {
+        "url": "https://askubuntu.com/questions/117644/error-while-opening-network-in-nautilus"
+    },
+    {
+        "url": "https://askubuntu.com/questions/117634/how-to-edit-quicklist-for-a-mounted-device-in-the-launcher"
+    },
+    {
+        "url": "https://askubuntu.com/questions/117631/how-to-create-init-d-startup-script"
+    },
+    {
+        "url": "https://askubuntu.com/questions/220877/is-there-a-text-editor-for-html-files-that-actually-breaks-down-the-content-of-t"
+    },
+    {
+        "url": "https://askubuntu.com/questions/220871/eclipse-not-running-after-upgrading-to-oracle-jdk-1-7"
+    },
+    {
+        "url": "https://askubuntu.com/questions/220872/problem-in-repairing-software-center"
+    },
+    {
+        "url": "https://askubuntu.com/questions/220851/how-can-i-remove-ubuntu-12-04-completly-from-my-system"
+    },
+    {
+        "url": "https://askubuntu.com/questions/220861/how-do-i-create-a-vpn-over-another-vpn"
+    },
+    {
+        "url": "https://askubuntu.com/questions/220849/12-10-gpu-lockup"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1410538/installation-errors-after-upgrading-to-22-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1410509/getting-top-bar-black-screen-when-changing-refresh-rate-dual-boot-with-windows"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1410495/ubuntu22-04-bluetooth-connectivity-issue"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1410515/how-to-invoke-fvwm-crystal-on-ubuntu-22-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1465781/installing-ubuntu-on-two-drives-ssd-and-hdd"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1465785/raspberry-pi-not-booting-from-updated-kernel-running-ubuntu-20-04-how-to-switch"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1465783/slow-wifi-and-disconnections-after-updating-ubuntu-22-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1465764/ubuntu-22-04-is-not-directing-to-the-main-desktop-screen-after-starting-up"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1465766/how-to-limit-tar-process-to-not-utilize-io-at-max"
+    },
+    {
+        "url": "https://askubuntu.com/questions/815008/ubuntu-14-04-is-not-recognizing-my-wacom-cintiq-13hd-anymore-after-latest-update"
+    },
+    {
+        "url": "https://askubuntu.com/questions/815007/dell-inspiron-580-erratic-cpu-fan-speed-after-version-advancement"
+    },
+    {
+        "url": "https://askubuntu.com/questions/815002/kernel-did-not-upgrade-between-14-04-lts-to-16-04-lts"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814995/ubuntu-crashes-where-can-i-look-for-the-cause"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814996/how-to-escape-a-quote-in-postgresql-command"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814982/shaswatubuntults-desktop-need-to-know-about-the-symbols-here"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814976/shutdown-target-in-conflict-with-other-services-at-the-boot-process"
+    },
+    {
+        "url": "https://askubuntu.com/questions/815003/compose-key-not-working-on-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443950/cifs-fails-to-mount-windows-server-share-duplicate-cookie-detected"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443954/trying-to-make-keyboard%c2%b4s-shortcut-for-lubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240113/im-trying-to-install-ubuntu-20-04-but-i-keep-getting-errno-5"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240143/ubuntu-on-surface-laptop-2-keyboard-issues"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240152/boot-freezes-and-loading-initial-ramdisk"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240142/open-anaconda-python-with-a-script"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240140/how-much-can-i-compile-the-open-source-code-of-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240134/sane-find-scanner-could-not-open-usb-device-access-denied-running-ubunt"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240131/how-can-i-receive-files-using-bluedevil"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240130/what-is-this-gpucache-folder-that-suddenly-appears-in-the-home-directory"
+    },
+    {
+        "url": "https://askubuntu.com/questions/867456/restrict-to-ping-pc-from-remote-pc"
+    },
+    {
+        "url": "https://askubuntu.com/questions/867455/some-time-ntfs-partitions-cant-open-in-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/867450/recursively-search-a-pattern-text-only-in-the-specified-file-name-of-a-directory"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814974/cadence-cant-start-alsa-pulseaudio-jack-plugin-bridge"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814970/apt-get-update-difficulties-with-the-key-or-signature-16126d3a3e5c1192"
+    },
+    {
+        "url": "https://askubuntu.com/questions/814966/list-of-packages-filtered-by-last-update-period"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443894/is-it-possible-to-configure-apt-so-that-the-output-of-apt-update-does-not-list-k"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443943/wrong-battery-levels-getting-shown-in-ubuntu-22-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443931/installing-cuda-python-in-ubuntu-22-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443927/maximize-and-restore-button-not-visible-in-wsl-gui-window"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443913/ethernet-and-wifi-not-working-on-ubuntu-20-04-4"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443925/connect-to-openvpn-server-from-ubuntu-22-04-1-lts"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443902/file-not-found-even-though-it-exists-eset-endpoint-antivirus-activation-proble"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443900/how-to-split-combine-3-hdmi-audios-to-front-left-front-cetner-front-right"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240117/how-to-capture-infrared-stream-from-webcam-using-ffmpeg"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240129/protoc-command-show-missing-input-file"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240126/dualboot-ubuntu-20-04-with-windows-10-on-ssd-and-data-on-hdd"
+    },
+    {
+        "url": "https://askubuntu.com/questions/867413/why-do-i-get-an-error-message-using-sudo-apt-get-update"
+    },
+    {
+        "url": "https://askubuntu.com/questions/867448/how-to-add-a-path-to-manpath-config-without-changing-the-system-setting"
+    },
+    {
+        "url": "https://askubuntu.com/questions/867416/are-there-differences-between-cli-and-tui"
+    },
+    {
+        "url": "https://askubuntu.com/questions/867439/ec2-instance-disk-partition"
+    },
+    {
+        "url": "https://askubuntu.com/questions/867435/is-there-some-index-of-ubuntu-architecture-version-number-combinations"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443947/what-does-the-symbol-mean-when-in-front-of-a-directory-e-g-home"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443959/running-scripts-on-startup"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443944/converting-webvtt-vtt-to-vobsub-idx-sub"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240114/how-can-i-get-ubuntu-20-04-to-boot-on-threadripper-3990x"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443896/how-to-install-grub-2-on-a-fresh-disk-to-boot-from-a-different-uefi-file-for-mem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240161/switch-user-not-working-ubuntu-16-04-lts"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240154/how-to-install-wicd-on-ubuntu-20-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1443961/computer-refuses-to-accept-wifi-password-sometimes"
+    },
+    {
+        "url": "https://askubuntu.com/questions/815005/gnome-screenshot-sometimes-shots-an-image-from-the-past"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1240123/how-to-enable-the-hibernate-option-in-ubuntu-20-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/867422/w-the-repository-http-download-fpcomplete-com-ubuntu-yakkety-release-is-not"
+    },
+    {
+        "url": "https://askubuntu.com/questions/867427/mount-point-0-is-not-valid-path-ignoring-and-cryptoswap1-swap8-not-an-absolute"
+    },
+    {
+        "url": "https://askubuntu.com/questions/867424/how-to-find-out-the-credentials-of-a-gvfs-share-mount"
+    },
+    {
+        "url": "https://askubuntu.com/questions/80601/how-to-enable-3d-acceleration-under-vmware-workstation-8"
+    },
+    {
+        "url": "https://askubuntu.com/questions/80605/is-there-a-better-way-to-run-ubuntu-from-usb-disk"
+    },
+    {
+        "url": "https://askubuntu.com/questions/80623/how-to-disable-altclick-from-moving-windows-in-unity-2d"
+    },
+    {
+        "url": "https://askubuntu.com/questions/80604/safety-of-installing-ubuntu-alongside-windows"
+    },
+    {
+        "url": "https://askubuntu.com/questions/80612/is-there-a-way-to-configure-the-super-w-effect"
+    },
+    {
+        "url": "https://askubuntu.com/questions/128309/how-to-use-ubuntu-server-full-screen-in-virtualbox"
+    },
+    {
+        "url": "https://askubuntu.com/questions/80589/what-are-some-of-the-issues-with-ccsm-and-why-would-i-want-to-avoid-it"
+    },
+    {
+        "url": "https://askubuntu.com/questions/80581/i-need-to-grant-permission-to-my-export-directory-to-write-to-webserver-but-i-d"
+    },
+    {
+        "url": "https://askubuntu.com/questions/128370/difference-between-purge-and-dpkg-p"
+    },
+    {
+        "url": "https://askubuntu.com/questions/128367/after-update-to-12-04-lts-64bit-i-got-an-update-that-i-cannot-install-multi-ar"
+    },
+    {
+        "url": "https://askubuntu.com/questions/128369/sudo-apt-get-update-error-on-ubuntu-12-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/128336/wireless-not-working-anymore-on-acer-aspire-6930g-when-i-upgraded-to-12-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/128333/can-not-change-default-save-directory-for-gnome-screenshot"
+    },
+    {
+        "url": "https://askubuntu.com/questions/128323/proposed-updates-on-10-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/128327/how-do-i-get-a-pretty-top-bar"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432465/how-do-i-profile-and-possibly-control-demands-on-my-gpu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432448/eclipse-kepler-wont-start"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432447/windows-7-ubuntu-dual-boot-with-shared-data-partition"
+    },
+    {
+        "url": "https://askubuntu.com/questions/507038/can-i-use-a-bash-variable-in-a-sed-command"
+    },
+    {
+        "url": "https://askubuntu.com/questions/507040/invoke-rc-d-initscript-freeradius-action-force-reload-failed-while-config"
+    },
+    {
+        "url": "https://askubuntu.com/questions/80598/how-can-i-install-photoshop-cs5"
+    },
+    {
+        "url": "https://askubuntu.com/questions/80592/how-do-i-install-tar-bz2-and-gz-files"
+    },
+    {
+        "url": "https://askubuntu.com/questions/80600/how-to-configure-clicking-a-launcher-icon-minimizes-all-related-apps"
+    },
+    {
+        "url": "https://askubuntu.com/questions/507042/couldnot-find-other-computer-on-locally-connected-area"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432453/copy-paste-produces-wrong-codepage-characters"
+    },
+    {
+        "url": "https://askubuntu.com/questions/80620/how-to-open-ole2-file-format-document"
+    },
+    {
+        "url": "https://askubuntu.com/questions/80615/am-i-able-to-set-unitys-dash-full-screen-as-default"
+    },
+    {
+        "url": "https://askubuntu.com/questions/80583/lightdm-resolution-when-using-two-monitors"
+    },
+    {
+        "url": "https://askubuntu.com/questions/80624/random-kubuntu-freeze-up"
+    },
+    {
+        "url": "https://askubuntu.com/questions/867429/emacs-keybinding-customization"
+    },
+    {
+        "url": "https://askubuntu.com/questions/867418/how-to-increase-root-partition-size"
+    },
+    {
+        "url": "https://askubuntu.com/questions/853481/what-is-this-slide-bar-in-gnome"
+    },
+    {
+        "url": "https://askubuntu.com/questions/853478/version-16-10-can-identify-printer-but-unable-to-print"
+    },
+    {
+        "url": "https://askubuntu.com/questions/853479/moving-opera-to-a-new-computer"
+    },
+    {
+        "url": "https://askubuntu.com/questions/853465/configuring-network-connection-on-vmware-running-ubuntu-on-window10-host-machine"
+    },
+    {
+        "url": "https://askubuntu.com/questions/853464/inkscape-for-dummies"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432446/how-to-build-an-arm-linaro-image-in-ubuntu-13-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/507034/node-js-project"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432436/tsql-connection-refused-host-command-dns-resolve-issue-in-local-network"
+    },
+    {
+        "url": "https://askubuntu.com/questions/507025/nginx-and-php5-fpm-not-working"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432438/is-there-a-way-to-get-smarty-syntax-highlight-in-gedit"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432420/recursively-copy-and-rename-files-to-their-own-same-directory-with-another-nam"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432416/how-to-allow-writing-locally-on-read-only-nfs-partition"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432411/what-will-happen-with-ubuntu-if-i-reinstall-windows-8-1"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432407/permission-on-shared-folder-are-correct-but-files-cant-be-saved"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432403/problems-with-recompiling-swish"
+    },
+    {
+        "url": "https://askubuntu.com/questions/507010/error-must-set-personality-to-get-x-option"
+    },
+    {
+        "url": "https://askubuntu.com/questions/507008/black-screen-on-bootup"
+    },
+    {
+        "url": "https://askubuntu.com/questions/507012/hl-1110-xml-paper-brother-printer-does-not-install-on-ubuntu-14-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432401/my-ubuntu-12-04-installation-hangs-after-preparing-to-install-ubuntu-what-can"
+    },
+    {
+        "url": "https://askubuntu.com/questions/507007/unable-to-install14-04-on-toshiba-satellite-l40d-b"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432389/acx-111-driver-problems-on-ubuntu-server-12-04-4"
+    },
+    {
+        "url": "https://askubuntu.com/questions/507001/verifying-certificates-signed-by-intermediate-ca"
+    },
+    {
+        "url": "https://askubuntu.com/questions/506997/which-command-gets-run-when-i-press-the-f1-key"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705304/how-to-switch-to-external-monitor-or-clone-main-one-while-main-one-is-broken"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705310/blank-screen-with-blinking-underscore-when-trying-to-install-ubuntu-from-usb"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342065/activation-of-network-connection-failed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342064/why-cant-ubuntu-find-the-gimp-graphics-editor-theme-files"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342055/gci-and-lc-server-not-working-ubuntu-server-20-04-on-raspberry-4-8gb"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342052/discord-calls-will-make-ubuntu-laggy"
+    },
+    {
+        "url": "https://askubuntu.com/questions/507015/gedit-automatic-session-saving"
+    },
+    {
+        "url": "https://askubuntu.com/questions/507021/ubuntu-14-04-crashes-on-resuming-from-suspend"
+    },
+    {
+        "url": "https://askubuntu.com/questions/432400/apache-restart-after-updating-php-pages"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705268/how-do-i-resolve-broken-dependancies-and-install-clementine"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705262/swap-a-module-at-boot"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705258/kvm-vm-not-working"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705244/testdisk-brings-back-empty-folders-that-take-up-space"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705251/location-of-the-setting-file-of-indicator-multiload"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705243/nginx-uwsgi-internal-server-error-500-http-uwsgi-header-connection-close"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342044/how-to-connect-to-a-server-via-2-jump-host-servers-for-ssh-and-file-transferr"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342048/crontab-scripts-stops-after-device-is-opened-from-suspend"
+    },
+    {
+        "url": "https://askubuntu.com/questions/507013/windows-8-1-changes-boot-order"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342058/no-apps-open-after-switching-to-wayland"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342049/ubuntu-20-4-cache-tracker-is-taking-my-space"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342057/unable-to-correct-problems-defective-packets-are-in-keep-as-is-mode-when-i-t"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342061/mouse-cursor-freezes-sometimes-after-dell-has-been-asleep"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342060/formatting-pen-drive"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342063/trying-to-use-mysqldump-and-cron-on-one-db-with-password"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705278/ripping-wii-games-in-ubuntu-14-04-lts"
+    },
+    {
+        "url": "https://askubuntu.com/questions/507006/when-i-open-a-terminal-session-it-shows-how-can-i-solve-it"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705271/is-this-because-of-a-new-version-of-whois-or-should-i-try-out-matriz-for-ipv6-i"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705293/ubuntu-desktop-next-has-gone-how-do-i-install-64-bit-ubuntu-touch"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705285/when-i-install-ubuntu-what-will-happen-to-my-files-and-programs"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705288/is-there-any-difference-between-the-shutdown-option-and-cli-shutdown"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342050/unable-to-login-enter-key-not-working"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342043/fatal-error-both-lib-udev-hwdb-bin-and-usr-lib-udev-hwdb-bin-exist"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1342034/session-crashes-when-unplugging-usb-c-hub-with-hdmi-monitor"
+    },
+    {
+        "url": "https://askubuntu.com/questions/686205/delete-ubuntu-entry-in-boot-device-options-in-bios"
+    },
+    {
+        "url": "https://askubuntu.com/questions/686211/lyx-layoutfile-cpp-171-layoutfilelistread-no-textclasses-found-in-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82270/how-to-improve-the-sound-when-using-skype-2-2-0-35-on-10-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82266/how-do-i-keep-the-thunderbird-profile-in-sync-between-multiple-computers"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82274/hp-530-wireless-problem-bad-communication-with-access-point"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82249/activity-log-manager-is-not-preventing-zeitgeist-from-logging-files"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1040293/flatpak-applications-use-nautilus-instead-of-dolphin"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1040294/allow-unsigned-repository-installation-in-ubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1040288/why-does-ubuntu-change-mount-point"
+    },
+    {
+        "url": "https://askubuntu.com/questions/686239/how-do-i-check-the-version-of-ubuntu-i-am-running"
+    },
+    {
+        "url": "https://askubuntu.com/questions/686232/virtualbox-options-to-resize-window-now-showing"
+    },
+    {
+        "url": "https://askubuntu.com/questions/686214/how-do-i-get-a-steam-controller-working"
+    },
+    {
+        "url": "https://askubuntu.com/questions/686223/how-can-i-configure-gateway-in-remmina-ui"
+    },
+    {
+        "url": "https://askubuntu.com/questions/145950/can-not-put-a-animated-background-on-ubuntu-10-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/145952/12-04-ubuntu-studio-preempt-rt-kernel-options"
+    },
+    {
+        "url": "https://askubuntu.com/questions/686198/imac-5-1-late-2006-ubuntu-installation"
+    },
+    {
+        "url": "https://askubuntu.com/questions/846047/how-to-fix-battery-problems-in-ubuntu-16-04-acer-laptop-with-940-mx"
+    },
+    {
+        "url": "https://askubuntu.com/questions/846042/libavcodec-dev-package-missing"
+    },
+    {
+        "url": "https://askubuntu.com/questions/846041/i-am-trying-to-install-a-netgear-wna3100-usb-adaptor"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82258/commandline-email-to-internal-web-mail-server"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82256/can-i-install-ubuntu-on-a-lenovo-e520-1143"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82255/how-do-i-permanently-enable-mobile-broadband-on-boot"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82234/local-user-logging-when-centrify-express-installed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82236/how-do-i-un-zoom-compiz"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1040279/wireless-keyboard-not-working-with-ubuntu-18-04-live-usb"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1040256/cisco-anyconnect-is-there-anyway-to-save-password-username-and-vpn-address"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1040266/xorg-freezing-ubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/145963/alsamixer-is-not-loaded"
+    },
+    {
+        "url": "https://askubuntu.com/questions/145965/how-do-i-target-a-specific-driver-for-libata-kernel-parameter-modding"
+    },
+    {
+        "url": "https://askubuntu.com/questions/846036/dell-5558-is-preloaded-with-ubuntu-14-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/846050/connection-to-internet-successful-however-no-browsers-will-load-pages"
+    },
+    {
+        "url": "https://askubuntu.com/questions/846058/ubuntu-16-04-wifi-hard-blocked-in-acer-es1-521-laptop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/846040/bash-expression-type"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82257/which-programming-language-suits-a-system-that-must-work-without-user-input"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82273/single-instance-of-the-gnome-terminal"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82264/find-in-files-from-nautiluss-context-menu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705295/how-do-i-fix-a-black-screen-when-boot-from-usb"
+    },
+    {
+        "url": "https://askubuntu.com/questions/686251/game-isnt-running-full-screen-wine"
+    },
+    {
+        "url": "https://askubuntu.com/questions/686246/skype-full-screen-video-call-with-2-side-black-bars-how-to-fill-all-the-screen"
+    },
+    {
+        "url": "https://askubuntu.com/questions/686245/can-i-install-ubuntu-as-a-second-operating-system-on-an-empty-second-partition-w"
+    },
+    {
+        "url": "https://askubuntu.com/questions/686236/foolproof-ish-linux-for-total-antigeeks"
+    },
+    {
+        "url": "https://askubuntu.com/questions/145945/ssh-programs-terminates-when-closed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/686208/oibaf-install-disables-wifi"
+    },
+    {
+        "url": "https://askubuntu.com/questions/686227/force-xrandr-1-4-usage"
+    },
+    {
+        "url": "https://askubuntu.com/questions/145954/run-mysql-queries-in-ubuntu-10-04-shell-cmd-stored-in-a-files-desc-order-by-f"
+    },
+    {
+        "url": "https://askubuntu.com/questions/145962/bastion-on-ubuntu-12-04-64-bit-gives-only-a-black-screen"
+    },
+    {
+        "url": "https://askubuntu.com/questions/145961/how-to-autoconnect-to-ethernet-network-when-restarting"
+    },
+    {
+        "url": "https://askubuntu.com/questions/846049/how-to-set-default-home-music-folder-in-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/846057/how-to-provide-more-up-to-date-versions-of-existing-ubuntu-software-for-a-lower"
+    },
+    {
+        "url": "https://askubuntu.com/questions/846034/ubuntu-16-10-login-loop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1040285/is-there-a-way-to-display-an-icon-only-while-my-script-is-running"
+    },
+    {
+        "url": "https://askubuntu.com/questions/705301/does-anybody-know-if-other-distros-are-capable-of-overwriting-existing-oss"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1040277/ubuntu-hyper-v-vm-production-checkpoints-suddenly-failing"
+    },
+    {
+        "url": "https://askubuntu.com/questions/846030/how-to-set-keyboard-repeat-delay-and-speed-in-ubuntu-gnome-16-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/145953/how-do-i-replace-the-following-missing-files"
+    },
+    {
+        "url": "https://askubuntu.com/questions/145942/cannot-play-vtc-video-file-mov-using-vlc-player"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1040241/replacing-os-x-with-ubuntu-on-an-old-mac"
+    },
+    {
+        "url": "https://askubuntu.com/questions/846059/sound-card-not-detected-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1040231/no-touchpad-with-acpi-off-cant-reboot-turnoff-logout-with-acpi"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1040235/after-unlocking-my-sleeping-multi-screen-display-some-of-my-windows-have-moved"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1040230/how-can-i-update-from-qt-5-5-1-in-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1378712/problem-with-trying-to-install-dual-boot-windows-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1378706/cannot-write-long-output-to-file"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1378699/can-i-override-the-lvm-volume-group-name-using-storage-layout-in-the-autoinstal"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1378697/is-it-possible-to-restrict-a-regular-expression-to-a-given-number-of-characters"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1378694/nvidia-drivers-stooped-working-on-update-20-04-3"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1378691/letting-ubuntu-boot-even-with-a-failed-harddisk"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1378688/i-cannot-listen-to-both-spotify-and-zoom-at-the-same-time"
+    },
+    {
+        "url": "https://askubuntu.com/questions/804934/how-to-start-gimp-png-with-brightness-contrast-controllers"
+    },
+    {
+        "url": "https://askubuntu.com/questions/804899/16-04-1-lts-glibcxx-3-4-21-not-defined"
+    },
+    {
+        "url": "https://askubuntu.com/questions/804920/upgraded-from-14-04-to-16-04-desktop-wont-wake-up-with-mouse"
+    },
+    {
+        "url": "https://askubuntu.com/questions/804918/how-to-filter-out-errors-in-ubunty-system-log-files"
+    },
+    {
+        "url": "https://askubuntu.com/questions/57661/kernel-module-nvidia-with-bumblebee"
+    },
+    {
+        "url": "https://askubuntu.com/questions/57633/ubuntu-one-does-not-sync-firewall-settings"
+    },
+    {
+        "url": "https://askubuntu.com/questions/804905/how-can-i-prevent-my-external-hard-drive-from-automatically-power%c3%adng-on-right-af"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1040238/openstack-devstack-installation-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1040244/cannot-move-window-to-another-workspace-ubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/846061/boot-ubuntu-in-command-line-without-loading-graphics-drivers"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1378677/creating-a-file-that-will-open-another-file-in-vs-code-when-it-is-double-clicked"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1378665/libopencv-dev-and-dependencies-could-not-be-installed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/804936/new-hardware-system-does-not-boot-anymore-how-to-reset-systemd-udev"
+    },
+    {
+        "url": "https://askubuntu.com/questions/804941/how-to-get-phone-memory-in-ubuntu-terminal"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1378661/everything-says-my-disk-is-full"
+    },
+    {
+        "url": "https://askubuntu.com/questions/804926/how-do-i-make-text-file-show-its-text-on-the-icon"
+    },
+    {
+        "url": "https://askubuntu.com/questions/804929/ubuntu-luks-volume-group-vgcrypt-not-found-drop-to-busybox"
+    },
+    {
+        "url": "https://askubuntu.com/questions/57602/how-do-i-enable-ati-radeon-9200-drivers-so-i-can-use-unity"
+    },
+    {
+        "url": "https://askubuntu.com/questions/804923/permissions-issue-with-all-directories"
+    },
+    {
+        "url": "https://askubuntu.com/questions/57656/how-do-i-set-up-grub-in-a-usb-to-boot-into-an-img"
+    },
+    {
+        "url": "https://askubuntu.com/questions/459225/downloading-ubuntu-onto-a-dvd-r"
+    },
+    {
+        "url": "https://askubuntu.com/questions/459247/how-to-remove-build-essential-manually-when-it-is-part-of-another-package"
+    },
+    {
+        "url": "https://askubuntu.com/questions/459240/how-do-i-install-video-drivers-for-my-radeon-hd-6450"
+    },
+    {
+        "url": "https://askubuntu.com/questions/459219/how-do-i-test-wine"
+    },
+    {
+        "url": "https://askubuntu.com/questions/459243/arrow-keys-not-working-in-grub"
+    },
+    {
+        "url": "https://askubuntu.com/questions/459218/boot-back-to-windows"
+    },
+    {
+        "url": "https://askubuntu.com/questions/459246/what-is-the-short-cut-key-for-command-line-auto-complete"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82286/thomson-tg782t-adsl2-modem-loses-network-connection"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82190/customizing-unity-launcher-with-launcher-qml"
+    },
+    {
+        "url": "https://askubuntu.com/questions/82214/how-can-i-change-display-resolution-on-an-gma-900"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1475716/how-to-set-which-hdmi-dp-port-used-to-play-audio"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1475753/rsync-creating-duplicate-files"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1475735/check-grub-disable-os-prober"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1475729/ethernet-connection-not-available-on-ubuntu-22-04-2-lts-dual-boot-setup"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1475727/why-ports-added-to-firewall-are-still-closed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/454381/does-ubuntu-phone-support-rtc-alarm"
+    },
+    {
+        "url": "https://askubuntu.com/questions/454378/set-up-openvpn-mullvad"
+    },
+    {
+        "url": "https://askubuntu.com/questions/454355/cannot-connect-to-home-wireless-after-upgrading-to-14-04-from-13-10-still-able"
+    },
+    {
+        "url": "https://askubuntu.com/questions/454354/bumblebee-running-on-nvidia-does-not-increase-performance"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1475711/how-do-i-use-the-user-namespace-sandbox"
+    },
+    {
+        "url": "https://askubuntu.com/questions/454374/receiving-obscure-data-after-upgrade-to-14-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/454364/lubuntu-12-04-wont-boot-after-install"
+    },
+    {
+        "url": "https://askubuntu.com/questions/454345/is-it-possible-to-upgrade-from-13-10-to-14-04-over-ftp"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1149144/curl-doesnt-work-within-a-proxy-307-authorization-required"
+    },
+    {
+        "url": "https://askubuntu.com/questions/454361/font-in-intellij-idea-on-ubuntu-14-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/454377/unable-to-print-on-network-printer-ricoh-aficio-mp-c3001-on-ubuntu-14-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1149143/opencv-says-module-object-has-no-attribute-face"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1149118/new-restart-error-authentication-is-required-for-rebooting-the-system-while-an"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1149123/gdm-login-screen-background-change-problem-ubuntu-18-04-lts"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1149117/tp-link-ac600-archer-t2u-nano-driver-for-ubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1149129/happy-with-18-04-except-for-suspend-behaviour-should-i-update-to-18-1019-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/104848/how-can-i-see-a-folders-exact-size-in-bytes"
+    },
+    {
+        "url": "https://askubuntu.com/questions/104825/cant-find-the-logoutshutdown-menu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/104840/adding-directory-to-path-various-ways-and-differences"
+    },
+    {
+        "url": "https://askubuntu.com/questions/104834/set-up-a-vpn-route-samba-over-it"
+    },
+    {
+        "url": "https://askubuntu.com/questions/104831/how-to-delete-all-the-files-with-a-certain-extension-from-a-folder-and-all-of-it"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1206600/floating-menu-is-broken"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1206596/bluetooth-not-working-on-macbook-pro-early-15-with-ubuntu-19-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1206595/activate-conda-environment-in-ubuntu-desktop-shortcut"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1206594/screen-doesnt-turn-on-after-startup"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1206591/ubuntu-18-04-not-updating"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1206625/login-loop-with-nvidia-440-driver-on-ubuntu-18-04-after-installing-pylon"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1206623/ubuntu-18-04-3-xwayland-crash"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1206621/libreoffice-finds-my-fonts-but-they-are-not-showing-correctly"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1206619/ubuntu-bug-black-screen-after-boot"
+    },
+    {
+        "url": "https://askubuntu.com/questions/104833/adobe-update-caused-my-foxtabs-quit-working"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1206627/gnome-shell-ignores-mouse-based-copy-paste-commands"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1206607/internet-is-slow-thru-squid-proxy-when-gpo-applied-to-server"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1206605/save-installed-epson-stylus-sx130-drivers-on-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1222917/screen-tearing-on-external-monitor-on-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1222881/forgot-to-make-partition-in-win-10-disk-managmnt-bfor-dual-booting-ubuntu-now-wa"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1222916/error-on-resume-from-suspend-system"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1222879/ubuntu-datetime-locale-on-login-screen"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1222912/virtualbox-kernel-vboxdrv-not-loaded-on-ubuntu-19-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1222871/cannot-install-a7000-usb-wifi-adapter-on-ubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1222905/html-not-rendering-correctly-after-installing-wordpress-on-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/213509/gnome-online-account-remembers-my-google-password"
+    },
+    {
+        "url": "https://askubuntu.com/questions/213533/command-to-move-a-file-to-trash-via-terminal"
+    },
+    {
+        "url": "https://askubuntu.com/questions/213520/require-password-to-login-to-nexus-7"
+    },
+    {
+        "url": "https://askubuntu.com/questions/213517/how-to-change-wget-default-directory-from-videos-to-downolads"
+    },
+    {
+        "url": "https://askubuntu.com/questions/917617/user-create-script-from-csv-file"
+    },
+    {
+        "url": "https://askubuntu.com/questions/917614/can-you-change-hdmi-color-spaces-using-the-amdgpu-driver"
+    },
+    {
+        "url": "https://askubuntu.com/questions/917671/dynamically-allocated-character-device-major"
+    },
+    {
+        "url": "https://askubuntu.com/questions/917670/why-does-sudo-h-pip-v-differ-from-pip-v"
+    },
+    {
+        "url": "https://askubuntu.com/questions/917662/cannot-shutdown-a-vm-in-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/917658/how-do-i-disable-bluetooth-startup-by-default-with-every-boot-in-17-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/917646/firefox-can-only-be-started-by-sudo"
+    },
+    {
+        "url": "https://askubuntu.com/questions/917631/every-action-performed-and-tells-by-sound"
+    },
+    {
+        "url": "https://askubuntu.com/questions/917645/i-recently-dual-booted-my-windows-with-ubuntu-no-wifi-networks-are-visible-and"
+    },
+    {
+        "url": "https://askubuntu.com/questions/917630/is-it-possible-to-use-the-scrypt-command-to-encrypt-all-the-files-in-a-folder"
+    },
+    {
+        "url": "https://askubuntu.com/questions/917625/wifi-disabled-by-hardware-switch-after-i-poured-water-on-my-laptop-keyboard"
+    },
+    {
+        "url": "https://askubuntu.com/questions/917623/phpmyadmin-gives-404-error-in-lamp"
+    },
+    {
+        "url": "https://askubuntu.com/questions/917655/is-there-a-way-to-manually-check-which-extra-packages-are-going-to-be-removed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/917620/pressure-sensitivity-huion-220-gt-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1200845/how-to-create-a-unique-user-which-the-ftp-server-can-use-as-a-totally-isolated-u"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1200842/packet-write-wait-connection-to-192-168-x-x-port-22-broken-pipe"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1200839/how-do-i-create-a-shortcut-for-a-command-that-takes-input"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1200833/how-to-configure-openconnect-with-an-xml-file"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1200781/listing-packages-installed-outside-of-official-repo"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1200780/hdmi-disconnected"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265836/ubuntu-server-12-04-2-lts-problem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265830/how-do-i-logout-from-yahoo-chat-in-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265827/microsoft-license-compliance-check"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265812/can-i-install-ubuntu-on-eeepc-900"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265811/what-does-the-dns-search-option-mean-in-etc-network-interfaces"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265804/a-command-to-call-a-terminal-not-a-hotkey"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265800/shutdown-when-laptop-lid-closed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265795/grub-menu-doesnt-show-windows-7-option"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265793/ati-driver-on-12-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1200795/cannot-upgrade-from-16-04-to-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265787/are-efforts-to-run-ubuntu-on-the-nexus-7-dead-not-including-ubuntu-touch"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265783/how-can-i-bypass-governmental-censorship-of-certain-websites-for-instance-in-ir"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265786/completed-installing-ubuntu-12-10-but-couldnt-boot-to-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265782/bluetooth-dun-connect-with-the-command-line"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1163130/permission-denied-while-installing-r-package"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1163129/ideapad-330-15ikb-ubuntu-18-04-overheat-and-battery-problems"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265802/cannot-upgrade-from-10-04-due-to-karmic-error-during-upgrade"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1163178/hdd-randomly-becomes-read-only-even-after-fsck"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1163160/when-will-netplan-support-promiscuous-mode"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1163156/how-to-resize-and-convert-mov-to-mp4-on-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1163172/after-shutdown-button-is-clicked-only-files-on-desktop-disappear-and-it-just-st"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1163147/upgrading-bios-in-my-asus-vivobook-r542uq"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1163145/intel-wireless-iwlwifi-ubuntu-19-04-slow-upload-speed-but-only-on-certain-wi"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1163138/lubuntu-18-04-2-lts-has-upgraded-to-kernel-5-0-0-23-via-software-update"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1163148/permissions-for-apache2-on-fresh-ubuntu-installation"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1163131/touchpad-sensitivity"
+    },
+    {
+        "url": "https://askubuntu.com/questions/395845/problem-while-upgrading-modem-manager-ubuntu-12-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/395897/keyboard-layout-settings-in-ubuntu-13-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/395861/how-to-fix-conky-disappears-after-click-on-desktop-or-other-window"
+    },
+    {
+        "url": "https://askubuntu.com/questions/395860/mounted-samba-share-hangs-media-and-df-h-when-cable-disconnected"
+    },
+    {
+        "url": "https://askubuntu.com/questions/395854/ubuntu-problems-in-12-04-and-13-10-on-the-sony-vaio-fit"
+    },
+    {
+        "url": "https://askubuntu.com/questions/549547/installation-of-ubuntu-14-04-1-faild-on-dell-inspiron-n5040"
+    },
+    {
+        "url": "https://askubuntu.com/questions/549583/how-to-replace-ibus-with-whatever-used-to-work-in-12-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/549579/can-i-use-this-to-play-hearthstone-on-my-acer-chromebook-c720"
+    },
+    {
+        "url": "https://askubuntu.com/questions/549578/ive-got-a-radeon-r5-graphics-card-what-drivers-do-i-need"
+    },
+    {
+        "url": "https://askubuntu.com/questions/549575/selecting-network-interface-in-maas"
+    },
+    {
+        "url": "https://askubuntu.com/questions/549556/apache-and-limitexcept"
+    },
+    {
+        "url": "https://askubuntu.com/questions/549563/ubuntu-live-usb-stuck-after-booting"
+    },
+    {
+        "url": "https://askubuntu.com/questions/549554/dovecot-delivery-issue"
+    },
+    {
+        "url": "https://askubuntu.com/questions/408210/total-confusion-about-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/408190/how-to-ssh-tunnel-to-ec2-for-running-a-local-python-script"
+    },
+    {
+        "url": "https://askubuntu.com/questions/408178/why-does-the-printer-print-an-extra-page-containing-p-poppler-freedesktop-org"
+    },
+    {
+        "url": "https://askubuntu.com/questions/408177/unable-to-set-proper-screen-resolution-on-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/408191/how-to-enable-pci-bridge-for-wol"
+    },
+    {
+        "url": "https://askubuntu.com/questions/408175/adding-sudo-permissions-to-nis-clienadding-sudo-permissions-to-nis-clients"
+    },
+    {
+        "url": "https://askubuntu.com/questions/408174/how-do-i-import-my-music-and-photos-to-ubuntu-installed-on-vmware-virtual-machin"
+    },
+    {
+        "url": "https://askubuntu.com/questions/926667/problem-with-trendnet-wifi"
+    },
+    {
+        "url": "https://askubuntu.com/questions/926664/communication-between-oracle-virtualhost-ubuntus"
+    },
+    {
+        "url": "https://askubuntu.com/questions/926655/cannot-dual-boot-windows-after-ubuntu-gpt-partition-issue"
+    },
+    {
+        "url": "https://askubuntu.com/questions/926651/files-appearing-twice-in-unity-dash"
+    },
+    {
+        "url": "https://askubuntu.com/questions/926643/unable-to-boot-ubuntu-live-cd-16-04-2"
+    },
+    {
+        "url": "https://askubuntu.com/questions/926638/ubuntu-not-syncing-install"
+    },
+    {
+        "url": "https://askubuntu.com/questions/926649/cant-open-all-pages-in-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/926635/deleting-iceauthority-file"
+    },
+    {
+        "url": "https://askubuntu.com/questions/926632/run-program-as-administrator-on-crossover-wine"
+    },
+    {
+        "url": "https://askubuntu.com/questions/926630/best-way-to-setup-my-external-drive-with-usefull-partitions-and-appropriate-par"
+    },
+    {
+        "url": "https://askubuntu.com/questions/927409/recovering-from-chmod-r-777"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1010784/errors-installing-rgdal-in-rstudio-1-1-on-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1010779/game-distorted-my-panel"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1010776/i-am-trying-to-setup-bcnc-and-cant-open-the-dev-attyacm0-port"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1010777/format-a-usb-drive-that-contains-windows-os-but-is-read-only-flile-system"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1010774/windows-10-not-seeing-shared-folders"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1010770/hptalx-program-to-communicate-with-hp48-50-calculators-from-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1296562/strange-blocky-interlaced-textures-on-ubuntu-mate-20-04-games"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1296561/how-to-bookmark-in-file-explorer-ubuntu-20-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1296602/imagination-crashes"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1296557/how-to-add-multiple-dynamic-ip-v4-v6-using-netplan-for-both-wired-and-wireless-n"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1296550/webcam-not-working-nor-detected-in-any-browser-but-working-in-other-programs"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1296596/can-i-setup-a-ubuntu-desktop-as-a-switch"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1296593/auto-mount-problem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1010783/ubuntu-wont-shut-down"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1296591/initial-instal-of-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1296577/not-able-to-modify-the-contents-of-my-local-drives"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1296576/etc-resolv-conf-not-populated-on-boot-only-after-subsequent-reboot"
+    },
+    {
+        "url": "https://askubuntu.com/questions/16160/execute-bash-script-at-startup-but-only-once-a-day"
+    },
+    {
+        "url": "https://askubuntu.com/questions/16159/rhythmbox-sound-cuts-cracks-when-other-programs-are-running"
+    },
+    {
+        "url": "https://askubuntu.com/questions/898826/why-is-there-no-libiconv-package-in-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/898781/vim-combine-with-tmux"
+    },
+    {
+        "url": "https://askubuntu.com/questions/898800/cannot-connect-to-vpnc-with-network-manager-1-2-6"
+    },
+    {
+        "url": "https://askubuntu.com/questions/27097/how-to-print-a-regular-file-to-pdf-from-command-line"
+    },
+    {
+        "url": "https://askubuntu.com/questions/27124/why-dont-i-have-to-accept-a-eula-when-installing-adobe-flash-player"
+    },
+    {
+        "url": "https://askubuntu.com/questions/27113/why-do-i-get-the-error-message-fcinit-fatal-vloopback-not-found-whenever-i-boo"
+    },
+    {
+        "url": "https://askubuntu.com/questions/27101/how-to-distribute-applications"
+    },
+    {
+        "url": "https://askubuntu.com/questions/27099/asus-eee-pc-701-4g-hangs-on-boot"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476137/does-ubuntu-touch-consume-less-power-than-android"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476136/ubuntu-13-10-unity-wont-load-from-this-morning"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476129/modem-broadband-issue"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476112/mounting-a-map-on-a-server-through-a-different-server"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476107/how-to-sync-ubuntu-software-configurations-between-n-computers-with-free-softwar"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476100/unity-and-the-tray-are-not-displayed-after-login"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476098/i-want-to-install-ubuntu-leaving-windows-8-and-recovery-partitions-untouched"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476095/install-software-package-centre-app"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476094/scrolling-inside-the-screen-command"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476090/enable-to-connect-to-remote-server-using-ssh-but-i-can-connect-one-remote-server"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476079/not-execute-on-the-terminal"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476074/gnome-subtitles-shows-no-video"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476072/cinnamon-ppa-was-not-found"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476071/how-to-install-aircrack-on-ubuntu-12-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/157844/why-does-dropbox-fail-with-a-dropboxd-not-found-error"
+    },
+    {
+        "url": "https://askubuntu.com/questions/157838/why-does-dpkg-give-me-this-parsing-error"
+    },
+    {
+        "url": "https://askubuntu.com/questions/157832/where-can-i-find-old-versions-of-acrobat-reader-9-4-in-deb-form"
+    },
+    {
+        "url": "https://askubuntu.com/questions/157831/how-can-i-install-eclipse-4-through-ubuntu-software-center-desktop-12-04-64bit"
+    },
+    {
+        "url": "https://askubuntu.com/questions/157785/juju-error-unexpected-error-interacting-with-provider-409-conflict"
+    },
+    {
+        "url": "https://askubuntu.com/questions/157784/how-do-i-make-an-amd64-version-of-my-application"
+    },
+    {
+        "url": "https://askubuntu.com/questions/157812/how-do-i-install-the-latex-opensans-package"
+    },
+    {
+        "url": "https://askubuntu.com/questions/476119/is-it-possible-to-login-into-lightdm-interactive-screen-remotely"
+    },
+    {
+        "url": "https://askubuntu.com/questions/157803/why-wont-this-bash-script-to-drop-caches-work"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1171705/problem-in-installation-of-gedit-in-ubuntu18-04-lts-on-windows-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1171704/ubuntu-18-04-why-netplan-still-adds-dhcp-address"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1171702/ubuntu-18-04-lts-restarting-problem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1171699/microphone-not-working-on-laptop-e-31-80"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1171690/how-to-set-any-file-manager-in-linux-to-show-the-duration-like-the-length-featur"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1171689/xsane-hangs-when-starting-scanning-for-devices"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1171685/how-to-create-a-raid1-btrfs-with-two-disks-and-a-mirror-attached-to-each"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1171683/how-to-handle-fsck-error-while-scanning-inodes"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1171682/how-do-i-adjust-the-scroll-speed-on-the-gnome-terminal-when-using-the-mouse-wh"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1171679/unable-to-upgrade-pip-python-3-7-for-installing-piyani-on-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1171674/how-is-it-possible-to-have-a-sudden-error-in-ubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1171669/q-how-to-fix-printer-trouble"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1171668/error-processing-package-apt-upgrade-cannot-run-due-to-package-configuration"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1115027/i-am-not-able-to-connect-to-my-hidden-wifi-network-ubuntu-18-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1115022/ubuntu-gnome-shell-purple-design"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1115017/installing-windows-7-over-windows-10-without-losing-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1115013/dd-unrecongnized-operand-of-dev-sdc-when-trying-to-create-a-bootable-usb"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1115008/i-have-trouble-finding-my-windows-drive-on-ubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1115007/both-windows-and-ubuntu-computer-dont-shutdown-completely"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1115003/are-the-default-kernels-come-with-official-distributions-of-ubuntu-the-most-suit"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1115002/is-there-a-way-to-put-the-time-above-the-date-with-the-gnome-extension-dash-to"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1115001/gnome-cannot-click-between-windows-or-click-on-ui-elements-with-mad-catz-r-a-t"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1115000/mount-smb-shares-in-ubuntu-core"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1114993/cant-increase-ubuntu-partition-size"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1114991/ubuntu-18-04-does-not-see-windows-network"
+    },
+    {
+        "url": "https://askubuntu.com/questions/779919/install-specific-version-of-openjdk"
+    },
+    {
+        "url": "https://askubuntu.com/questions/779922/which-ubuntu-for-toshiba-satellite-m70-168"
+    },
+    {
+        "url": "https://askubuntu.com/questions/779911/bluetooth-status-inactive-dead"
+    },
+    {
+        "url": "https://askubuntu.com/questions/779906/how-to-block-input-to-webcam"
+    },
+    {
+        "url": "https://askubuntu.com/questions/779899/terminal-to-full-screen-and-back-16-04-dt"
+    },
+    {
+        "url": "https://askubuntu.com/questions/779895/key-input-lag-in-gnome-activities-search"
+    },
+    {
+        "url": "https://askubuntu.com/questions/779877/unable-to-nslookup-deployed-nodes-on-maas-server"
+    },
+    {
+        "url": "https://askubuntu.com/questions/779878/how-to-persist-display-settings"
+    },
+    {
+        "url": "https://askubuntu.com/questions/779875/cant-download-the-snap-packages"
+    },
+    {
+        "url": "https://askubuntu.com/questions/779873/is-there-software-which-time-tracks-window-application-usage"
+    },
+    {
+        "url": "https://askubuntu.com/questions/779872/cant-type-in-evince-search-field"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1115010/ukuu-new-kernel-error-you-need-to-load-the-kernel-first"
+    },
+    {
+        "url": "https://askubuntu.com/questions/779892/16-04-cant-use-bluetooth-a2dp-headphones-pairs-but-does-not-connect-logs-insi"
+    },
+    {
+        "url": "https://askubuntu.com/questions/185172/before-installing-wubi-should-i-defragment-the-disk"
+    },
+    {
+        "url": "https://askubuntu.com/questions/185167/syncing-between-computers-batch-download"
+    },
+    {
+        "url": "https://askubuntu.com/questions/779867/how-to-setup-openvpn-in-ubuntu-16-04-desktop-over-a-proxy-server"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1133988/long-boot-ubuntu-18"
+    },
+    {
+        "url": "https://askubuntu.com/questions/270346/spell-check-and-locale"
+    },
+    {
+        "url": "https://askubuntu.com/questions/87590/update-manager-wont-let-me-update-to-ubuntu-11-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/454083/why-is-dd-creating-an-enormous-file-when-i-try-to-create-a-backup-disk-image"
+    },
+    {
+        "url": "https://askubuntu.com/questions/454069/appmenu-in-14-04-for-gtk2-apps"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1152292/make-multiple-bootable-partitions-on-1-usb-windows-7-and-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1152290/no-grub-in-bios-boot-after-install"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1079353/xrandr-shows-hdmi1-disconnect-w-hdmi2-as-primary-with-only-one-monitor"
+    },
+    {
+        "url": "https://askubuntu.com/questions/779756/how-to-upload-a-csv-file-to-openldap-and-moodle-server"
+    },
+    {
+        "url": "https://askubuntu.com/questions/78951/how-do-i-remove-a-malformed-line-from-my-sources-list"
+    },
+    {
+        "url": "https://askubuntu.com/questions/468030/how-to-reset-grub-to-see-both-windows-7-and-ubuntu-12-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1132262/vsftp-lost-root-access"
+    },
+    {
+        "url": "https://askubuntu.com/questions/545954/ubuntu-boot-error-rootdevice"
+    },
+    {
+        "url": "https://askubuntu.com/questions/703936/lubuntu-14-04-xorg-server-crash-every-6-hours-nvidia"
+    },
+    {
+        "url": "https://askubuntu.com/questions/534044/error-32-bit-linux-android-emulator-binaries-are-deprecated-when-attemping-to-r"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1245182/how-to-host-a-site-using-apache2-on-ubuntu-20-04-with-ip-adress-phpmyadmin-acces"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1245198/alternative-to-xbindkeys-that-allows-key-combos-sans-modifier-keys"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1245173/problem-installing-wine-in-ubuntu-studio-20-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1337116/how-can-add-keyboard-layout-to-docker-container"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1337123/ubuntu-20-04-slack-4-15-0-not-using-system-proxy-on-vpn"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1488740/which-libpng-version-is-used-why-it-shows-old-one"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1468476/my-ubuntu-machine-is-just-showing-a-black-screen-or-just-loading-this-happened"
+    },
+    {
+        "url": "https://askubuntu.com/questions/175662/lenovo-ideapad-s205-wireless-lan-problem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1468474/ubuntu-works-on-usb-does-that-necessarily-mean-it-supports-my-machine"
+    },
+    {
+        "url": "https://askubuntu.com/questions/350612/unbale-to-use-qlowercase-key-after-a-failed-key-binding-effort"
+    },
+    {
+        "url": "https://askubuntu.com/questions/755171/issues-with-ubuntu-non-iso-hybrid-iso-images"
+    },
+    {
+        "url": "https://askubuntu.com/questions/755164/after-installing-ubuntu-system-has-become-very-slow"
+    },
+    {
+        "url": "https://askubuntu.com/questions/755162/mising-software-and-update-tools"
+    },
+    {
+        "url": "https://askubuntu.com/questions/350595/how-do-i-format-my-hard-drive-to-ntfs-from-ext4"
+    },
+    {
+        "url": "https://askubuntu.com/questions/755157/add-winetricks-registry-key-by-command-line"
+    },
+    {
+        "url": "https://askubuntu.com/questions/755144/how-do-i-disable-pseudo-film-perforation-movie-strip-overlay-on-video-thumbnai"
+    },
+    {
+        "url": "https://askubuntu.com/questions/261693/unable-to-unzip-file"
+    },
+    {
+        "url": "https://askubuntu.com/questions/755138/error-while-upgrading-from-15-04-to-15-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/755128/ubuntu-14-04-dispaly-resolution-problem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/755127/select-multiple-non-consecutive-files-in-nautilus-using-only-the-keyboard"
+    },
+    {
+        "url": "https://askubuntu.com/questions/755126/after-installing-i3-i-now-have-the-i3-notification-theme-on-unity-how-can-i-cha"
+    },
+    {
+        "url": "https://askubuntu.com/questions/261688/gaming-on-ubuntu-touch"
+    },
+    {
+        "url": "https://askubuntu.com/questions/755119/how-to-keep-record-of-logins-and-actions"
+    },
+    {
+        "url": "https://askubuntu.com/questions/261687/does-bumblebee-configure-your-xserver-to-use-the-dedicated-gpu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/261662/would-this-headset-work-with-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/261645/how-to-stop-rhythmbox-adding-played-sound-files-to-the-library"
+    },
+    {
+        "url": "https://askubuntu.com/questions/821954/ctrl-super-left-right-not-working-in-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/821952/how-to-record-the-output-of-a-bash-script-from-terminal-without-suppressing-the"
+    },
+    {
+        "url": "https://askubuntu.com/questions/821951/dualbooting-ubuntu-16-04-1-win-10-partition-problem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/821941/installing-cuda-8-deb-file-error-in-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/821931/reboot-during-resume"
+    },
+    {
+        "url": "https://askubuntu.com/questions/821936/move-android-sdk-in-different-partition-from-ubuntu-directory"
+    },
+    {
+        "url": "https://askubuntu.com/questions/261643/dns-address-for-all-future-connections-ubuntu-12-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1266077/error-on-updates-and-other-software-when-trying-to-install-ubuntu-20-04-deskto"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1266076/gnome-showing-only-single-notification-at-once"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1266074/after-updating-to-ubuntu-20-04-from-18-04-i-cant-detect-mobile-phone-through-us"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1266069/ubuntu-16-04-network-issue-server-not-found-in-mozilla-firefox-cannot-connect"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1266068/i-cannot-move-multiple-files-by-drag-and-drop-method"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1266066/create-url-files-when-drag-and-drop-from-browser-instead-of-desktop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1266061/kubuntu-18-04-and-20-04-random-freezes"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1266058/drop-down-folder-shortcut-in-the-dock"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1266054/login-and-password-on-script"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1266042/turn-on-wi-fi-hotspot-greyed-out-in-20-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1136409/new-xps-13-9380-with-ubuntu-18-04-flicker-problems"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1136401/how-to-install-oracle-java-8-on-ubuntu-19-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1136399/kubuntu-18-04-boots-into-emergency-mode-after-windows-10-was-reinstalled"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1136388/are-there-new-shortcut-keys-in-recent-update-04-2019"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1136377/why-is-port-not-open-not-ufw-service-is-running"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1136372/constant-background-noise-from-speakers-when-laptop-plugged-in-to-ac"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1136376/recomendation-about-dell-bios"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1136365/why-certified-hardware-throw-warning"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1136366/installing-finding-snap-package-over-proxy"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1160030/settingup-juju-in-aws-cloud-we-are-getting-away-from-maas"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000136/web-browser-that-can-be-installed-on-command-line-ubuntu-16-4"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000129/gnome-terminal-losing-text-selection-highlight-after-select-text-in-another-appl"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000127/if-i-format-windows-drives-will-it-affect-ubuntu-after-i-install-ubuntu-alongs"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000124/trapped-in-login-loop"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000118/what-is-software-properties-common"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1160022/ubuntu-can-not-find-python3-which-is-intalled"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000115/error-while-loading-shared-libraries-invalid-elf-header-after-replacing-the-d"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1160016/kernel-panic-when-trying-to-fix-broken-packages-nvidia"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1160014/x-server-fails-to-start-after-nvidia-driver-update"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000113/same-font-is-rendered-differently-in-intellij-idea-vs-android-studio"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1160012/ubuntu-server-after-boot-cloud-init892"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000110/how-can-i-update-clamav-to-0-99-3"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1160009/custom-system-d-service-fails-at-startup"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1160008/how-to-digitally-sign-documents-in-openoffice-under-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1159997/my-battery-is-not-charging-on-ubuntu-18-04-while-in-use"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1159996/can-i-make-gedit-not-ask-to-save-a-blank-file"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000103/how-to-modify-a-theme-macbuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000098/how-to-use-usb-connection-for-internet-from-a-pc-to-a-cellphone"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000091/use-clonezilla-to-create-copy-of-my-machine-and-revert-from-17-10-to-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1015045/trying-to-run-fltk-but-would-get-undefined-error"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1015043/why-my-keyboard-doesnt-work-in-some-programs"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1015042/how-can-i-install-multiple-apps-on-ubuntu-using-scripting"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1015036/is-it-possible-to-install-and-use-two-steam-clients-on-one-ubuntu-machine"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1015031/pulse-audio-equalizer"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1015028/kubuntu-konsole-wrap-on-resize-option"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1015026/errors-were-encountered-while-processing-linux-headers-4-4-0-116"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1015016/is-there-graphical-backup-software-that-is-not-prone-to-consistency-problems"
+    },
+    {
+        "url": "https://askubuntu.com/questions/7700/gma-5700-mhd-dell-vostro-3300-externel-vga-monitor-is-flickering"
+    },
+    {
+        "url": "https://askubuntu.com/questions/7689/cannot-connect-through-wireless-interface-on-a-server"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1503835/cannot-copy-files-to-an-android-phone-via-mtp-due-to-operation-not-supported"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1503834/native-touchpad-and-keyboard-are-unresponsive-on-ubuntu-22-04-lts-running-on-a-h"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1503828/minecraft-getting-low-frames-on-dedicated-gpu-despite-gpu-usage-being-low"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1503823/cant-get-libdl-so"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1503815/virtualbox-kernel-driver-not-installed-key-rejected"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1503813/dual-boot-problem-separate-usb-sdd-on-legacy-bios"
+    },
+    {
+        "url": "https://askubuntu.com/questions/810095/how-to-install-nautilus-in-ubuntu-16"
+    },
+    {
+        "url": "https://askubuntu.com/questions/810091/ubuntu-16-04-unity-does-not-load-icons-and-not-displayed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/810072/how-to-access-a-bash-array-from-a-separate-non-child-bash-script"
+    },
+    {
+        "url": "https://askubuntu.com/questions/810060/ubuntu-16-04-portuguese-on-system76-us-layout"
+    },
+    {
+        "url": "https://askubuntu.com/questions/810055/xubuntu-16-04-doesnt-show-mp3-thumbnails-album-art-picture-the-rest-of-the"
+    },
+    {
+        "url": "https://askubuntu.com/questions/810052/saving-gnuplot-figure-without-displaying-the-plot"
+    },
+    {
+        "url": "https://askubuntu.com/questions/378140/problems-re-installing-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/378137/computer-does-not-boot-from-dvd"
+    },
+    {
+        "url": "https://askubuntu.com/questions/378130/how-to-set-ubuntu-cluster"
+    },
+    {
+        "url": "https://askubuntu.com/questions/378122/what-does-the-commands-scope-do"
+    },
+    {
+        "url": "https://askubuntu.com/questions/378121/reboot-and-select-proper-boot-device"
+    },
+    {
+        "url": "https://askubuntu.com/questions/378111/ubuntu-newbie-needs-suggestions"
+    },
+    {
+        "url": "https://askubuntu.com/questions/378105/ubuntu-13-10-x64-skype"
+    },
+    {
+        "url": "https://askubuntu.com/questions/378090/cant-download-vcrun2008-winhttp-wininet-with-winetricks"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1204687/blank-screen-after-wrongly-modifying-profile-file"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1204683/intel-3165-not-working-on-ubuntu-19-10"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1204667/cant-connect-to-postgres"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1204666/ubuntu-16-04-6-desktop-is-not-installing"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1204664/enabling-remote-access-to-arangodb-web-interface"
+    },
+    {
+        "url": "https://askubuntu.com/questions/378139/how-do-i-get-iperf-on-a-ubuntu-13-10-live-disc"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1204662/how-to-pass-a-python-variable-into-a-bash-script"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1204659/how-safely-free-boot-directory-with-broken-apt-get-package-manager"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1204652/opening-odt-from-cifs-smb-share-extremely-slow-in-kubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1204642/couldnt-connect-to-ec2-instance"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1204639/restore-mistakenly-deleted-rewrite-load-from-etc-apache2"
+    },
+    {
+        "url": "https://askubuntu.com/questions/324549/can-i-run-ubuntu-12-10-or-13-04-on-an-ati-xpress-200-graphics-card"
+    },
+    {
+        "url": "https://askubuntu.com/questions/324545/maas-node-os-auto-install-failed-to-retrieve-preseed-configuration-file"
+    },
+    {
+        "url": "https://askubuntu.com/questions/324538/installations-on-separate-disks"
+    },
+    {
+        "url": "https://askubuntu.com/questions/324522/ubuntu-13-04-gnome-3-8-input-switch-keyboard-shortcut"
+    },
+    {
+        "url": "https://askubuntu.com/questions/324509/how-to-run-mac-os-x-virtually-on-ubuntu-12-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/324504/will-ubuntu-fix-my-video-card-driver-issue"
+    },
+    {
+        "url": "https://askubuntu.com/questions/324515/hotspot-and-internet-access-together-why-not"
+    },
+    {
+        "url": "https://askubuntu.com/questions/324498/wifi-driver-for-hp-pavillion"
+    },
+    {
+        "url": "https://askubuntu.com/questions/324493/vmware-kills-hosts-network-connection"
+    },
+    {
+        "url": "https://askubuntu.com/questions/324500/udev-rule-for-cdma-modem-is-not-working"
+    },
+    {
+        "url": "https://askubuntu.com/questions/324502/hp-pavillion-amd-radeon-4250-problem"
+    },
+    {
+        "url": "https://askubuntu.com/questions/860781/mongod-service-is-on-systemd-list-but-failed-to-get-properties"
+    },
+    {
+        "url": "https://askubuntu.com/questions/860780/how-to-remove-old-ibus-keyboard-input-menu-items"
+    },
+    {
+        "url": "https://askubuntu.com/questions/860776/wlan0-is-missing"
+    },
+    {
+        "url": "https://askubuntu.com/questions/860766/how-can-i-make-stars-appear-when-i-type-sudo-password"
+    },
+    {
+        "url": "https://askubuntu.com/questions/860764/adding-hdd-with-data-on-it"
+    },
+    {
+        "url": "https://askubuntu.com/questions/860761/ubuntu-command-line-to-change-input-source-on-a-display-monitor"
+    },
+    {
+        "url": "https://askubuntu.com/questions/860756/use-cmd-key-as-super-key"
+    },
+    {
+        "url": "https://askubuntu.com/questions/860750/is-there-a-persian-calendar-for-ubuntu-16-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/860741/computer-stuck-on-getting-windows-ready-while-installation-from-usb"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1204688/steam-doom-does-not-launch"
+    },
+    {
+        "url": "https://askubuntu.com/questions/860739/ubuntu-will-not-detect-integrated-graphics-card-on-macbook-pro"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1139919/find-all-occurences-of-a-string-in-4th-column-and-replace-7th-column-with-specif"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1139917/not-able-to-manually-partition-while-installing-ubuntu-16-04-18-04-along-windows"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1139907/installed-packages-periodically-removed"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1139900/question-about-ubuntu-default-partitions"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1139905/disco-dingo-mysql-workbench-libzip4"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1139896/try-update-ubuntu-14-to-16-and-reboot-no-more-ssh-ufw-dont-work-no-ping"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1139897/wd-my-book-nas-dont-mount"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1139885/how-can-i-remove-the-to-do-sidebar-in-evolution"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1139888/way-to-save-load-session-to-disk"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1396002/dhcp-and-static-ip-on-different-subnet-on-one-interface-netplan-what-are-the"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1396001/terminal-error-information-right-before-sleep"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1395993/cmake-problem-when-building-video-driver-for-intel-alderlake-s-gt1"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1100602/dell-inspiron-n5050-connected-to-the-mi-tv-via-hdmi-display-not-synced"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1003360/do-i-install-32-or-64-bit-windows-program-on-wine-if-i-have-ubuntu-17-10-64-bit"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1297457/how-to-edit-text-in-specific-tags-in-specified-files-to-capitalize-the-content"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1297441/random-sound-and-later-system-crashes"
+    },
+    {
+        "url": "https://askubuntu.com/questions/644790/warnings-and-errors-appearing-on-site-after-changing-ubuntu-user-permissions-ama"
+    },
+    {
+        "url": "https://askubuntu.com/questions/573663/command-to-copy-currently-selected-text"
+    },
+    {
+        "url": "https://askubuntu.com/questions/573650/closed-laptop-lid-during-installation-black-screen"
+    },
+    {
+        "url": "https://askubuntu.com/questions/989032/switch-from-arch-to-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/429370/unlocaling-kubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/989062/why-should-i-still-use-with-boost-for-configure-when-i-exported-path-variabl"
+    },
+    {
+        "url": "https://askubuntu.com/questions/429348/ubuntu-13-10-64-bit-install-failed-to-execute-init-boot-repair-log"
+    },
+    {
+        "url": "https://askubuntu.com/questions/690136/infinite-libreoffice-draw-file"
+    },
+    {
+        "url": "https://askubuntu.com/questions/690135/understanding-the-x-driver"
+    },
+    {
+        "url": "https://askubuntu.com/questions/185787/booting-into-12-04-results-in-a-purple-sceen-for-just-a-second"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1147991/help-installing-steam"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1147982/some-ubuntu-core-apps-don-t-start-at-random-times-until-i-reboot-my-system"
+    },
+    {
+        "url": "https://askubuntu.com/questions/833147/how-do-i-correctly-set-up-wine-for-pivot-animator"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1212901/ubuntu-lags-when-copying-big-files-from-external-disk"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1212868/iptables-restricting-access-by-time"
+    },
+    {
+        "url": "https://askubuntu.com/questions/128956/i-cant-install-ubuntu-on-windows-7"
+    },
+    {
+        "url": "https://askubuntu.com/questions/128952/wireless-connection-disconnects-and-reconnects-with-a-netgear-wna1000"
+    },
+    {
+        "url": "https://askubuntu.com/questions/128950/can-previous-installation-partition-be-made-bootable"
+    },
+    {
+        "url": "https://askubuntu.com/questions/155717/i-have-installed-ubuntu-alongside-windows-vista-but-ubuntu-wont-run"
+    },
+    {
+        "url": "https://askubuntu.com/questions/155716/configuring-the-dnsmasq-instance-started-by-connection-sharing-in-networkmanager"
+    },
+    {
+        "url": "https://askubuntu.com/questions/155727/what-is-curl-used-for-in-ruby"
+    },
+    {
+        "url": "https://askubuntu.com/questions/155715/trying-to-create-a-gtktreeview-from-python-doesnt-seem-to-work"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1052475/glxgears-glxinfo-glxheads-all-fail-via-ssh-x"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1052479/how-to-start-apache-server-in-xampp-on-ubuntu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1052474/zip2john-issue-on-ubuntu-18-04-lts"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1052457/logitech-master-mx-2s-app-specific-settings"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1052450/how-do-i-wipe-windows10-from-an-ssd-in-order-to-install-ububtu"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1052446/tree-style-file-explorer"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1052443/raid0-will-not-assemble-on-boot-not-able-to-assemble-manually"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1351106/sometimes-when-i-turn-my-pc-on-ubuntu-20-04-it-says-that-my-bluetooth-is-off"
+    },
+    {
+        "url": "https://askubuntu.com/questions/155760/ubuntu-crashed-unexpectedly-when-browsing"
+    },
+    {
+        "url": "https://askubuntu.com/questions/155767/how-do-i-import-my-ppa-signing-keys-from-a-host-into-a-virtual-machine"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1351099/boot-repair-claims-to-fix-grub2"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1351096/error-while-loading-shared-libraries-libicui18n-so-66"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1351097/ubuntu-20-04-is-not-updating-due-installedpackages-have-unmet-dependencies"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1351092/if-i-choose-something-else-for-installing-ubuntu-20-04-in-which-partition-sho"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1351085/ubuntu-20-04-show-applications-button-is-missing-in-the-ubuntu-dock"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1351080/headset-mic-not-working-on-18-04-on-desktop-with-realtek-alc1220-chipset"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1351078/initramfs-problem-while-booting"
+    },
+    {
+        "url": "https://askubuntu.com/questions/265828/unable-to-install-ubuntu-12-04-alongside-windows-7"
+    },
+    {
+        "url": "https://askubuntu.com/questions/395874/unable-to-boot-ubuntu-13-10-with-windows-8"
+    },
+    {
+        "url": "https://askubuntu.com/questions/408200/apache2-giving-sslcertificatefile-error"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1052463/ubuntu-18-04lts-installer-does-not-detect-macos-x-on-a-mac-mini"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1052461/how-to-change-alias-name-in-anydesk"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1296600/using-a-third-party-scanner-device-with-ubuntu-core-on-a-raspberry-pi"
+    },
+    {
+        "url": "https://askubuntu.com/questions/926633/i-cant-play-60fps-videos-on-youtube-720p-1080p-on-chrome-they-are-laggy-alw"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1114994/ubuntu-files-worthless-on-windows"
+    },
+    {
+        "url": "https://askubuntu.com/questions/185142/is-it-possible-to-use-12-04-live-cd-to-repartition-hard-drive"
+    },
+    {
+        "url": "https://askubuntu.com/questions/16174/shutter-preferences-are-not-getting-saved"
+    },
+    {
+        "url": "https://askubuntu.com/questions/185139/why-does-firefox-try-to-use-gedit-to-open-deb-files"
+    },
+    {
+        "url": "https://askubuntu.com/questions/87628/specifying-variables-in-checkinstall"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1079339/slow-boot-and-gparted-ubuntu-18-04"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1079316/nagios-removed-by-autoremove"
+    },
+    {
+        "url": "https://askubuntu.com/questions/367189/problem-in-wifi-connectivity-each-time-need-to-fill-proxy"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1132246/run-sigrok-without-root"
+    },
+    {
+        "url": "https://askubuntu.com/questions/534020/problems-with-resolution-scaling"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1337094/is-there-a-way-to-search-the-text-contents-of-windows"
+    },
+    {
+        "url": "https://askubuntu.com/questions/102696/ubuntu-11-10-fresh-install-in-virtualbox-wont-boot"
+    },
+    {
+        "url": "https://askubuntu.com/questions/755152/control-knobs-of-qsynth-using-a-novation-launchkey-mini"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1136413/lvconvert-between-different-volumegroups-lvm"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000134/mysql-restore-from-dump-backup-of-all-databases-with-user-privileges"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1160028/why-is-my-installation-of-vim-conflicting-with-cuda"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000128/automysqlbackup-not-working-with-16-04-xubuntu-when-mysql-user-set-plugin-mys"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000108/ubuntu-core-nuc-installation"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1000107/ubuntu16-04lts-terminal-doesnt-open"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1159991/notifications-do-not-work"
+    },
+    {
+        "url": "https://askubuntu.com/questions/860762/does-ubuntu-turn-off-wireless-device-when-on-standby-mode"
+    },
+    {
+        "url": "https://askubuntu.com/questions/860753/how-can-i-disable-the-extraction-completed-successfully-popup-in-file-roller-u"
+    },
+    {
+        "url": "https://askubuntu.com/questions/860740/using-ubuntu-on-a-mac-same-trackpad-experience"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1100599/is-there-any-offline-translator-for-ubuntu-that-can-be-used-from-terminal"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1169498/whats-the-difference-between-ffmpeg-static-libraries-form-ubuntu-and-from-mine"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1365130/ubuntu-startup-usb-doesnt-boot-after-i-partitioned-the-hard-disk"
+    },
+    {
+        "url": "https://askubuntu.com/questions/778218/apt-get-wants-to-auto-delete-important-packages"
+    },
+    {
+        "url": "https://askubuntu.com/questions/129096/hang-when-loading-off-usb-at-command-sysenter-do-call0x12-0x28"
+    },
+    {
+        "url": "https://askubuntu.com/questions/1266055/clonezilla-image-restore-to-virtualbox"
+    },
+    {
+        "url": "https://askubuntu.com/questions/157840/why-does-apt-get-fail-to-resolve-the-mirror"
+    },
+    {
+        "url": "https://askubuntu.com/questions/145517/hwclock-vs-rcs-d-s11hwclock-sh-what-is-the-difference-between-the-two"
+    },
+    {
+        "url": "https://askubuntu.com/questions/128940/ubuntu-will-only-boot-off-of-a-usb"
+    }
+]

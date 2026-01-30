@@ -1,0 +1,5231 @@
+[
+{
+    "url": "https://www.tasteofhome.com/recipes/espresso-brownies/",
+    "timestamp": "2025-04-02",
+    "cpe_timestamp": "2025-04-02",
+    "psr_timestamp": "2025-04-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/croque-monsieur/",
+    "timestamp": "2025-03-05",
+    "cpe_timestamp": "2025-05-02",
+    "psr_timestamp": "2025-03-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hot-chocolate-mug-cake/",
+    "timestamp": "2025-08-06",
+    "cpe_timestamp": "2025-08-06",
+    "psr_timestamp": "2025-08-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sourdough-pancakes/",
+    "timestamp": "2025-03-05",
+    "cpe_timestamp": "2025-12",
+    "psr_timestamp": "2025-03-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sweet-and-savory-marinated-green-beans/",
+    "timestamp": "2025-03-04",
+    "cpe_timestamp": "2025-03-06",
+    "psr_timestamp": "2025-03-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/over-easy-eggs/",
+    "timestamp": "2025-02-28",
+    "cpe_timestamp": "2025-02-28",
+    "psr_timestamp": "2025-02-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/ground-turkey-tacos/",
+    "timestamp": "2025-03-31",
+    "cpe_timestamp": "2025-03-31",
+    "psr_timestamp": "2025-03-31",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/homemade-peeps/",
+    "timestamp": "2025-03-11",
+    "cpe_timestamp": "2025-06-23",
+    "psr_timestamp": "2025-03-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sheet-pan-pancakes/",
+    "timestamp": "2025-02-28",
+    "cpe_timestamp": "2025-03-06",
+    "psr_timestamp": "2025-02-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/watermelon-and-key-lime-cream-cheese-dip/",
+    "timestamp": "2025-02-27",
+    "cpe_timestamp": "2025-02-27",
+    "psr_timestamp": "2025-02-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/vegetarian-lox/",
+    "timestamp": "2025-02-27",
+    "cpe_timestamp": "2025-02-27",
+    "psr_timestamp": "2025-02-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/strawberry-agua-fresca/",
+    "timestamp": "2025-02-27",
+    "cpe_timestamp": "2025-02-27",
+    "psr_timestamp": "2025-02-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tofu-and-veggie-buddha-bowl-with-miso-dressing/",
+    "timestamp": "2025-02-27",
+    "cpe_timestamp": "2025-02-27",
+    "psr_timestamp": "2025-02-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pizza-fiesta/",
+    "timestamp": "2025-02-27",
+    "cpe_timestamp": "2025-02-27",
+    "psr_timestamp": "2025-02-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/parsnip-and-apple-bisque/",
+    "timestamp": "2025-02-27",
+    "cpe_timestamp": "2025-02-27",
+    "psr_timestamp": "2025-02-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cabbage-and-broccoli-stir-fry/",
+    "timestamp": "2025-02-27",
+    "cpe_timestamp": "2025-02-27",
+    "psr_timestamp": "2025-02-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/green-velvet-cupcakes/",
+    "timestamp": "2025-03-04",
+    "cpe_timestamp": "2025-06-23",
+    "psr_timestamp": "2025-03-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/fried-fish-sandwich/",
+    "timestamp": "2025-03-17",
+    "cpe_timestamp": "2025-06-23",
+    "psr_timestamp": "2025-03-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/keto-cheesecake/",
+    "timestamp": "2025-03-14",
+    "cpe_timestamp": "2025-03-14",
+    "psr_timestamp": "2025-03-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/christmas-tree-brownies/",
+    "timestamp": "2025-10-28",
+    "cpe_timestamp": "2025-10-28",
+    "psr_timestamp": "2025-10-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-fajita-casserole/",
+    "timestamp": "2025-03-14",
+    "cpe_timestamp": "2025-03-14",
+    "psr_timestamp": "2025-03-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blts/",
+    "timestamp": "2025-03-10",
+    "cpe_timestamp": "2025-03-24",
+    "psr_timestamp": "2025-03-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/vegan-red-beans-and-rice/",
+    "timestamp": "2025-03-07",
+    "cpe_timestamp": "2025-03-10",
+    "psr_timestamp": "2025-03-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/veggie-stuffed-spaghetti-squash/",
+    "timestamp": "2025-02-27",
+    "cpe_timestamp": "2025-02-27",
+    "psr_timestamp": "2025-02-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/alabama-chicken-stew/",
+    "timestamp": "2025-03-04",
+    "cpe_timestamp": "2025-03-04",
+    "psr_timestamp": "2025-03-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/creme-brulee-espresso-martini/",
+    "timestamp": "2025-12-19",
+    "cpe_timestamp": "2025-12-19",
+    "psr_timestamp": "2025-12-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/buffalo-cauliflower-dip/",
+    "timestamp": "2025-12-17",
+    "cpe_timestamp": "2025-12-17",
+    "psr_timestamp": "2025-12-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tam-to-coffee-matcha-toast/",
+    "timestamp": "2025-12-17",
+    "cpe_timestamp": "2025-12-17",
+    "psr_timestamp": "2025-12-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tropical-veggie-quinoa-bowl-with-citrus-basil-dressing/",
+    "timestamp": "2025-03-11",
+    "cpe_timestamp": "2025-03-11",
+    "psr_timestamp": "2025-03-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/gabrielle-dillon-taco-ranch-phyllo-cups/",
+    "timestamp": "2025-12-17",
+    "cpe_timestamp": "2025-12-17",
+    "psr_timestamp": "2025-12-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/gabrielle-dillon-cheesy-skillet-pizza-dip/",
+    "timestamp": "2025-12-17",
+    "cpe_timestamp": "2025-12-17",
+    "psr_timestamp": "2025-12-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/snowy-negroni/",
+    "timestamp": "2025-12-16",
+    "cpe_timestamp": "2025-12-16",
+    "psr_timestamp": "2025-12-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/alex-bala-nothing-bundt-cake-bundtini-copycat/",
+    "timestamp": "2025-12-16",
+    "cpe_timestamp": "2025-12-16",
+    "psr_timestamp": "2025-12-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/french-onion-grilled-cheese/",
+    "timestamp": "2025-12-16",
+    "cpe_timestamp": "2025-12-16",
+    "psr_timestamp": "2025-12-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pull-apart-deviled-egg-christmas-tree/",
+    "timestamp": "2025-12-16",
+    "cpe_timestamp": "2025-12-16",
+    "psr_timestamp": "2025-12-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/gabrielle-dillon-white-chocolate-party-mix/",
+    "timestamp": "2025-12-17",
+    "cpe_timestamp": "2025-12-17",
+    "psr_timestamp": "2025-12-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/butternut-squash-ravioli/",
+    "timestamp": "2025-12-15",
+    "cpe_timestamp": "2025-12-15",
+    "psr_timestamp": "2025-12-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/gingerbread-latte-cookies/",
+    "timestamp": "2025-12-15",
+    "cpe_timestamp": "2025-12-15",
+    "psr_timestamp": "2025-12-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/elise-jesse-holiday-pizza-wreaths/",
+    "timestamp": "2025-12-15",
+    "cpe_timestamp": "2025-12-15",
+    "psr_timestamp": "2025-12-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-fryer-apple-pie-bombs/",
+    "timestamp": "2025-12-12",
+    "cpe_timestamp": "2025-12-12",
+    "psr_timestamp": "2025-12-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/goat-cheese-bacon-and-date-dip/",
+    "timestamp": "2025-12-11",
+    "cpe_timestamp": "2025-12-11",
+    "psr_timestamp": "2025-12-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/vegan-stroganoff/",
+    "timestamp": "2025-12-11",
+    "cpe_timestamp": "2025-12-11",
+    "psr_timestamp": "2025-12-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tam-to-matcha-cranberry-thumbprint-cookies/",
+    "timestamp": "2025-12-10",
+    "cpe_timestamp": "2025-12-10",
+    "psr_timestamp": "2025-12-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/dirty-martini-dip/",
+    "timestamp": "2025-12-15",
+    "cpe_timestamp": "2025-12-15",
+    "psr_timestamp": "2025-12-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/3d-meringue-snowmen/",
+    "timestamp": "2025-12-15",
+    "cpe_timestamp": "2025-12-15",
+    "psr_timestamp": "2025-12-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/alex-bala-walking-taco-sloppy-joe/",
+    "timestamp": "2025-12-08",
+    "cpe_timestamp": "2025-12-08",
+    "psr_timestamp": "2025-12-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sheet-pan-sweet-potato-ribbons/",
+    "timestamp": "2025-12-01",
+    "cpe_timestamp": "2025-12-01",
+    "psr_timestamp": "2025-12-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-cordon-bleu-sandwich/",
+    "timestamp": "2025-11-20",
+    "cpe_timestamp": "2025-11-20",
+    "psr_timestamp": "2025-11-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cookie-swap-cutouts/",
+    "timestamp": "2025-11-12",
+    "cpe_timestamp": "2025-11-12",
+    "psr_timestamp": "2025-11-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/karpatka-cake/",
+    "timestamp": "2025-11-10",
+    "cpe_timestamp": "2025-11-10",
+    "psr_timestamp": "2025-11-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/elise-jesse-pumpkin-gruyere-pasta/",
+    "timestamp": "2025-11-05",
+    "cpe_timestamp": "2025-11-05",
+    "psr_timestamp": "2025-11-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pumpkin-quesadillas/",
+    "timestamp": "2025-10-29",
+    "cpe_timestamp": "2025-10-29",
+    "psr_timestamp": "2025-10-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/gingerbread-crinkle-cookie-sandwiches/",
+    "timestamp": "2025-10-16",
+    "cpe_timestamp": "2025-10-16",
+    "psr_timestamp": "2025-10-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chocolate-lava-cookies/",
+    "timestamp": "2025-10-24",
+    "cpe_timestamp": "2025-10-25",
+    "psr_timestamp": "2025-10-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tyler-smith-buckeye-pb-oreo-pizzookie/",
+    "timestamp": "2025-10-07",
+    "cpe_timestamp": "2025-10-07",
+    "psr_timestamp": "2025-10-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hot-honey-recipe/",
+    "timestamp": "2025-09-19",
+    "cpe_timestamp": "2025-09-19",
+    "psr_timestamp": "2025-09-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/japanese-crab-and-avocado-salad/",
+    "timestamp": "2025-09-19",
+    "cpe_timestamp": "2025-09-19",
+    "psr_timestamp": "2025-09-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cheesy-bruschetta-dip/",
+    "timestamp": "2025-09-19",
+    "cpe_timestamp": "2025-09-19",
+    "psr_timestamp": "2025-09-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/crispy-party-bites/",
+    "timestamp": "2025-09-19",
+    "cpe_timestamp": "2025-09-19",
+    "psr_timestamp": "2025-09-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/bacon-cheeseburger-pizza/",
+    "timestamp": "2025-09-18",
+    "cpe_timestamp": "2025-09-18",
+    "psr_timestamp": "2025-09-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/potato-and-pepper-sausage-bake/",
+    "timestamp": "2025-09-18",
+    "cpe_timestamp": "2025-09-18",
+    "psr_timestamp": "2025-09-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/layered-lettuce-salad/",
+    "timestamp": "2025-10-01",
+    "cpe_timestamp": "2025-10-02",
+    "psr_timestamp": "2025-10-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tyler-smith-french-onion-sliders/",
+    "timestamp": "2025-09-16",
+    "cpe_timestamp": "2025-09-16",
+    "psr_timestamp": "2025-09-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/alex-bala-better-than-rum-cake/",
+    "timestamp": "2025-11-25",
+    "cpe_timestamp": "2025-11-25",
+    "psr_timestamp": "2025-11-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/alex-bala-buffalo-chicken-egg-rolls/",
+    "timestamp": "2025-09-16",
+    "cpe_timestamp": "2025-09-16",
+    "psr_timestamp": "2025-09-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pumpkin-truffles/",
+    "timestamp": "2025-09-16",
+    "cpe_timestamp": "2025-09-17",
+    "psr_timestamp": "2025-09-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/dirty-chai-espresso-martini/",
+    "timestamp": "2025-09-17",
+    "cpe_timestamp": "2025-12",
+    "psr_timestamp": "2025-09-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/elise-jesse-maple-dijon-salmon/",
+    "timestamp": "2025-09-15",
+    "cpe_timestamp": "2025-09-15",
+    "psr_timestamp": "2025-09-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pumpkin-spice-moscow-mule/",
+    "timestamp": "2025-09-11",
+    "cpe_timestamp": "2025-09-11",
+    "psr_timestamp": "2025-09-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-gnocchi-pesto-soup/",
+    "timestamp": "2025-09-10",
+    "cpe_timestamp": "2025-09-10",
+    "psr_timestamp": "2025-09-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sweet-potato-tots/",
+    "timestamp": "2025-08-19",
+    "cpe_timestamp": "2025-08-19",
+    "psr_timestamp": "2025-08-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/bacon-aioli/",
+    "timestamp": "2025-10-30",
+    "cpe_timestamp": "2025-10-30",
+    "psr_timestamp": "2025-10-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tam-to-char-siu-potato-ball/",
+    "timestamp": "2025-11-12",
+    "cpe_timestamp": "2025-11-12",
+    "psr_timestamp": "2025-11-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blind-mice/",
+    "timestamp": "2025-08-15",
+    "cpe_timestamp": "2025-08-15",
+    "psr_timestamp": "2025-08-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/almond-joy-cookies/",
+    "timestamp": "2025-11-25",
+    "cpe_timestamp": "2025-12",
+    "psr_timestamp": "2025-11-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pastitsio-soup/",
+    "timestamp": "2025-10-28",
+    "cpe_timestamp": "2025-10-29",
+    "psr_timestamp": "2025-10-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/peanut-butter-and-jelly-cookies/",
+    "timestamp": "2025-10-24",
+    "cpe_timestamp": "2025-10-24",
+    "psr_timestamp": "2025-10-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/elise-jesse-game-day-cheese-ball/",
+    "timestamp": "2025-10-06",
+    "cpe_timestamp": "2025-10-06",
+    "psr_timestamp": "2025-10-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/elise-jesse-white-chicken-chili-nachos/",
+    "timestamp": "2025-09-19",
+    "cpe_timestamp": "2025-09-19",
+    "psr_timestamp": "2025-09-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/ricotta-pancakes/",
+    "timestamp": "2025-12-18",
+    "cpe_timestamp": "2025-12-18",
+    "psr_timestamp": "2025-12-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/orange-snow-balls/",
+    "timestamp": "2025-09-18",
+    "cpe_timestamp": "2025-11",
+    "psr_timestamp": "2025-09-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pickle-canoes/",
+    "timestamp": "2025-09-22",
+    "cpe_timestamp": "2025-09-22",
+    "psr_timestamp": "2025-09-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/dairy-free-pumpkin-pie/",
+    "timestamp": "2025-10-01",
+    "cpe_timestamp": "2025-10-01",
+    "psr_timestamp": "2025-10-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/creamy-apricot-stuffed-dates/",
+    "timestamp": "2025-09-22",
+    "cpe_timestamp": "2025-09-22",
+    "psr_timestamp": "2025-09-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/alex-bala-french-onion-pasta/",
+    "timestamp": "2025-09-26",
+    "cpe_timestamp": "2025-09-26",
+    "psr_timestamp": "2025-09-26",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tiramisu-brownies-2/",
+    "timestamp": "2025-09-26",
+    "cpe_timestamp": "2025-09-27",
+    "psr_timestamp": "2025-09-26",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pimiento-thumbprint-shortbreads-with-jam/",
+    "timestamp": "2025-09-24",
+    "cpe_timestamp": "2025-09-24",
+    "psr_timestamp": "2025-09-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooker-marry-me-chicken/",
+    "timestamp": "2025-10-03",
+    "cpe_timestamp": "2025-10-03",
+    "psr_timestamp": "2025-10-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/espresso-milkshakes/",
+    "timestamp": "2025-08-12",
+    "cpe_timestamp": "2025-08-26",
+    "psr_timestamp": "2025-08-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blueberry-cloud-coffee/",
+    "timestamp": "2025-08-18",
+    "cpe_timestamp": "2025-08-18",
+    "psr_timestamp": "2025-08-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tomato-tuna-tower-salad/",
+    "timestamp": "2025-08-21",
+    "cpe_timestamp": "2025-08-21",
+    "psr_timestamp": "2025-08-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/overnight-steel-cut-oats/",
+    "timestamp": "2025-08-06",
+    "cpe_timestamp": "2025-08-26",
+    "psr_timestamp": "2025-08-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hawaiian-roll-croutons/",
+    "timestamp": "2025-08-06",
+    "cpe_timestamp": "2025-08-26",
+    "psr_timestamp": "2025-08-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pumpkin-chia-pudding/",
+    "timestamp": "2025-10-07",
+    "cpe_timestamp": "2025-10-07",
+    "psr_timestamp": "2025-10-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/creole-shrimp-sausage/",
+    "timestamp": "2025-08-06",
+    "cpe_timestamp": "2025-08-07",
+    "psr_timestamp": "2025-08-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tam-to-poke-spring-rolls/",
+    "timestamp": "2025-09-03",
+    "cpe_timestamp": "2025-09-03",
+    "psr_timestamp": "2025-09-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/fruity-pebbles-milk-n-cereal-bars/",
+    "timestamp": "2025-09-04",
+    "cpe_timestamp": "2025-09-04",
+    "psr_timestamp": "2025-09-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chopped-chicken-caesar-salad-sandwiches/",
+    "timestamp": "2025-09-04",
+    "cpe_timestamp": "2025-12",
+    "psr_timestamp": "2025-09-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/waffled-grilled-cheese/",
+    "timestamp": "2025-09-04",
+    "cpe_timestamp": "2025-09-04",
+    "psr_timestamp": "2025-09-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/grinch-guacamole/",
+    "timestamp": "2025-09-02",
+    "cpe_timestamp": "2025-09-02",
+    "psr_timestamp": "2025-09-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tahini-brownies/",
+    "timestamp": "2025-09-02",
+    "cpe_timestamp": "2025-09-02",
+    "psr_timestamp": "2025-09-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tam-to-one-pot-tomato-salmon/",
+    "timestamp": "2025-09-16",
+    "cpe_timestamp": "2025-09-16",
+    "psr_timestamp": "2025-09-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/caramel-apple-bar/",
+    "timestamp": "2025-08-26",
+    "cpe_timestamp": "2025-08-26",
+    "psr_timestamp": "2025-08-26",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tam-to-korean-spicy-braised-chicken/",
+    "timestamp": "2025-10-30",
+    "cpe_timestamp": "2025-10-30",
+    "psr_timestamp": "2025-10-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/bananas-foster-bread-pudding/",
+    "timestamp": "2025-08-26",
+    "cpe_timestamp": "2025-08-27",
+    "psr_timestamp": "2025-08-26",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/coffee-cake-muffins-2/",
+    "timestamp": "2025-10-30",
+    "cpe_timestamp": "2025-10-30",
+    "psr_timestamp": "2025-10-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/smoky-garlic-mashed-potatoes/",
+    "timestamp": "2025-09-12",
+    "cpe_timestamp": "2025-12",
+    "psr_timestamp": "2025-09-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hot-honey-sweet-potatoes/",
+    "timestamp": "2025-09-22",
+    "cpe_timestamp": "2025-12",
+    "psr_timestamp": "2025-09-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/egg-wraps/",
+    "timestamp": "2025-12-22",
+    "cpe_timestamp": "2025-12-22",
+    "psr_timestamp": "2025-12-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/aperol-spritz-cranberry-sauce/",
+    "timestamp": "2025-09-22",
+    "cpe_timestamp": "2025-12",
+    "psr_timestamp": "2025-09-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/banana-bread-latte/",
+    "timestamp": "2025-08-14",
+    "cpe_timestamp": "2025-08-14",
+    "psr_timestamp": "2025-08-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-vesuvio/",
+    "timestamp": "2025-10-08",
+    "cpe_timestamp": "2025-10-31",
+    "psr_timestamp": "2025-10-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/ube-cookies/",
+    "timestamp": "2025-11-24",
+    "cpe_timestamp": "2025-11-24",
+    "psr_timestamp": "2025-11-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooker-cranberry-sauce/",
+    "timestamp": "2025-10-06",
+    "cpe_timestamp": "2025-10-06",
+    "psr_timestamp": "2025-10-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/jack-o-lantern-rice-cake-treats/",
+    "timestamp": "2025-08-14",
+    "cpe_timestamp": "2025-08-14",
+    "psr_timestamp": "2025-08-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/gnocchi-potato-salad/",
+    "timestamp": "2025-08-20",
+    "cpe_timestamp": "2025-08-20",
+    "psr_timestamp": "2025-08-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/homemade-pumpkin-pasta/",
+    "timestamp": "2025-08-14",
+    "cpe_timestamp": "2025-08-14",
+    "psr_timestamp": "2025-08-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/smith-island-cake/",
+    "timestamp": "2025-08-14",
+    "cpe_timestamp": "2025-08-14",
+    "psr_timestamp": "2025-08-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/halloween-skull-cheese/",
+    "timestamp": "2025-08-13",
+    "cpe_timestamp": "2025-08-13",
+    "psr_timestamp": "2025-08-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cherry-muffins/",
+    "timestamp": "2025-08-13",
+    "cpe_timestamp": "2025-08-13",
+    "psr_timestamp": "2025-08-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-bounty-chocolate-bites/",
+    "timestamp": "2025-08-13",
+    "cpe_timestamp": "2025-08-13",
+    "psr_timestamp": "2025-08-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/carrot-ribbon-salad/",
+    "timestamp": "2025-08-14",
+    "cpe_timestamp": "2025-08-14",
+    "psr_timestamp": "2025-08-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/dead-velvet-cake/",
+    "timestamp": "2025-08-13",
+    "cpe_timestamp": "2025-08-13",
+    "psr_timestamp": "2025-08-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/apple-pie-stuffed-cookies/",
+    "timestamp": "2025-10-09",
+    "cpe_timestamp": "2025-10-09",
+    "psr_timestamp": "2025-10-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/alex-balas-no-bake-pumpkin-spice-cheesecake-bars/",
+    "timestamp": "2025-09-03",
+    "cpe_timestamp": "2025-09-03",
+    "psr_timestamp": "2025-09-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/enchiladas-suizas/",
+    "timestamp": "2025-09-03",
+    "cpe_timestamp": "2025-09-03",
+    "psr_timestamp": "2025-09-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/stuffed-grilled-zucchini/",
+    "timestamp": "2025-07-03",
+    "cpe_timestamp": "2025-07-09",
+    "psr_timestamp": "2025-07-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lucy-wang-ube-bread/",
+    "timestamp": "2025-07-03",
+    "cpe_timestamp": "2025-09-04",
+    "psr_timestamp": "2025-07-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/big-buttery-chocolate-chip-cookies/",
+    "timestamp": "2025-07-03",
+    "cpe_timestamp": "2025-07-03",
+    "psr_timestamp": "2025-07-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/grinch-charcuterie-board/",
+    "timestamp": "2025-08-28",
+    "cpe_timestamp": "2025-08-28",
+    "psr_timestamp": "2025-08-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/brown-bag-apple-pie/",
+    "timestamp": "2025-09-18",
+    "cpe_timestamp": "2025-09-18",
+    "psr_timestamp": "2025-09-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/aperol-spritz-cookies/",
+    "timestamp": "2025-08-07",
+    "cpe_timestamp": "2025-08-07",
+    "psr_timestamp": "2025-08-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lattice-pie-crust/",
+    "timestamp": "2025-07-01",
+    "cpe_timestamp": "2025-08-20",
+    "psr_timestamp": "2025-07-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/steak-pot-pie/",
+    "timestamp": "2025-07-01",
+    "cpe_timestamp": "2025-07-09",
+    "psr_timestamp": "2025-07-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blt-guacamole/",
+    "timestamp": "2025-06-30",
+    "cpe_timestamp": "2025-07-14",
+    "psr_timestamp": "2025-06-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sun-dried-tomato-pesto/",
+    "timestamp": "2025-08-11",
+    "cpe_timestamp": "2025-08-11",
+    "psr_timestamp": "2025-08-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cream-cheese-cranberry-muffins/",
+    "timestamp": "2025-08-20",
+    "cpe_timestamp": "2025-08-20",
+    "psr_timestamp": "2025-08-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-picante/",
+    "timestamp": "2025-09-09",
+    "cpe_timestamp": "2025-09-09",
+    "psr_timestamp": "2025-09-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/mushroom-bourguignon/",
+    "timestamp": "2025-08-07",
+    "cpe_timestamp": "2025-08-08",
+    "psr_timestamp": "2025-08-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/snickerdoodle-cake/",
+    "timestamp": "2025-12-02",
+    "cpe_timestamp": "2025-12-02",
+    "psr_timestamp": "2025-12-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/honey-deuce-cocktail/",
+    "timestamp": "2025-08-14",
+    "cpe_timestamp": "2025-08-28",
+    "psr_timestamp": "2025-08-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tangy-grilled-pineapple-chicken/",
+    "timestamp": "2025-07-29",
+    "cpe_timestamp": "2025-07-29",
+    "psr_timestamp": "2025-07-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/egg-white-muffins/",
+    "timestamp": "2025-08-05",
+    "cpe_timestamp": "2025-08-05",
+    "psr_timestamp": "2025-08-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tyler-smith-jalapeno-poppers/",
+    "timestamp": "2025-07-25",
+    "cpe_timestamp": "2025-09-04",
+    "psr_timestamp": "2025-07-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/peach-cobbler-cheesecake/",
+    "timestamp": "2025-08-20",
+    "cpe_timestamp": "2025-08-20",
+    "psr_timestamp": "2025-08-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/vegan-banana-muffins/",
+    "timestamp": "2025-09-03",
+    "cpe_timestamp": "2025-09-03",
+    "psr_timestamp": "2025-09-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/elise-jesse-philly-cheesesteak-zucchini-boats/",
+    "timestamp": "2025-07-28",
+    "cpe_timestamp": "2025-09-04",
+    "psr_timestamp": "2025-07-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/dubai-chocolate-rice-krispies/",
+    "timestamp": "2025-06-27",
+    "cpe_timestamp": "2025-08-14",
+    "psr_timestamp": "2025-06-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hetal-vasavada-matchai-tiramisu/",
+    "timestamp": "2025-06-12",
+    "cpe_timestamp": "2025-09-04",
+    "psr_timestamp": "2025-06-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/egg-white-frittata-2/",
+    "timestamp": "2025-08-11",
+    "cpe_timestamp": "2025-08-11",
+    "psr_timestamp": "2025-08-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tyler-smith-hot-dog-chili-dip/",
+    "timestamp": "2025-06-10",
+    "cpe_timestamp": "2025-09-04",
+    "psr_timestamp": "2025-06-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lucy-wang-rainbow-mochi-rice-krispies/",
+    "timestamp": "2025-06-10",
+    "cpe_timestamp": "2025-09-04",
+    "psr_timestamp": "2025-06-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/elise-jesse-mini-lasagna-cupcakes/",
+    "timestamp": "2025-06-10",
+    "cpe_timestamp": "2025-09-04",
+    "psr_timestamp": "2025-06-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/fried-cheese-curds/",
+    "timestamp": "2025-06-10",
+    "cpe_timestamp": "2025-06-10",
+    "psr_timestamp": "2025-06-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/orange-creamsicle-bars/",
+    "timestamp": "2025-06-27",
+    "cpe_timestamp": "2025-06-27",
+    "psr_timestamp": "2025-06-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cherry-pie-cocktail/",
+    "timestamp": "2025-06-14",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-06-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lone-ranger-cocktail/",
+    "timestamp": "2025-06-17",
+    "cpe_timestamp": "2025-06-17",
+    "psr_timestamp": "2025-06-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hetal-vasavada-fizzy-fruit/",
+    "timestamp": "2025-06-05",
+    "cpe_timestamp": "2025-06-05",
+    "psr_timestamp": "2025-06-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/monster-cookie-scones/",
+    "timestamp": "2025-08-14",
+    "cpe_timestamp": "2025-08-14",
+    "psr_timestamp": "2025-08-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/elise-jesse-blt-with-homemade-mayo/",
+    "timestamp": "2025-06-05",
+    "cpe_timestamp": "2025-06-05",
+    "psr_timestamp": "2025-06-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/bison-meat-loaf/",
+    "timestamp": "2025-06-05",
+    "cpe_timestamp": "2025-06-05",
+    "psr_timestamp": "2025-06-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cucumber-sandwiches-2/",
+    "timestamp": "2025-09-24",
+    "cpe_timestamp": "2025-09-24",
+    "psr_timestamp": "2025-09-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cottage-cheese-alfredo-sauce/",
+    "timestamp": "2025-07-09",
+    "cpe_timestamp": "2025-07-09",
+    "psr_timestamp": "2025-07-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemon-pudding/",
+    "timestamp": "2025-06-04",
+    "cpe_timestamp": "2025-06-04",
+    "psr_timestamp": "2025-06-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/orange-creamsicle-cookies/",
+    "timestamp": "2025-08-12",
+    "cpe_timestamp": "2025-08-12",
+    "psr_timestamp": "2025-08-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicago-hot-dogs/",
+    "timestamp": "2025-08-13",
+    "cpe_timestamp": "2025-08-13",
+    "psr_timestamp": "2025-08-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pistachio-muffins/",
+    "timestamp": "2025-08-06",
+    "cpe_timestamp": "2025-08-06",
+    "psr_timestamp": "2025-08-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/french-hot-chocolate/",
+    "timestamp": "2025-06-05",
+    "cpe_timestamp": "2025-06-05",
+    "psr_timestamp": "2025-06-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lucy-wang-mini-chashu-ramen/",
+    "timestamp": "2025-08-12",
+    "cpe_timestamp": "2025-09-03",
+    "psr_timestamp": "2025-08-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/strawberry-pretzel-salad-poke-cake/",
+    "timestamp": "2025-08-04",
+    "cpe_timestamp": "2025-08-28",
+    "psr_timestamp": "2025-08-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/judys-chocolate-chip-banana-bread/",
+    "timestamp": "2025-05-22",
+    "cpe_timestamp": "2025-05-22",
+    "psr_timestamp": "2025-05-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/conch-fritters/",
+    "timestamp": "2025-05-21",
+    "cpe_timestamp": "2025-05-30",
+    "psr_timestamp": "2025-05-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/green-chili-2/",
+    "timestamp": "2025-05-21",
+    "cpe_timestamp": "2025-06-10",
+    "psr_timestamp": "2025-05-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lucy-wang-mini-pizza-pigs-in-a-blanket/",
+    "timestamp": "2025-05-20",
+    "cpe_timestamp": "2025-05-20",
+    "psr_timestamp": "2025-05-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemon-blueberry-cookies/",
+    "timestamp": "2025-05-20",
+    "cpe_timestamp": "2025-05-22",
+    "psr_timestamp": "2025-05-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/einspanner-coffee/",
+    "timestamp": "2025-05-06",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-05-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-tinga-tacos/",
+    "timestamp": "2025-07-11",
+    "cpe_timestamp": "2025-10-24",
+    "psr_timestamp": "2025-07-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blt-salad-2/",
+    "timestamp": "2025-09-22",
+    "cpe_timestamp": "2025-09-22",
+    "psr_timestamp": "2025-09-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/grinch-pound-cake/",
+    "timestamp": "2025-08-28",
+    "cpe_timestamp": "2025-08-28",
+    "psr_timestamp": "2025-08-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/grinch-fudge/",
+    "timestamp": "2025-08-28",
+    "cpe_timestamp": "2025-08-28",
+    "psr_timestamp": "2025-08-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/garbage-bread/",
+    "timestamp": "2025-05-06",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-05-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/grinch-cake-pops/",
+    "timestamp": "2025-08-28",
+    "cpe_timestamp": "2025-08-28",
+    "psr_timestamp": "2025-08-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/grinch-cocktails/",
+    "timestamp": "2025-10-28",
+    "cpe_timestamp": "2025-10-28",
+    "psr_timestamp": "2025-10-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/rhubarb-margarita/",
+    "timestamp": "2025-06-09",
+    "cpe_timestamp": "2025-06-11",
+    "psr_timestamp": "2025-06-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/maple-apple-pie/",
+    "timestamp": "2025-05-05",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-05-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/greek-pork-chops/",
+    "timestamp": "2025-06-23",
+    "cpe_timestamp": "2025-06-23",
+    "psr_timestamp": "2025-06-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-bacon-ranch-sandwich/",
+    "timestamp": "2025-06-14",
+    "cpe_timestamp": "2025-09",
+    "psr_timestamp": "2025-06-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hot-honey-chicken-tenders/",
+    "timestamp": "2025-06-19",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-06-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/matcha-tiramisu/",
+    "timestamp": "2025-05-02",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-05-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/perfect-bite-fruit-salad/",
+    "timestamp": "2025-05-18",
+    "cpe_timestamp": "2025-07-07",
+    "psr_timestamp": "2025-05-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/soda-cracker-pie/",
+    "timestamp": "2025-07-18",
+    "cpe_timestamp": "2025-07-18",
+    "psr_timestamp": "2025-07-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/layered-strawberry-bundt-cake/",
+    "timestamp": "2025-05-18",
+    "cpe_timestamp": "2025-06-23",
+    "psr_timestamp": "2025-05-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/thai-iced-tea-recipe/",
+    "timestamp": "2025-04-30",
+    "cpe_timestamp": "2025-04-30",
+    "psr_timestamp": "2025-04-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lucy-wangs-ice-cream-cake-pops/",
+    "timestamp": "2025-05-02",
+    "cpe_timestamp": "2025-05-02",
+    "psr_timestamp": "2025-05-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/french-bread-pizza-recipe/",
+    "timestamp": "2025-04-09",
+    "cpe_timestamp": "2025-05-06",
+    "psr_timestamp": "2025-04-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cinnamon-sugar-sourdough-croissant-loaf/",
+    "timestamp": "2025-04-04",
+    "cpe_timestamp": "2025-05-06",
+    "psr_timestamp": "2025-04-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chocolate-creme-brulee/",
+    "timestamp": "2025-05-25",
+    "cpe_timestamp": "2025-05-26",
+    "psr_timestamp": "2025-05-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/strawberry-cream-cheese-frosting/",
+    "timestamp": "2025-05-29",
+    "cpe_timestamp": "2025-05-29",
+    "psr_timestamp": "2025-05-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/queen-elizabeth-cake/",
+    "timestamp": "2025-06-03",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-06-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/turkey-club-sandwich/",
+    "timestamp": "2025-05-07",
+    "cpe_timestamp": "2025-05-07",
+    "psr_timestamp": "2025-05-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cadbury-coffee-shots/",
+    "timestamp": "2025-04-03",
+    "cpe_timestamp": "2025-05-06",
+    "psr_timestamp": "2025-04-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blueberry-waffles/",
+    "timestamp": "2025-05-13",
+    "cpe_timestamp": "2025-05-13",
+    "psr_timestamp": "2025-05-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/melting-cabbage/",
+    "timestamp": "2025-04-08",
+    "cpe_timestamp": "2025-06-23",
+    "psr_timestamp": "2025-04-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/gingerbread-ice-cream/",
+    "timestamp": "2025-04-03",
+    "cpe_timestamp": "2025-04-04",
+    "psr_timestamp": "2025-04-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/peanut-butter-overnight-oats/",
+    "timestamp": "2025-04-02",
+    "cpe_timestamp": "2025-04-02",
+    "psr_timestamp": "2025-04-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemon-cookies/",
+    "timestamp": "2025-05-28",
+    "cpe_timestamp": "2025-05-28",
+    "psr_timestamp": "2025-05-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/banana-bread-cinnamon-rolls/",
+    "timestamp": "2025-04-01",
+    "cpe_timestamp": "2025-05-12",
+    "psr_timestamp": "2025-04-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/mm-cookies/",
+    "timestamp": "2025-04-01",
+    "cpe_timestamp": "2025-04-01",
+    "psr_timestamp": "2025-04-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/broccoli-cheddar-pasta/",
+    "timestamp": "2025-04-08",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-04-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/boiled-cabbage/",
+    "timestamp": "2025-03-30",
+    "cpe_timestamp": "2025-04-16",
+    "psr_timestamp": "2025-03-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tyler-smith-taco-marinade/",
+    "timestamp": "2025-05-06",
+    "cpe_timestamp": "2025-05-07",
+    "psr_timestamp": "2025-05-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blackened-fish-tacos/",
+    "timestamp": "2025-07-08",
+    "cpe_timestamp": "2025-07-08",
+    "psr_timestamp": "2025-07-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/dubai-chocolate-cheesecake-bars/",
+    "timestamp": "2025-04-29",
+    "cpe_timestamp": "2025-06-11",
+    "psr_timestamp": "2025-04-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chili-and-cinnamon-rolls-recipe/",
+    "timestamp": "2025-04-15",
+    "cpe_timestamp": "2025-04-15",
+    "psr_timestamp": "2025-04-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/red-cabbage-salad/",
+    "timestamp": "2025-04-11",
+    "cpe_timestamp": "2025-04-11",
+    "psr_timestamp": "2025-04-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/marshmallow-brownies-2/",
+    "timestamp": "2025-07-24",
+    "cpe_timestamp": "2025-07-24",
+    "psr_timestamp": "2025-07-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/braised-cabbage/",
+    "timestamp": "2025-04-01",
+    "cpe_timestamp": "2025-04-01",
+    "psr_timestamp": "2025-04-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/peaches-and-cream-margarita/",
+    "timestamp": "2025-05-01",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-05-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/warm-peach-cake/",
+    "timestamp": "2025-04-25",
+    "cpe_timestamp": "2025-04-25",
+    "psr_timestamp": "2025-04-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tyler-smith-air-fryer-buffalo-wings/",
+    "timestamp": "2025-04-22",
+    "cpe_timestamp": "2025-05-06",
+    "psr_timestamp": "2025-04-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/how-to-make-milkshakes/",
+    "timestamp": "2025-04-22",
+    "cpe_timestamp": "2025-04-22",
+    "psr_timestamp": "2025-04-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/treacle-pudding/",
+    "timestamp": "2025-04-22",
+    "cpe_timestamp": "2025-04-22",
+    "psr_timestamp": "2025-04-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cheesecake-cups/",
+    "timestamp": "2025-03-31",
+    "cpe_timestamp": "2025-03-31",
+    "psr_timestamp": "2025-03-31",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/strawberry-pretzel-salad-dip/",
+    "timestamp": "2025-04-30",
+    "cpe_timestamp": "2025-07-07",
+    "psr_timestamp": "2025-04-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/dubai-chocolate-latte/",
+    "timestamp": "2025-05-02",
+    "cpe_timestamp": "2025-06-11",
+    "psr_timestamp": "2025-05-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pretzel-buns/",
+    "timestamp": "2025-05-26",
+    "cpe_timestamp": "2025-05-26",
+    "psr_timestamp": "2025-05-26",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/spinach-shrimp-fettuccine/",
+    "timestamp": "2025-04-22",
+    "cpe_timestamp": "2025-04-22",
+    "psr_timestamp": "2025-04-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hetal-vasavada-cookie-bars/",
+    "timestamp": "2025-04-14",
+    "cpe_timestamp": "2025-05-06",
+    "psr_timestamp": "2025-04-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemon-blueberry-cheesecake/",
+    "timestamp": "2025-08-26",
+    "cpe_timestamp": "2025-08-26",
+    "psr_timestamp": "2025-08-26",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blueberry-overnight-oats/",
+    "timestamp": "2025-05-19",
+    "cpe_timestamp": "2025-05-19",
+    "psr_timestamp": "2025-05-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/garlic-shrimp-mushroom-pasta/",
+    "timestamp": "2025-04-18",
+    "cpe_timestamp": "2025-04-18",
+    "psr_timestamp": "2025-04-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/runzas/",
+    "timestamp": "2025-04-16",
+    "cpe_timestamp": "2025-05-22",
+    "psr_timestamp": "2025-04-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/polish-potato-pancakes/",
+    "timestamp": "2025-08-11",
+    "cpe_timestamp": "2025-08-11",
+    "psr_timestamp": "2025-08-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cauliflower-tacos/",
+    "timestamp": "2025-03-28",
+    "cpe_timestamp": "2025-03-28",
+    "psr_timestamp": "2025-03-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/potato-chip-chicken-2/",
+    "timestamp": "2025-05-07",
+    "cpe_timestamp": "2025-06-23",
+    "psr_timestamp": "2025-05-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/mango-cake/",
+    "timestamp": "2025-03-27",
+    "cpe_timestamp": "2025-03-27",
+    "psr_timestamp": "2025-03-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-lollipop/",
+    "timestamp": "2025-03-27",
+    "cpe_timestamp": "2025-05-27",
+    "psr_timestamp": "2025-03-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/caramel-recipe/",
+    "timestamp": "2025-06-18",
+    "cpe_timestamp": "2025-06-18",
+    "psr_timestamp": "2025-06-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-biryani/",
+    "timestamp": "2025-03-27",
+    "cpe_timestamp": "2025-03-27",
+    "psr_timestamp": "2025-03-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tofu-scramble/",
+    "timestamp": "2025-03-23",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-03-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/eggless-brownies/",
+    "timestamp": "2025-04-01",
+    "cpe_timestamp": "2025-06-23",
+    "psr_timestamp": "2025-04-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-panera-bacon-turkey-bravo/",
+    "timestamp": "2025-04-21",
+    "cpe_timestamp": "2025-04-30",
+    "psr_timestamp": "2025-04-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemon-blueberry-cake/",
+    "timestamp": "2025-04-03",
+    "cpe_timestamp": "2025-04-03",
+    "psr_timestamp": "2025-04-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/rice-kheer-recipe/",
+    "timestamp": "2025-03-21",
+    "cpe_timestamp": "2025-03-27",
+    "psr_timestamp": "2025-03-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/orange-marmalade/",
+    "timestamp": "2025-04-07",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-04-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/aunt-ediths-baked-pancake/",
+    "timestamp": "2025-05-06",
+    "cpe_timestamp": "2025-05-06",
+    "psr_timestamp": "2025-05-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/baked-chicken-legs/",
+    "timestamp": "2025-03-21",
+    "cpe_timestamp": "2025-03-21",
+    "psr_timestamp": "2025-03-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/iced-oatmeal-cookies/",
+    "timestamp": "2025-03-20",
+    "cpe_timestamp": "2025-04-11",
+    "psr_timestamp": "2025-03-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/coconut-curry-chicken-2/",
+    "timestamp": "2025-04-02",
+    "cpe_timestamp": "2025-07-21",
+    "psr_timestamp": "2025-04-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/creme-brulee-cheesecake/",
+    "timestamp": "2025-03-17",
+    "cpe_timestamp": "2025-03-17",
+    "psr_timestamp": "2025-03-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/strawberry-pudding/",
+    "timestamp": "2025-03-20",
+    "cpe_timestamp": "2025-09-11",
+    "psr_timestamp": "2025-03-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/raspberry-smoothie-bowls/",
+    "timestamp": "2025-03-19",
+    "cpe_timestamp": "2025-03-19",
+    "psr_timestamp": "2025-03-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/flank-steak-tacos/",
+    "timestamp": "2025-06-02",
+    "cpe_timestamp": "2025-06-02",
+    "psr_timestamp": "2025-06-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-fryer-cinnamon-rolls/",
+    "timestamp": "2025-06-05",
+    "cpe_timestamp": "2025-06-05",
+    "psr_timestamp": "2025-06-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/grape-nuts-pudding/",
+    "timestamp": "2025-03-05",
+    "cpe_timestamp": "2025-06-23",
+    "psr_timestamp": "2025-03-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/strawberry-cheesecake-cinnamon-rolls/",
+    "timestamp": "2025-02-06",
+    "cpe_timestamp": "2025-08-20",
+    "psr_timestamp": "2025-02-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/raspberry-scones/",
+    "timestamp": "2025-05-29",
+    "cpe_timestamp": "2025-05-29",
+    "psr_timestamp": "2025-05-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hetal-vasavada-taco-bell-inspired-dense-bean-salad/",
+    "timestamp": "2025-08-08",
+    "cpe_timestamp": "2025-09-03",
+    "psr_timestamp": "2025-08-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/french-onion-pasta-recipe/",
+    "timestamp": "2025-03-22",
+    "cpe_timestamp": "2025-09-19",
+    "psr_timestamp": "2025-03-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/gluten-free-cinnamon-rolls/",
+    "timestamp": "2025-03-20",
+    "cpe_timestamp": "2025-03-20",
+    "psr_timestamp": "2025-03-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/swamp-cabbage/",
+    "timestamp": "2025-05-15",
+    "cpe_timestamp": "2025-05-15",
+    "psr_timestamp": "2025-05-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooker-chicken-stew-2/",
+    "timestamp": "2025-02-09",
+    "cpe_timestamp": "2025-02-14",
+    "psr_timestamp": "2025-02-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chocolate-malted-cookies/",
+    "timestamp": "2025-09-22",
+    "cpe_timestamp": "2025-09-22",
+    "psr_timestamp": "2025-09-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/peanut-butter-rice-krispie-treats/",
+    "timestamp": "2025-02-03",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-02-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/corn-on-the-cob-recipe/",
+    "timestamp": "2025-06-06",
+    "cpe_timestamp": "2025-06-06",
+    "psr_timestamp": "2025-06-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/elise-jesses-slow-cooker-ham-and-gruyere-quiche/",
+    "timestamp": "2025-04-16",
+    "cpe_timestamp": "2025-05-06",
+    "psr_timestamp": "2025-04-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-popped-popcorn/",
+    "timestamp": "2025-01-21",
+    "cpe_timestamp": "2025-01-21",
+    "psr_timestamp": "2025-01-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cinnamon-roll-french-toast-casserole/",
+    "timestamp": "2025-01-23",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-01-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/bacon-crackers/",
+    "timestamp": "2025-02-20",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-02-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cheeseburger-casserole-2/",
+    "timestamp": "2025-01-20",
+    "cpe_timestamp": "2025-01-20",
+    "psr_timestamp": "2025-01-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-dunkin-cookie-butter-cold-brew/",
+    "timestamp": "2025-01-21",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-01-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-marshall-fields-chocolate-cookies/",
+    "timestamp": "2025-01-20",
+    "cpe_timestamp": "2025-01-20",
+    "psr_timestamp": "2025-01-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-fryer-chicken-breasts/",
+    "timestamp": "2025-01-20",
+    "cpe_timestamp": "2025-01-20",
+    "psr_timestamp": "2025-01-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/shrimp-spaghetti/",
+    "timestamp": "2025-01-30",
+    "cpe_timestamp": "2025-09-01",
+    "psr_timestamp": "2025-01-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-cracker-barrel-pancakes/",
+    "timestamp": "2025-01-30",
+    "cpe_timestamp": "2025-06-23",
+    "psr_timestamp": "2025-01-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/vegan-oatmeal-cookies/",
+    "timestamp": "2025-01-24",
+    "cpe_timestamp": "2025-03-16",
+    "psr_timestamp": "2025-01-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/frikadellen/",
+    "timestamp": "2025-01-25",
+    "cpe_timestamp": "2025-08-04",
+    "psr_timestamp": "2025-01-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/dill-pickle-bread-recipe/",
+    "timestamp": "2025-01-29",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-01-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemon-ricotta-cake-2/",
+    "timestamp": "2025-01-24",
+    "cpe_timestamp": "2025-04-24",
+    "psr_timestamp": "2025-01-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/bacon-ranch-cheese-ball/",
+    "timestamp": "2025-02-05",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-02-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-dominos-cookie-brownies/",
+    "timestamp": "2025-01-23",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-01-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/coffee-jelly/",
+    "timestamp": "2025-01-23",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-01-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/loco-moco/",
+    "timestamp": "2025-01-23",
+    "cpe_timestamp": "2025-01-24",
+    "psr_timestamp": "2025-01-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/streusel/",
+    "timestamp": "2025-01-23",
+    "cpe_timestamp": "2025-01-23",
+    "psr_timestamp": "2025-01-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/vintage-heart-cake/",
+    "timestamp": "2025-01-23",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-01-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/collard-greens-with-smoked-turkey/",
+    "timestamp": "2025-01-30",
+    "cpe_timestamp": "2025-01-30",
+    "psr_timestamp": "2025-01-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-dunkin-oreo-hot-chocolate/",
+    "timestamp": "2025-01-29",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-01-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-fryer-potato-skins/",
+    "timestamp": "2025-01-29",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-01-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/homemade-marinara-sauce/",
+    "timestamp": "2023-12-05",
+    "cpe_timestamp": "2023-12-05",
+    "psr_timestamp": "2023-12-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/grilled-chickpea-salad-sandwich/",
+    "timestamp": "2024-11-27",
+    "cpe_timestamp": "2025-11",
+    "psr_timestamp": "2024-11-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/fig-almond-cookies/",
+    "timestamp": "2025-01-09",
+    "cpe_timestamp": "2025-01-09",
+    "psr_timestamp": "2025-01-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/garlic-chicken-with-herbs/",
+    "timestamp": "2025-11-18",
+    "cpe_timestamp": "2025-11-18",
+    "psr_timestamp": "2025-11-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/anti-vampire-potion-butternut-squash-garlic-soup/",
+    "timestamp": "2024-06-07",
+    "cpe_timestamp": "2024-06-07",
+    "psr_timestamp": "2024-06-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/zucchini-cornmeal-pancakes/",
+    "timestamp": "2024-08-09",
+    "cpe_timestamp": "2024-08-09",
+    "psr_timestamp": "2024-08-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lip-smacking-peach-whiskey-wings/",
+    "timestamp": "2024-07-08",
+    "cpe_timestamp": "2024-07-08",
+    "psr_timestamp": "2024-07-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/puff-pastry-apple-strudel/",
+    "timestamp": "2023-12-21",
+    "cpe_timestamp": "2023-12-21",
+    "psr_timestamp": "2023-12-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sausage-vegetable-egg-bake/",
+    "timestamp": "2024-08-13",
+    "cpe_timestamp": "2025-03-31",
+    "psr_timestamp": "2024-08-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/california-burger-bowls/",
+    "timestamp": "2024-06-07",
+    "cpe_timestamp": "2024-06-07",
+    "psr_timestamp": "2024-06-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/huli-huli-chicken-thighs/",
+    "timestamp": "2024-05-14",
+    "cpe_timestamp": "2024-05-14",
+    "psr_timestamp": "2024-05-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/never-fail-cutout-cookies/",
+    "timestamp": "2024-12-09",
+    "cpe_timestamp": "2024-12-09",
+    "psr_timestamp": "2024-12-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooker-sweet-spicy-pulled-pork/",
+    "timestamp": "2024-12-02",
+    "cpe_timestamp": "2025-09-10",
+    "psr_timestamp": "2024-12-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/must-have-tiramisu/",
+    "timestamp": "2024-07-17",
+    "cpe_timestamp": "2024-07-17",
+    "psr_timestamp": "2024-07-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/make-ahead-creamy-potatoes/",
+    "timestamp": "2023-10-03",
+    "cpe_timestamp": "2025-07-08",
+    "psr_timestamp": "2023-10-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/beefy-noodle-casserole/",
+    "timestamp": "2024-02-13",
+    "cpe_timestamp": "2024-02-13",
+    "psr_timestamp": "2024-02-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/layered-cornbread-salad/",
+    "timestamp": "2024-08-29",
+    "cpe_timestamp": "2025-03-14",
+    "psr_timestamp": "2024-08-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/mediterranean-bulgur-bowl/",
+    "timestamp": "2024-10-02",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooker-potluck-beans/",
+    "timestamp": "2024-11-09",
+    "cpe_timestamp": "2025-09-10",
+    "psr_timestamp": "2024-11-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooker-beef-tips-burgundy/",
+    "timestamp": "2024-07-02",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-07-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooker-peach-crumble/",
+    "timestamp": "2024-07-17",
+    "cpe_timestamp": "2024-07-17",
+    "psr_timestamp": "2024-07-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/the-best-cheesy-scalloped-potatoes/",
+    "timestamp": "2024-11-27",
+    "cpe_timestamp": "2024-11-27",
+    "psr_timestamp": "2024-11-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/citrus-herb-roast-chicken/",
+    "timestamp": "2024-01-30",
+    "cpe_timestamp": "2025",
+    "psr_timestamp": "2024-01-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cranberry-pecan-oatmeal-cookies/",
+    "timestamp": "2024-09-05",
+    "cpe_timestamp": "2024-09-05",
+    "psr_timestamp": "2024-09-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemon-chicken-with-basil/",
+    "timestamp": "2022-10-12",
+    "cpe_timestamp": "2022-10-12",
+    "psr_timestamp": "2022-10-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/mediterranean-orzo-chicken-salad/",
+    "timestamp": "2024-08-28",
+    "cpe_timestamp": "2024-08-29",
+    "psr_timestamp": "2024-08-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/oat-coconut-icebox-cookies/",
+    "timestamp": "2024-09-08",
+    "cpe_timestamp": "2025-09-18",
+    "psr_timestamp": "2024-09-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cherry-and-chocolate-ice-cream-pie/",
+    "timestamp": "2022-10-22",
+    "cpe_timestamp": "2025-07",
+    "psr_timestamp": "2022-10-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chocolate-nut-pinwheel-cookies/",
+    "timestamp": "2024-07-08",
+    "cpe_timestamp": "2024-10-08",
+    "psr_timestamp": "2024-07-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemon-rosemary-butter-cookies/",
+    "timestamp": "2023-11-14",
+    "cpe_timestamp": "2023-11-14",
+    "psr_timestamp": "2023-11-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/apple-cinnamon-cake/",
+    "timestamp": "2024-06-07",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-06-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/banana-oat-breakfast-cookies/",
+    "timestamp": "2024-09-22",
+    "cpe_timestamp": "2025-05",
+    "psr_timestamp": "2024-09-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chai-snickerdoodles/",
+    "timestamp": "2022-04-24",
+    "cpe_timestamp": "2022-04-24",
+    "psr_timestamp": "2022-04-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/apple-streusel-bars/",
+    "timestamp": "2023-09-13",
+    "cpe_timestamp": "2023-09-13",
+    "psr_timestamp": "2023-09-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/makeover-tater-topped-casserole/",
+    "timestamp": "2024-06-21",
+    "cpe_timestamp": "2024-06-21",
+    "psr_timestamp": "2024-06-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/marinated-sausage-kabobs/",
+    "timestamp": "2022-10-27",
+    "cpe_timestamp": "2022-10-27",
+    "psr_timestamp": "2022-10-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chocolate-peanut-cookies/",
+    "timestamp": "2022-06-14",
+    "cpe_timestamp": "2022-06-14",
+    "psr_timestamp": "2022-06-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/brussels-sprouts-with-bacon/",
+    "timestamp": "2024-09-30",
+    "cpe_timestamp": "2025-03-18",
+    "psr_timestamp": "2024-09-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooked-peachy-spareribs/",
+    "timestamp": "2022-10-02",
+    "cpe_timestamp": "2022-10-02",
+    "psr_timestamp": "2022-10-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/easy-greek-chicken-sandwiches/",
+    "timestamp": "2024-09-04",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-09-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/meaty-pasta-casseroles/",
+    "timestamp": "2024-09-03",
+    "cpe_timestamp": "2025-03-31",
+    "psr_timestamp": "2024-09-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/loaded-baked-potato-soup/",
+    "timestamp": "2024-07-16",
+    "cpe_timestamp": "2025-05-28",
+    "psr_timestamp": "2024-07-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemon-pepper-broccoli/",
+    "timestamp": "2024-10-25",
+    "cpe_timestamp": "2024-10-25",
+    "psr_timestamp": "2024-10-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/fried-cheese-ravioli/",
+    "timestamp": "2024-03-28",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "2024-03-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/creamy-tarragon-chicken/",
+    "timestamp": "2024-12-18",
+    "cpe_timestamp": "2024-12-18",
+    "psr_timestamp": "2024-12-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/bacon-beef-barley-soup/",
+    "timestamp": "2024-10-01",
+    "cpe_timestamp": "2024-10-01",
+    "psr_timestamp": "2024-10-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/frosty-peppermint-dessert/",
+    "timestamp": "2025-09-09",
+    "cpe_timestamp": "2025-09-09",
+    "psr_timestamp": "2025-09-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hungarian-chicken-paprikash/",
+    "timestamp": "2024-09-01",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-09-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/banana-nut-bundt-cake/",
+    "timestamp": "2024-12",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-09-03",
+    "system_confidence": "conflicted"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tuna-salad-wraps/",
+    "timestamp": "2024-05-09",
+    "cpe_timestamp": "2024-05-09",
+    "psr_timestamp": "2024-05-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/peanut-butter-banana-oatmeal/",
+    "timestamp": "2024-09-20",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "2024-09-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/turkey-dijon-melts/",
+    "timestamp": "2024-08-30",
+    "cpe_timestamp": "2024-09",
+    "psr_timestamp": "2024-08-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/garden-fresh-bruschetta/",
+    "timestamp": "2024-05-23",
+    "cpe_timestamp": "2025-04-09",
+    "psr_timestamp": "2024-05-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/holly-butter-mints/",
+    "timestamp": "2023-06-30",
+    "cpe_timestamp": "2023-06-30",
+    "psr_timestamp": "2023-06-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/easy-apple-sweet-potato-bake/",
+    "timestamp": "2024-06-26",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-06-26",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chocolate-heart-cookies/",
+    "timestamp": "2024-09-09",
+    "cpe_timestamp": "2024-09-10",
+    "psr_timestamp": "2024-09-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pear-raspberry-crisp/",
+    "timestamp": "2024-07-17",
+    "cpe_timestamp": "2025-11",
+    "psr_timestamp": "2024-07-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/homemade-rhubarb-upside-down-cake/",
+    "timestamp": "2025-02",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "",
+    "system_confidence": "none"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/simple-shrimp-chowder/",
+    "timestamp": "2024-05-15",
+    "cpe_timestamp": "2025-01-29",
+    "psr_timestamp": "2024-05-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooker-hot-fudge-cake/",
+    "timestamp": "2024-08-13",
+    "cpe_timestamp": "2024-08-13",
+    "psr_timestamp": "2024-08-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hot-german-potato-salad-for-two/",
+    "timestamp": "2024-05-10",
+    "cpe_timestamp": "2024-10-10",
+    "psr_timestamp": "2024-05-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tuna-melt-on-cornbread/",
+    "timestamp": "2024-10-03",
+    "cpe_timestamp": "2024-10-03",
+    "psr_timestamp": "2024-10-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/apple-swiss-turkey-sandwiches/",
+    "timestamp": "2023-10-03",
+    "cpe_timestamp": "2023-10-03",
+    "psr_timestamp": "2023-10-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/spicy-chicken-stew/",
+    "timestamp": "2024-08-19",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-08-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/vegetable-stuffed-flank-steak/",
+    "timestamp": "2024-09-02",
+    "cpe_timestamp": "2024-10-21",
+    "psr_timestamp": "2024-09-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/special-seafood-casserole/",
+    "timestamp": "2024-08-06",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-08-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hearty-beef-veggie-soup/",
+    "timestamp": "2024-08-07",
+    "cpe_timestamp": "2025-12",
+    "psr_timestamp": "2024-08-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/easy-marinated-grilled-flank-steak/",
+    "timestamp": "2024-09-02",
+    "cpe_timestamp": "2024-09-02",
+    "psr_timestamp": "2024-09-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/early-riser-oven-omelet/",
+    "timestamp": "2025-09-08",
+    "cpe_timestamp": "2025-09-08",
+    "psr_timestamp": "2025-09-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/makeover-peach-upside-down-cake/",
+    "timestamp": "2024-09-05",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "2024-09-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/gingerbread-snowflakes/",
+    "timestamp": "2024-02-29",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-02-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/frosted-chocolate-chip-cheesecake/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cream-cheese-sheet-cake/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2024-10-15",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/caramel-cashew-cheesecake/",
+    "timestamp": "2024-08-01",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-08-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chili-chicken-strips/",
+    "timestamp": "2024-05-23",
+    "cpe_timestamp": "2024-05-23",
+    "psr_timestamp": "2024-05-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/whole-wheat-blueberry-muffins/",
+    "timestamp": "2024-08-26",
+    "cpe_timestamp": "2024-08-26",
+    "psr_timestamp": "2024-08-26",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chunky-creamy-chicken-soup/",
+    "timestamp": "2024-09-06",
+    "cpe_timestamp": "2024-09-06",
+    "psr_timestamp": "2024-09-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/rhubarb-filled-cookies/",
+    "timestamp": "2024-09-05",
+    "cpe_timestamp": "2025-09-24",
+    "psr_timestamp": "2024-09-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/seasoned-croutons/",
+    "timestamp": "2025-07-01",
+    "cpe_timestamp": "2025-07-01",
+    "psr_timestamp": "2025-07-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/potluck-antipasto-pasta-salad/",
+    "timestamp": "2024-10-01",
+    "cpe_timestamp": "2024-10-01",
+    "psr_timestamp": "",
+    "system_confidence": "none"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tangy-barbecue-sandwiches/",
+    "timestamp": "2024-09-29",
+    "cpe_timestamp": "2024-10",
+    "psr_timestamp": "2024-09-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/glazed-lemon-tube-cake/",
+    "timestamp": "2023-12-14",
+    "cpe_timestamp": "2023-12-14",
+    "psr_timestamp": "2023-12-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/mint-brownie-pie/",
+    "timestamp": "2024-07-04",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-07-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cherry-filled-cookies/",
+    "timestamp": "2024-08-02",
+    "cpe_timestamp": "2024-08-02",
+    "psr_timestamp": "2024-08-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chocolate-truffle-cheesecake/",
+    "timestamp": "2024-08-07",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-08-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hearty-baked-beef-stew/",
+    "timestamp": "2024-09-05",
+    "cpe_timestamp": "2024-09-05",
+    "psr_timestamp": "2024-09-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/creamy-rice-pudding/",
+    "timestamp": "2024-08-14",
+    "cpe_timestamp": "2024-08-14",
+    "psr_timestamp": "2024-08-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/make-ahead-sloppy-joes/",
+    "timestamp": "2024-06-20",
+    "cpe_timestamp": "2024-06-20",
+    "psr_timestamp": "2024-06-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/bourbon-candied-bacon-deviled-eggs/",
+    "timestamp": "2025-01-17",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "2025-01-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/garam-masala-2/",
+    "timestamp": "2024-11-20",
+    "cpe_timestamp": "2024-11-20",
+    "psr_timestamp": "2024-11-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-olive-garden-chicken-marsala-recipe/",
+    "timestamp": "2025-03-23",
+    "cpe_timestamp": "2025-03-23",
+    "psr_timestamp": "2025-03-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chickpea-brownies/",
+    "timestamp": "2025-03-27",
+    "cpe_timestamp": "2025-03-27",
+    "psr_timestamp": "2025-03-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lamb-meatballs/",
+    "timestamp": "2024-11-20",
+    "cpe_timestamp": "2025-02-07",
+    "psr_timestamp": "2024-11-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chocolate-mug-cake/",
+    "timestamp": "2025-01-30",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-01-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cheeseburger-soup-with-rice/",
+    "timestamp": "2024-02-22",
+    "cpe_timestamp": "2025-03-31",
+    "psr_timestamp": "2024-02-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/country-potato-pancakes/",
+    "timestamp": "2024-09-08",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-09-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooked-short-ribs-with-salt-skin-potatoes/",
+    "timestamp": "2024-01-17",
+    "cpe_timestamp": "2025-03-31",
+    "psr_timestamp": "2024-01-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/keto-pumpkin-cheesecake/",
+    "timestamp": "2024-11-20",
+    "cpe_timestamp": "2024-11-20",
+    "psr_timestamp": "2024-11-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/stewed-tomatoes-2-recipe/",
+    "timestamp": "2024-12-05",
+    "cpe_timestamp": "2024-12-05",
+    "psr_timestamp": "2024-12-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/philly-cheesesteak-casserole/",
+    "timestamp": "2025-01-31",
+    "cpe_timestamp": "2025-01-31",
+    "psr_timestamp": "2025-01-31",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/truffle-mac-and-cheese/",
+    "timestamp": "2024-11-19",
+    "cpe_timestamp": "2024-11-19",
+    "psr_timestamp": "2024-11-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pumpkin-cream-cold-brew/",
+    "timestamp": "2024-11-19",
+    "cpe_timestamp": "2024-11-19",
+    "psr_timestamp": "2024-11-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pumpkin-spice-cake-2/",
+    "timestamp": "2024-11-19",
+    "cpe_timestamp": "2024-11-19",
+    "psr_timestamp": "2024-11-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/double-duty-layered-enchilada-casserole/",
+    "timestamp": "2024-10-23",
+    "cpe_timestamp": "2024-10-23",
+    "psr_timestamp": "2024-10-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cinnamon-roll-apple-pie/",
+    "timestamp": "2024-11-23",
+    "cpe_timestamp": "2024-11-23",
+    "psr_timestamp": "2024-11-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/irish-bangers-and-mash/",
+    "timestamp": "2024-11-21",
+    "cpe_timestamp": "2025-02-04",
+    "psr_timestamp": "2024-11-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/honeyed-pears-in-puff-pastry/",
+    "timestamp": "2024-11-21",
+    "cpe_timestamp": "2024-11-21",
+    "psr_timestamp": "2024-11-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/how-to-make-a-roux/",
+    "timestamp": "2025-01-27",
+    "cpe_timestamp": "2025-01-29",
+    "psr_timestamp": "2025-01-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/simple-syrup-2/",
+    "timestamp": "2025-01-31",
+    "cpe_timestamp": "2025-01-31",
+    "psr_timestamp": "2025-01-31",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemon-chicken/",
+    "timestamp": "2024-11-19",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-11-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/vegetable-beef-casserole/",
+    "timestamp": "2024-08-12",
+    "cpe_timestamp": "2024-08-12",
+    "psr_timestamp": "2024-08-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/candied-bacon/",
+    "timestamp": "2025-01-23",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-01-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/savory-spaghetti-sauce/",
+    "timestamp": "2024-12-19",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-12-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/apple-tart/",
+    "timestamp": "2024-03-22",
+    "cpe_timestamp": "2024-03-22",
+    "psr_timestamp": "2024-03-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pumpkin-crunch-cake/",
+    "timestamp": "2024-11-19",
+    "cpe_timestamp": "2024-11-19",
+    "psr_timestamp": "2024-11-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/old-fashioned-chocolate-pudding/",
+    "timestamp": "2024-05-23",
+    "cpe_timestamp": "2024-05-23",
+    "psr_timestamp": "2024-05-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/red-velvet-cheesecake-brownies/",
+    "timestamp": "2025-08-22",
+    "cpe_timestamp": "2025-08-22",
+    "psr_timestamp": "2025-08-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-enchilada-casserole-2/",
+    "timestamp": "2024-11-19",
+    "cpe_timestamp": "2025-02-17",
+    "psr_timestamp": "2024-11-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/woolworth-cheesecake/",
+    "timestamp": "2024-10-12",
+    "cpe_timestamp": "2024-10-12",
+    "psr_timestamp": "2024-10-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cornbread-fritters/",
+    "timestamp": "2024-10-12",
+    "cpe_timestamp": "2024-10-12",
+    "psr_timestamp": "2024-10-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/fruity-pebbles-cheesecake/",
+    "timestamp": "2024-10-12",
+    "cpe_timestamp": "2025-04",
+    "psr_timestamp": "2024-10-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chocolate-zucchini-muffins/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2025-04",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/masa-cornbread/",
+    "timestamp": "2025-09-02",
+    "cpe_timestamp": "2025-09-02",
+    "psr_timestamp": "2025-09-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/easy-roasted-green-beans/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2024-10-15",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/gingerbread-blondies/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2024-10-15",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-fryer-hush-puppies/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2025-07",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/birthday-cheesecake/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2025-07",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/smoked-baked-beans/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2024-10-15",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-poblano-soup/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2024-10-15",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/vegan-pasta-salad/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2025-05-14",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/stewed-kidney-beans/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2024-10-15",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/british-baked-beans/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2025-07",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/salsa-morita/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2025-07",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sausage-mac-and-cheese/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2024-10-15",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/raspberry-cheesecake-2/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2024-10-15",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/date-caramel/",
+    "timestamp": "2024-10-19",
+    "cpe_timestamp": "2025-06",
+    "psr_timestamp": "2024-10-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pimiento-mac-and-cheese-2/",
+    "timestamp": "2024-10-18",
+    "cpe_timestamp": "2024-10-18",
+    "psr_timestamp": "2024-10-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/gingerbread-spice/",
+    "timestamp": "2024-10-17",
+    "cpe_timestamp": "2024-10-17",
+    "psr_timestamp": "2024-10-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cool-whip-cookies-2/",
+    "timestamp": "2024-10-14",
+    "cpe_timestamp": "2024-10-14",
+    "psr_timestamp": "2024-10-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/crockpot-chicken-gnocchi-soup/",
+    "timestamp": "2024-10-17",
+    "cpe_timestamp": "2024-10-17",
+    "psr_timestamp": "2024-10-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/microwave-sweet-potato/",
+    "timestamp": "2024-10-22",
+    "cpe_timestamp": "2024-10-22",
+    "psr_timestamp": "2024-10-22",
+    "system_confidence": "conflicted"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/jerk-chicken-recipe/",
+    "timestamp": "2024-10-17",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-10-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cinnamon-roll-casserole-2/",
+    "timestamp": "2024-11-04",
+    "cpe_timestamp": "2024-11-04",
+    "psr_timestamp": "2024-11-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/salsa-borracha/",
+    "timestamp": "2024-10-16",
+    "cpe_timestamp": "2024-10-16",
+    "psr_timestamp": "2024-10-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/mango-habanero-salsa/",
+    "timestamp": "2024-10-17",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/peach-dump-cake/",
+    "timestamp": "2024-10-21",
+    "cpe_timestamp": "2024-10-21",
+    "psr_timestamp": "2024-10-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/southern-cabbage/",
+    "timestamp": "2024-11-21",
+    "cpe_timestamp": "2024-11-21",
+    "psr_timestamp": "2024-11-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/korean-fried-chicken/",
+    "timestamp": "2024-10-16",
+    "cpe_timestamp": "2025-01-17",
+    "psr_timestamp": "2024-10-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/basque-cheesecake/",
+    "timestamp": "2024-11-11",
+    "cpe_timestamp": "2025-02-28",
+    "psr_timestamp": "2024-11-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-starbucks-cranberry-bliss-bars/",
+    "timestamp": "2024-10-17",
+    "cpe_timestamp": "2024-10-17",
+    "psr_timestamp": "2024-10-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/teriyaki-chicken-2/",
+    "timestamp": "2024-10-29",
+    "cpe_timestamp": "2024-10-29",
+    "psr_timestamp": "2024-10-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/seafood-mac-and-cheese/",
+    "timestamp": "2024-10-16",
+    "cpe_timestamp": "2024-10-16",
+    "psr_timestamp": "2024-10-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/champagne-vinaigrette-2/",
+    "timestamp": "2024-10-14",
+    "cpe_timestamp": "2024-10-14",
+    "psr_timestamp": "2024-10-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/apple-tea-2/",
+    "timestamp": "2024-10-09",
+    "cpe_timestamp": "2024-10-21",
+    "psr_timestamp": "2024-10-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/scalloped-sweet-potatoes/",
+    "timestamp": "2024-10-09",
+    "cpe_timestamp": "2025-03-26",
+    "psr_timestamp": "2024-10-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cranberry-orange-relish-2/",
+    "timestamp": "2024-10-12",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-10-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/instant-pot-sweet-potatoes/",
+    "timestamp": "2024-10-09",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-fryer-meatballs/",
+    "timestamp": "2024-10-29",
+    "cpe_timestamp": "2024-10-29",
+    "psr_timestamp": "2024-10-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/oven-roasted-chicken-breast/",
+    "timestamp": "2024-12-09",
+    "cpe_timestamp": "2024-12-09",
+    "psr_timestamp": "2024-12-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/banana-sandwiches/",
+    "timestamp": "2024-11-21",
+    "cpe_timestamp": "2024-11-21",
+    "psr_timestamp": "2024-11-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cookie-butter-puppy-chow/",
+    "timestamp": "2024-10-11",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-10-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/crawfish-bisque/",
+    "timestamp": "2024-10-12",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/danish-kringle-2-recipe/",
+    "timestamp": "2025-02-10",
+    "cpe_timestamp": "2025-02-10",
+    "psr_timestamp": "2025-02-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/asparagus-casserole/",
+    "timestamp": "2024-10-10",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tartufo-ice-cream/",
+    "timestamp": "2024-10-11",
+    "cpe_timestamp": "2024-10-11",
+    "psr_timestamp": "2024-10-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cheesecake-bars/",
+    "timestamp": "2024-10-10",
+    "cpe_timestamp": "2024-10-10",
+    "psr_timestamp": "2024-10-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hot-dog-mac-and-cheese/",
+    "timestamp": "2024-10-10",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/artichoke-topped-crab-bites/",
+    "timestamp": "2024-10-11",
+    "cpe_timestamp": "2024-10-11",
+    "psr_timestamp": "2024-10-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-chick-fil-a-peach-milkshake/",
+    "timestamp": "2024-10-10",
+    "cpe_timestamp": "2024-10-10",
+    "psr_timestamp": "2024-10-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blueberry-cheesecake-cookies/",
+    "timestamp": "2024-10-03",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/velveeta-fudge/",
+    "timestamp": "2024-10-14",
+    "cpe_timestamp": "2024-10-14",
+    "psr_timestamp": "2024-10-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-fryer-turkey-breast/",
+    "timestamp": "2024-11-12",
+    "cpe_timestamp": "2025-03-14",
+    "psr_timestamp": "2024-11-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blueberry-cheesecake-bars/",
+    "timestamp": "2024-10-14",
+    "cpe_timestamp": "2024-10-14",
+    "psr_timestamp": "2024-10-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/fresh-salsa-criolla/",
+    "timestamp": "2024-10-24",
+    "cpe_timestamp": "2025-09-16",
+    "psr_timestamp": "2024-10-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/carrot-cake-cheesecake/",
+    "timestamp": "2024-10-23",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/peanut-butter-banana-smoothie/",
+    "timestamp": "2024-10-23",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/mexican-street-corn-pasta-salad/",
+    "timestamp": "2024-10-24",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-10-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pickled-cauliflower-recipe/",
+    "timestamp": "2024-10-22",
+    "cpe_timestamp": "2024-10-22",
+    "psr_timestamp": "2024-10-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/puff-pastry/",
+    "timestamp": "2024-11-27",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-11-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooker-chicken-and-stuffing/",
+    "timestamp": "2024-10-03",
+    "cpe_timestamp": "2024-10-15",
+    "psr_timestamp": "2024-10-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pesto-tortellini-salad/",
+    "timestamp": "2024-10-14",
+    "cpe_timestamp": "2024-10-14",
+    "psr_timestamp": "2024-10-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pan-fried-french-fries/",
+    "timestamp": "2024-11-22",
+    "cpe_timestamp": "2024-11-22",
+    "psr_timestamp": "2024-11-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-fryer-cornbread/",
+    "timestamp": "2024-10-04",
+    "cpe_timestamp": "2024-10-04",
+    "psr_timestamp": "2024-10-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hanger-steak/",
+    "timestamp": "2024-10-04",
+    "cpe_timestamp": "2024-10-04",
+    "psr_timestamp": "2024-10-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sausage-tasties/",
+    "timestamp": "2024-10-04",
+    "cpe_timestamp": "2024-10-04",
+    "psr_timestamp": "2024-10-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/homemade-coffee-ice-cream/",
+    "timestamp": "2024-10-13",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/clam-fritters/",
+    "timestamp": "2024-10-01",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/baked-peaches-2/",
+    "timestamp": "2024-09-29",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-09-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/vanilla-mug-cake/",
+    "timestamp": "2024-10-01",
+    "cpe_timestamp": "2024-10-01",
+    "psr_timestamp": "2024-10-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/can-t-leave-alone-bars/",
+    "timestamp": "2024-10-06",
+    "cpe_timestamp": "2024-10-06",
+    "psr_timestamp": "2024-10-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/jalapeno-salsa/",
+    "timestamp": "2024-10-02",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-fryer-mac-and-cheese/",
+    "timestamp": "2024-10-02",
+    "cpe_timestamp": "2024-10-02",
+    "psr_timestamp": "2024-10-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-fryer-tortilla-chips/",
+    "timestamp": "2024-10-21",
+    "cpe_timestamp": "2024-10-21",
+    "psr_timestamp": "2024-10-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chocolate-malted-cookies-partner-recipe-sample/",
+    "timestamp": "2024-09-26",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-09-26",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blueberry-cinnamon-rolls-recipe/",
+    "timestamp": "2024-10-31",
+    "cpe_timestamp": "2024-10-31",
+    "psr_timestamp": "2024-10-31",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cumin-quinoa-patties/",
+    "timestamp": "2024-12-12",
+    "cpe_timestamp": "2024-12-12",
+    "psr_timestamp": "2024-12-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/quick-tortilla-pinwheels/",
+    "timestamp": "2024-11-02",
+    "cpe_timestamp": "2025-05-02",
+    "psr_timestamp": "2024-11-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/strawberry-cheesecake-tacos/",
+    "timestamp": "2024-10-19",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/smoked-gouda-mac-and-cheese/",
+    "timestamp": "2024-10-19",
+    "cpe_timestamp": "2025-05-27",
+    "psr_timestamp": "2024-10-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tri-tip-steak/",
+    "timestamp": "2024-11-13",
+    "cpe_timestamp": "2024-11-13",
+    "psr_timestamp": "2024-11-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/provolone-sausage-bread/",
+    "timestamp": "2024-09-24",
+    "cpe_timestamp": "2024-09-24",
+    "psr_timestamp": "2024-09-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/roasted-turnips/",
+    "timestamp": "2024-09-25",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-09-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooker-chicken-potpie-recipe/",
+    "timestamp": "2024-09-18",
+    "cpe_timestamp": "2024-09-18",
+    "psr_timestamp": "2024-09-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/rustic-blue-cheese-potato-soup/",
+    "timestamp": "2024-09-24",
+    "cpe_timestamp": "2025-07-03",
+    "psr_timestamp": "2024-09-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/smothered-chicken-2/",
+    "timestamp": "2024-09-17",
+    "cpe_timestamp": "2024-09-17",
+    "psr_timestamp": "2024-09-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tomato-sandwiches/",
+    "timestamp": "2025-01-20",
+    "cpe_timestamp": "2025-01-20",
+    "psr_timestamp": "2025-01-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-salad-without-mayo/",
+    "timestamp": "2024-11-06",
+    "cpe_timestamp": "2024-11-06",
+    "psr_timestamp": "2024-11-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/smoked-beef-short-ribs/",
+    "timestamp": "2024-09-23",
+    "cpe_timestamp": "2024-10-21",
+    "psr_timestamp": "2024-09-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-chick-fil-a-sauce-recipe-2/",
+    "timestamp": "2024-10-01",
+    "cpe_timestamp": "2024-10-01",
+    "psr_timestamp": "2024-10-01",
+    "system_confidence": "conflicted"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/honey-garlic-chicken-recipe/",
+    "timestamp": "2024-10-23",
+    "cpe_timestamp": "2024-10-23",
+    "psr_timestamp": "2024-10-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hot-chocolate-bar/",
+    "timestamp": "2025-12-09",
+    "cpe_timestamp": "2025-12-09",
+    "psr_timestamp": "2025-12-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chocolate-crepes/",
+    "timestamp": "2024-09-06",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "2024-09-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cola-chicken/",
+    "timestamp": "2025-02-20",
+    "cpe_timestamp": "2025-02-20",
+    "psr_timestamp": "2025-02-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-chipotle-corn-salsa/",
+    "timestamp": "2024-09-02",
+    "cpe_timestamp": "2024-09-03",
+    "psr_timestamp": "2024-09-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cinnamon-roll-peach-cobbler/",
+    "timestamp": "2024-09-04",
+    "cpe_timestamp": "2024-09-04",
+    "psr_timestamp": "2024-09-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-chipotle-pico-de-gallo/",
+    "timestamp": "2024-08-30",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-08-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/strawberry-crumble/",
+    "timestamp": "2024-09-23",
+    "cpe_timestamp": "2024-09-23",
+    "psr_timestamp": "2024-09-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-waffles/",
+    "timestamp": "2024-07-03",
+    "cpe_timestamp": "2025-10-30",
+    "psr_timestamp": "2024-07-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/zucchini-taco-boats/",
+    "timestamp": "2024-10-21",
+    "cpe_timestamp": "2024-10-21",
+    "psr_timestamp": "2024-10-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tuna-pasta-salad-2/",
+    "timestamp": "2024-09-04",
+    "cpe_timestamp": "2024-09-04",
+    "psr_timestamp": "2024-09-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/italian-grilled-cheese-sandwiches/",
+    "timestamp": "2024-09-04",
+    "cpe_timestamp": "2024-10",
+    "psr_timestamp": "2024-09-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/oktoberfest-red-cabbage/",
+    "timestamp": "2024-04-17",
+    "cpe_timestamp": "2024-04-17",
+    "psr_timestamp": "2024-04-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/croissant-breakfast-casserole/",
+    "timestamp": "2024-04-10",
+    "cpe_timestamp": "2024-04-10",
+    "psr_timestamp": "2024-04-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/balsamic-three-bean-salad/",
+    "timestamp": "2024-09-05",
+    "cpe_timestamp": "2024-09-05",
+    "psr_timestamp": "2024-09-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/porcini-mac-cheese/",
+    "timestamp": "2024-07-20",
+    "cpe_timestamp": "2025-03-13",
+    "psr_timestamp": "2024-07-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pumpkin-pancakes-with-cinnamon-apple-topping/",
+    "timestamp": "2024-04-16",
+    "cpe_timestamp": "2024-04-16",
+    "psr_timestamp": "2024-04-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/fontina-chicken-pasta-bake/",
+    "timestamp": "2024-07-29",
+    "cpe_timestamp": "2024-07-29",
+    "psr_timestamp": "2024-07-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/rhubarb-blueberry-crumble/",
+    "timestamp": "2025-07-01",
+    "cpe_timestamp": "2025-07-01",
+    "psr_timestamp": "2025-07-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/taco-ring/",
+    "timestamp": "2025-01-06",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-01-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/quick-pickled-okra/",
+    "timestamp": "2024-10-22",
+    "cpe_timestamp": "2024-10-22",
+    "psr_timestamp": "2024-10-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sock-it-to-me-cake-recipe/",
+    "timestamp": "2024-11-01",
+    "cpe_timestamp": "2024-11-01",
+    "psr_timestamp": "2024-11-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pasta-salad-in-a-jar/",
+    "timestamp": "2024-07-19",
+    "cpe_timestamp": "2025-09-08",
+    "psr_timestamp": "2024-07-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/picnic-berry-shortcakes/",
+    "timestamp": "2024-08-08",
+    "cpe_timestamp": "2024-08-08",
+    "psr_timestamp": "2024-08-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/asparagus-soup-with-lemon-creme-fraiche/",
+    "timestamp": "2024-07-26",
+    "cpe_timestamp": "2024-07-26",
+    "psr_timestamp": "2024-07-26",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pumpkin-cheesecake-cookies-recipe/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2025-01-06",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/roast-pork-loin-with-rosemary-applesauce/",
+    "timestamp": "2024-08-31",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-08-31",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/peppermint-cheesecake-on-a-stick/",
+    "timestamp": "2024-05-06",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-05-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/kit-kat-cake/",
+    "timestamp": "2024-09-23",
+    "cpe_timestamp": "2024-09-23",
+    "psr_timestamp": "2024-09-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/special-cherry-thumbprint-cookies/",
+    "timestamp": "2024-09-12",
+    "cpe_timestamp": "2024-09-12",
+    "psr_timestamp": "2024-09-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/secret-ingredient-chocolate-chip-cookies/",
+    "timestamp": "2024-09-12",
+    "cpe_timestamp": "2024-09-12",
+    "psr_timestamp": "2024-09-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pomegranate-cranberry-martini/",
+    "timestamp": "2024-09-12",
+    "cpe_timestamp": "2024-09-12",
+    "psr_timestamp": "2024-09-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/goat-cheese-cheesecake/",
+    "timestamp": "2024-12-03",
+    "cpe_timestamp": "2024-12-03",
+    "psr_timestamp": "2024-12-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemon-icebox-cake/",
+    "timestamp": "2024-09-19",
+    "cpe_timestamp": "2024-09-19",
+    "psr_timestamp": "2024-09-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/italian-style-salisbury-steaks/",
+    "timestamp": "2024-08-01",
+    "cpe_timestamp": "2024-08-01",
+    "psr_timestamp": "2024-08-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/jolly-ginger-reindeer-cookies/",
+    "timestamp": "2024-08-13",
+    "cpe_timestamp": "2025-04",
+    "psr_timestamp": "2024-08-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/creamy-buffalo-chicken-enchiladas/",
+    "timestamp": "2023-02-01",
+    "cpe_timestamp": "2023-02-01",
+    "psr_timestamp": "2023-02-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/dark-chocolate-chip-zucchini-bread/",
+    "timestamp": "2024-03-25",
+    "cpe_timestamp": "2024-03-25",
+    "psr_timestamp": "2024-03-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooker-chicken-black-bean-tacos/",
+    "timestamp": "2024-05-10",
+    "cpe_timestamp": "2024-05-10",
+    "psr_timestamp": "2024-05-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/garlic-sesame-green-beans/",
+    "timestamp": "2024-07-24",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-07-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/mushroom-wild-rice-soup/",
+    "timestamp": "2024-09-11",
+    "cpe_timestamp": "2024-10",
+    "psr_timestamp": "2024-09-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/bacon-cheeseburger-chowder/",
+    "timestamp": "2024-09-05",
+    "cpe_timestamp": "2024-10",
+    "psr_timestamp": "2024-09-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/curry-chicken-and-rice/",
+    "timestamp": "2024-09-30",
+    "cpe_timestamp": "2025-02-07",
+    "psr_timestamp": "2024-09-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/no-bake-pumpkin-cheesecake-2-recipe/",
+    "timestamp": "2024-10-16",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-10-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/spiced-pork-medallions-with-bourbon-sauce/",
+    "timestamp": "2025-08-18",
+    "cpe_timestamp": "2025-08-18",
+    "psr_timestamp": "2025-08-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/zesty-chicken-soft-tacos/",
+    "timestamp": "2024-07-13",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "2024-07-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pumpkin-cake-with-whipped-cinnamon-frosting/",
+    "timestamp": "2024-05-13",
+    "cpe_timestamp": "2025-09-24",
+    "psr_timestamp": "2024-05-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lentil-soup/",
+    "timestamp": "2024-09-10",
+    "cpe_timestamp": "2024-10-25",
+    "psr_timestamp": "2024-09-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/mozzarella-mashed-potato-remix/",
+    "timestamp": "2024-05-30",
+    "cpe_timestamp": "2024-05-30",
+    "psr_timestamp": "2024-05-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/double-crusted-sausage-egg-casserole/",
+    "timestamp": "2024-08-08",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-08-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lime-avocado-hummus/",
+    "timestamp": "2024-02-23",
+    "cpe_timestamp": "2024-02-23",
+    "psr_timestamp": "2024-02-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/five-cheese-spinach-artichoke-dip/",
+    "timestamp": "2024-04-19",
+    "cpe_timestamp": "2024-04-19",
+    "psr_timestamp": "2024-04-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/fresh-fruit-salsa-with-cinnamon-chips/",
+    "timestamp": "2024-05-29",
+    "cpe_timestamp": "2024-09",
+    "psr_timestamp": "2024-05-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/raisin-nut-oatmeal/",
+    "timestamp": "2023-03-06",
+    "cpe_timestamp": "2023-03-06",
+    "psr_timestamp": "2023-03-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/steak-diane/",
+    "timestamp": "2024-10-10",
+    "cpe_timestamp": "2024-10-10",
+    "psr_timestamp": "2024-10-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/creamy-chicken-fettuccine/",
+    "timestamp": "2022-03-02",
+    "cpe_timestamp": "2022-03-02",
+    "psr_timestamp": "2022-03-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blue-cheese-salad-dressing/",
+    "timestamp": "2024-10-01",
+    "cpe_timestamp": "2024-10-01",
+    "psr_timestamp": "2024-10-01",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/burnt-custard/",
+    "timestamp": "2024-08-19",
+    "cpe_timestamp": "2024-08-19",
+    "psr_timestamp": "2024-08-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/thai-chicken-pasta/",
+    "timestamp": "2022-10-22",
+    "cpe_timestamp": "2022-10-22",
+    "psr_timestamp": "2022-10-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/shredded-pork-burritos/",
+    "timestamp": "2024-10-28",
+    "cpe_timestamp": "2024-10-28",
+    "psr_timestamp": "2024-10-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/calgary-stampede-ribs/",
+    "timestamp": "2024-07-28",
+    "cpe_timestamp": "2024-07-28",
+    "psr_timestamp": "2024-07-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cheesy-corn-spoon-bread/",
+    "timestamp": "2024-02-09",
+    "cpe_timestamp": "2024-02-09",
+    "psr_timestamp": "2024-02-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/traditional-lasagna/",
+    "timestamp": "2024-07-24",
+    "cpe_timestamp": "2025-07",
+    "psr_timestamp": "2024-07-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lovely-lemon-cheesecake/",
+    "timestamp": "2024-05-16",
+    "cpe_timestamp": "2024-05-16",
+    "psr_timestamp": "2024-05-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/mexican-chicken-chili/",
+    "timestamp": "2025-08-26",
+    "cpe_timestamp": "2025-08-26",
+    "psr_timestamp": "2025-08-26",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooked-pizza-casserole/",
+    "timestamp": "2024-08-07",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-08-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/polka-dot-macaroons/",
+    "timestamp": "2024-09-05",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-09-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/great-grain-burgers/",
+    "timestamp": "2024-07-18",
+    "cpe_timestamp": "2025-09-29",
+    "psr_timestamp": "2024-07-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/veggie-chowder/",
+    "timestamp": "2023-11-04",
+    "cpe_timestamp": "2023-11-04",
+    "psr_timestamp": "2023-11-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sunday-chops-and-stuffing/",
+    "timestamp": "2025-06-10",
+    "cpe_timestamp": "2025-06-10",
+    "psr_timestamp": "2025-06-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pecan-cornbread-dressing/",
+    "timestamp": "2024-10-09",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-10-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/county-fair-cherry-pie/",
+    "timestamp": "2025-06-10",
+    "cpe_timestamp": "2025-06-10",
+    "psr_timestamp": "2025-06-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chocolate-pudding-cake/",
+    "timestamp": "2024-10-07",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemon-supreme-pie/",
+    "timestamp": "2024-09-29",
+    "cpe_timestamp": "2024-09-29",
+    "psr_timestamp": "2024-09-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/zippy-chicken-enchiladas/",
+    "timestamp": "2024-09-18",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "2024-09-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blt-tortillas/",
+    "timestamp": "2025-01",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-25",
+    "system_confidence": "low"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/strawberry-rhubarb-jam/",
+    "timestamp": "2024-09-04",
+    "cpe_timestamp": "2024-09-04",
+    "psr_timestamp": "2024-09-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cinnamon-blueberry-jam/",
+    "timestamp": "2024-05-31",
+    "cpe_timestamp": "2024-05-31",
+    "psr_timestamp": "2024-05-31",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/bake-sale-lemon-bars/",
+    "timestamp": "2024-10-21",
+    "cpe_timestamp": "2025-04-21",
+    "psr_timestamp": "2024-10-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pumpkin-spice-muffins/",
+    "timestamp": "2023-11-20",
+    "cpe_timestamp": "2023-11-20",
+    "psr_timestamp": "2023-11-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/santa-fe-chili/",
+    "timestamp": "2024-12-20",
+    "cpe_timestamp": "2024-12-20",
+    "psr_timestamp": "2024-12-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blt-bow-tie-pasta-salad/",
+    "timestamp": "2024-06-07",
+    "cpe_timestamp": "2024-09",
+    "psr_timestamp": "2024-06-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/english-rhubarb-crumble/",
+    "timestamp": "2024-06-24",
+    "cpe_timestamp": "2024-06-24",
+    "psr_timestamp": "2024-06-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/coke-cake/",
+    "timestamp": "2024-06-20",
+    "cpe_timestamp": "2024-06-20",
+    "psr_timestamp": "2024-06-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cranberry-nut-muffins/",
+    "timestamp": "2024-08-21",
+    "cpe_timestamp": "2024-08-21",
+    "psr_timestamp": "2024-08-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/peanut-butter-sandwich-cookies/",
+    "timestamp": "2023-01-22",
+    "cpe_timestamp": "2023-01-22",
+    "psr_timestamp": "2023-01-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-starbucks-apple-crisp-oat-milk-shaken-espresso/",
+    "timestamp": "2025-04-22",
+    "cpe_timestamp": "2025-04-22",
+    "psr_timestamp": "2025-04-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/golden-milk/",
+    "timestamp": "2025-01-05",
+    "cpe_timestamp": "2025-01-06",
+    "psr_timestamp": "2025-01-05",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/dutch-oven-chicken-thighs-recipe/",
+    "timestamp": "2025-01-06",
+    "cpe_timestamp": "2025-01-06",
+    "psr_timestamp": "2025-01-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/earthquake-cake/",
+    "timestamp": "2025-01-04",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-01-04",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/homemade-udon-noodles/",
+    "timestamp": "2025-01-03",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "2025-01-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pork-chile-verde/",
+    "timestamp": "2025-02-19",
+    "cpe_timestamp": "2025-02-20",
+    "psr_timestamp": "2025-02-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/creamy-pistachio-cheesecake/",
+    "timestamp": "2025-01-09",
+    "cpe_timestamp": "2025-01-09",
+    "psr_timestamp": "2025-01-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/orange-glazed-pork-with-sweet-potatoes/",
+    "timestamp": "2025-08-18",
+    "cpe_timestamp": "2025-08-18",
+    "psr_timestamp": "2025-08-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cowboy-coffee/",
+    "timestamp": "2024-12-18",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2024-12-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/naughty-but-nice-cocktail/",
+    "timestamp": "2024-12-19",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2024-12-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-fryer-smores-recipe/",
+    "timestamp": "2025-01-10",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2025-01-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/how-to-make-a-charcuterie-board-recipe/",
+    "timestamp": "2025-01-17",
+    "cpe_timestamp": "2025-01-17",
+    "psr_timestamp": "2025-01-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tennessee-onions/",
+    "timestamp": "2024-12-18",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2024-12-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/apple-roses/",
+    "timestamp": "2024-12-17",
+    "cpe_timestamp": "2024-12-17",
+    "psr_timestamp": "2024-12-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/bubble-tea-recipe/",
+    "timestamp": "2024-12-19",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2024-12-19",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/homemade-hot-cocoa-mix/",
+    "timestamp": "2024-12-16",
+    "cpe_timestamp": "2024-12-16",
+    "psr_timestamp": "2024-12-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/orange-olive-oil-cake/",
+    "timestamp": "2024-12-17",
+    "cpe_timestamp": "2024-12-17",
+    "psr_timestamp": "2024-12-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/matcha-cake/",
+    "timestamp": "2024-11-27",
+    "cpe_timestamp": "2025-01-25",
+    "psr_timestamp": "2024-11-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cookies-and-cream-cake-2/",
+    "timestamp": "2025-02-12",
+    "cpe_timestamp": "2025-06-23",
+    "psr_timestamp": "2025-02-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemongrass-chicken/",
+    "timestamp": "2025-04-07",
+    "cpe_timestamp": "2025-04-07",
+    "psr_timestamp": "2025-04-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/raspberry-linzer-cookies/",
+    "timestamp": "2024-08-02",
+    "cpe_timestamp": "2025-01-06",
+    "psr_timestamp": "2024-08-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/strawberry-cheesecake-cookies-recipe/",
+    "timestamp": "2025-02-11",
+    "cpe_timestamp": "2025-02-11",
+    "psr_timestamp": "2025-02-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/potato-galette/",
+    "timestamp": "2024-12-11",
+    "cpe_timestamp": "2025-01-29",
+    "psr_timestamp": "2024-12-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sunny-side-up-eggs/",
+    "timestamp": "2025-03-03",
+    "cpe_timestamp": "2025-03-03",
+    "psr_timestamp": "2025-03-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/fluffernutter-sandwich/",
+    "timestamp": "2024-12-10",
+    "cpe_timestamp": "2024-12-10",
+    "psr_timestamp": "2024-12-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/potatoes-au-gratin-gruyere/",
+    "timestamp": "2024-12-07",
+    "cpe_timestamp": "2024-12-07",
+    "psr_timestamp": "2024-12-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/candy-cane-danish/",
+    "timestamp": "2024-12-09",
+    "cpe_timestamp": "2025-06-20",
+    "psr_timestamp": "2024-12-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/smoked-steak/",
+    "timestamp": "2024-12-06",
+    "cpe_timestamp": "2024-12-06",
+    "psr_timestamp": "2024-12-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sweet-potato-gnocchi/",
+    "timestamp": "2024-12-06",
+    "cpe_timestamp": "2025-10-03",
+    "psr_timestamp": "2024-12-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/caramelized-onions-2/",
+    "timestamp": "2025-01-30",
+    "cpe_timestamp": "2025-01-30",
+    "psr_timestamp": "2025-01-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/eggs-florentine-2/",
+    "timestamp": "2025-01-28",
+    "cpe_timestamp": "2025-02-12",
+    "psr_timestamp": "2025-01-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/greek-yogurt-cheesecake/",
+    "timestamp": "2024-11-29",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-11-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-louisiana-chicken-pasta/",
+    "timestamp": "2025-03-03",
+    "cpe_timestamp": "2025-03-03",
+    "psr_timestamp": "2025-03-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/creamy-strawberry-icebox-cake/",
+    "timestamp": "2024-04-12",
+    "cpe_timestamp": "2024-04-12",
+    "psr_timestamp": "2024-04-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/fruit-trifle/",
+    "timestamp": "2025-04-25",
+    "cpe_timestamp": "2025-04-25",
+    "psr_timestamp": "2025-04-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-fryer-sweet-potato-crusted-chicken-nuggets/",
+    "timestamp": "2023-10-23",
+    "cpe_timestamp": "2023-10-23",
+    "psr_timestamp": "2023-10-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lentil-bacon-and-bean-soup/",
+    "timestamp": "2024-10-10",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "2024-10-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-fryer-scottish-shortbread/",
+    "timestamp": "2024-08-13",
+    "cpe_timestamp": "2024-08-13",
+    "psr_timestamp": "2024-08-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cubano-macaroni-salad/",
+    "timestamp": "2024-08-07",
+    "cpe_timestamp": "2024-09",
+    "psr_timestamp": "2024-08-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chocolate-oat-bars/",
+    "timestamp": "2024-08-21",
+    "cpe_timestamp": "2024-08-21",
+    "psr_timestamp": "2024-08-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/orange-chipotle-chicken/",
+    "timestamp": "2023-06-14",
+    "cpe_timestamp": "2023-06-14",
+    "psr_timestamp": "2023-06-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/apple-fritter-bread/",
+    "timestamp": "2024-11-20",
+    "cpe_timestamp": "2024-11-20",
+    "psr_timestamp": "2024-11-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/strawberry-pretzel-dessert-jars/",
+    "timestamp": "2024-04-26",
+    "cpe_timestamp": "2025-10-01",
+    "psr_timestamp": "2024-04-26",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/mint-oreo-fudge/",
+    "timestamp": "2025-03-10",
+    "cpe_timestamp": "2025-03-10",
+    "psr_timestamp": "2025-03-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/best-mini-pancakes/",
+    "timestamp": "2024-11-12",
+    "cpe_timestamp": "2025-01-10",
+    "psr_timestamp": "2024-11-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/buffalo-chicken-tacos/",
+    "timestamp": "2024-12-16",
+    "cpe_timestamp": "2024-12-16",
+    "psr_timestamp": "2024-12-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/football-cookies/",
+    "timestamp": "2024-12-10",
+    "cpe_timestamp": "2024-12-10",
+    "psr_timestamp": "2024-12-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-dairy-queen-ice-cream-cake/",
+    "timestamp": "2025-04-02",
+    "cpe_timestamp": "2025-04-02",
+    "psr_timestamp": "2025-04-02",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pastina-soup/",
+    "timestamp": "2025-02-07",
+    "cpe_timestamp": "2025-02-07",
+    "psr_timestamp": "2025-02-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/squash-and-spinach-pierogi-casserole/",
+    "timestamp": "2025-04",
+    "cpe_timestamp": "2025-04",
+    "psr_timestamp": "",
+    "system_confidence": "none"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-parmesan-casserole/",
+    "timestamp": "2024-11-12",
+    "cpe_timestamp": "2025-01-23",
+    "psr_timestamp": "2024-11-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/italian-hot-chocolate/",
+    "timestamp": "2025-02-20",
+    "cpe_timestamp": "2025-02-20",
+    "psr_timestamp": "2025-02-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cranberry-fluff-salad/",
+    "timestamp": "2024-09-12",
+    "cpe_timestamp": "2025-12",
+    "psr_timestamp": "2024-09-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/croissant-breakfast-casserole-2/",
+    "timestamp": "2024-11-14",
+    "cpe_timestamp": "2025-01-23",
+    "psr_timestamp": "2024-11-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/walking-taco-casserole/",
+    "timestamp": "2025-02-28",
+    "cpe_timestamp": "2025-02-28",
+    "psr_timestamp": "2025-02-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/beet-greens/",
+    "timestamp": "2024-11-14",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-11-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/how-to-make-ice-cream-without-an-ice-cream-maker-recipe/",
+    "timestamp": "2025-07-08",
+    "cpe_timestamp": "2025-07-08",
+    "psr_timestamp": "2025-07-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sweet-potato-brownies/",
+    "timestamp": "2024-12-10",
+    "cpe_timestamp": "2024-12-10",
+    "psr_timestamp": "2024-12-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cinnamon-roll-muffins/",
+    "timestamp": "2024-11-14",
+    "cpe_timestamp": "2025-10-16",
+    "psr_timestamp": "2024-11-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cracklin-cornbread/",
+    "timestamp": "2025-01-17",
+    "cpe_timestamp": "2025-01-17",
+    "psr_timestamp": "2025-01-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/salted-caramel-brownies/",
+    "timestamp": "2024-11-13",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-11-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/smothered-chicken-breast/",
+    "timestamp": "2024-11-13",
+    "cpe_timestamp": "2025-02-23",
+    "psr_timestamp": "2024-11-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/wonton-soup/",
+    "timestamp": "2024-11-14",
+    "cpe_timestamp": "2025-07-02",
+    "psr_timestamp": "2024-11-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/stuffed-sweet-potatoes/",
+    "timestamp": "2024-12-12",
+    "cpe_timestamp": "2024-12-12",
+    "psr_timestamp": "2024-12-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/doritos-casserole/",
+    "timestamp": "2024-11-14",
+    "cpe_timestamp": "2024-11-14",
+    "psr_timestamp": "2024-11-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/apple-pie-with-cheese-recipe/",
+    "timestamp": "2025-01-10",
+    "cpe_timestamp": "2025-01-10",
+    "psr_timestamp": "2025-01-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sweet-potato-tacos/",
+    "timestamp": "2024-12-16",
+    "cpe_timestamp": "2024-12-16",
+    "psr_timestamp": "2024-12-16",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-olive-garden-breadsticks/",
+    "timestamp": "2024-12-03",
+    "cpe_timestamp": "2025-12",
+    "psr_timestamp": "2024-12-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/almond-butter-cookies-2/",
+    "timestamp": "2024-12-10",
+    "cpe_timestamp": "2024-12-10",
+    "psr_timestamp": "2024-12-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/gluten-free-cheesecake/",
+    "timestamp": "2025-03-17",
+    "cpe_timestamp": "2025-03-17",
+    "psr_timestamp": "2025-03-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sugared-cranberries/",
+    "timestamp": "2024-11-11",
+    "cpe_timestamp": "2025-01-14",
+    "psr_timestamp": "2024-11-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/earl-grey-cake/",
+    "timestamp": "2024-11-11",
+    "cpe_timestamp": "2024-11-11",
+    "psr_timestamp": "2024-11-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sichuan-chicken/",
+    "timestamp": "2024-11-11",
+    "cpe_timestamp": "2024-11-11",
+    "psr_timestamp": "2024-11-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/molcajete-salsa/",
+    "timestamp": "2024-11-08",
+    "cpe_timestamp": "2025-01-17",
+    "psr_timestamp": "2024-11-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/shirley-temple/",
+    "timestamp": "2024-11-08",
+    "cpe_timestamp": "2024-11-08",
+    "psr_timestamp": "2024-11-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/spaghetti-squash-alfredo/",
+    "timestamp": "2024-11-08",
+    "cpe_timestamp": "2024-11-08",
+    "psr_timestamp": "2024-11-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemon-pepper-chicken-2/",
+    "timestamp": "2024-11-07",
+    "cpe_timestamp": "2025-03-06",
+    "psr_timestamp": "2024-11-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/how-to-make-buttermilk-recipe/",
+    "timestamp": "2024-11-06",
+    "cpe_timestamp": "2024-11-06",
+    "psr_timestamp": "2024-11-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/grilled-cheese-burger/",
+    "timestamp": "2024-11-12",
+    "cpe_timestamp": "2024-11-12",
+    "psr_timestamp": "2024-11-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/christmas-fettuccine-recipe/",
+    "timestamp": "2024-11-07",
+    "cpe_timestamp": "2025-06",
+    "psr_timestamp": "2024-11-07",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cheesecake-chimichanga/",
+    "timestamp": "2024-10-22",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-10-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chickpea-chicken-salad/",
+    "timestamp": "2024-10-22",
+    "cpe_timestamp": "2025-08-08",
+    "psr_timestamp": "2024-10-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-starbucks-pumpkin-spice-latte/",
+    "timestamp": "2024-10-22",
+    "cpe_timestamp": "2025-07",
+    "psr_timestamp": "2024-10-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/tomato-basil-soup-2/",
+    "timestamp": "2024-10-22",
+    "cpe_timestamp": "2024-10-22",
+    "psr_timestamp": "2024-10-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/coconut-cheesecake/",
+    "timestamp": "2024-10-23",
+    "cpe_timestamp": "2025-03",
+    "psr_timestamp": "2024-10-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sourdough-cinnamon-rolls/",
+    "timestamp": "2024-10-21",
+    "cpe_timestamp": "2024-10-21",
+    "psr_timestamp": "2024-10-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pecan-pie-dip/",
+    "timestamp": "2024-10-21",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-10-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/stuffing-waffles/",
+    "timestamp": "2024-10-21",
+    "cpe_timestamp": "2024-10-21",
+    "psr_timestamp": "2024-10-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pinto-bean-soup/",
+    "timestamp": "2024-10-21",
+    "cpe_timestamp": "2024-10-21",
+    "psr_timestamp": "2024-10-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cannellini-beans/",
+    "timestamp": "2024-10-22",
+    "cpe_timestamp": "2024-10-22",
+    "psr_timestamp": "2024-10-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cinnamon-roll-cheesecake/",
+    "timestamp": "2024-11-13",
+    "cpe_timestamp": "2025-02-13",
+    "psr_timestamp": "2024-11-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cashew-chicken-with-ginger/",
+    "timestamp": "2024-08-29",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-08-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/boiled-sweet-potatoes/",
+    "timestamp": "2024-10-24",
+    "cpe_timestamp": "2024-10-28",
+    "psr_timestamp": "2024-10-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/loaded-cauliflower-casserole/",
+    "timestamp": "2024-10-25",
+    "cpe_timestamp": "2024-10-25",
+    "psr_timestamp": "2024-10-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/easy-roasted-vegetable-soup/",
+    "timestamp": "2024-10-25",
+    "cpe_timestamp": "2025-03-06",
+    "psr_timestamp": "2024-10-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cowboy-stew-2/",
+    "timestamp": "2024-10-11",
+    "cpe_timestamp": "2025-07",
+    "psr_timestamp": "2024-10-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/biscoff-cake/",
+    "timestamp": "2024-10-25",
+    "cpe_timestamp": "2024-10-25",
+    "psr_timestamp": "2024-10-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/italian-green-beans-2/",
+    "timestamp": "2024-10-25",
+    "cpe_timestamp": "2025-06",
+    "psr_timestamp": "2024-10-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/maple-fudge/",
+    "timestamp": "2024-10-25",
+    "cpe_timestamp": "2025-03",
+    "psr_timestamp": "2024-10-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/mashed-potatoes-and-gravy/",
+    "timestamp": "2024-10-25",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-10-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/stewed-apples/",
+    "timestamp": "2024-11-20",
+    "cpe_timestamp": "2024-11-20",
+    "psr_timestamp": "2024-11-20",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pan-seared-chicken-breast/",
+    "timestamp": "2024-11-06",
+    "cpe_timestamp": "2024-11-06",
+    "psr_timestamp": "2024-11-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/crinkle-cake/",
+    "timestamp": "2024-10-25",
+    "cpe_timestamp": "2025-03-13",
+    "psr_timestamp": "2024-10-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/toasted-pecan-nuts/",
+    "timestamp": "2025-01-17",
+    "cpe_timestamp": "2025-01-17",
+    "psr_timestamp": "2025-01-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/orange-chicken-2/",
+    "timestamp": "2024-10-24",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "2024-10-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/poached-chicken-breast/",
+    "timestamp": "2024-11-21",
+    "cpe_timestamp": "2024-11-21",
+    "psr_timestamp": "2024-11-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/air-fryer-pork-ribs/",
+    "timestamp": "2024-10-24",
+    "cpe_timestamp": "2024-10-24",
+    "psr_timestamp": "2024-10-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/keto-cheeseburger-casserole/",
+    "timestamp": "2024-10-14",
+    "cpe_timestamp": "2024-10-24",
+    "psr_timestamp": "2024-10-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cottage-cheese-mac-and-cheese/",
+    "timestamp": "2024-10-24",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-10-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/roasted-chickpea-salad/",
+    "timestamp": "2024-10-09",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "2024-10-09",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/mashed-parsnips/",
+    "timestamp": "2024-10-29",
+    "cpe_timestamp": "2024-10-29",
+    "psr_timestamp": "2024-10-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/gluten-free-green-bean-casserole/",
+    "timestamp": "2024-10-29",
+    "cpe_timestamp": "2025-09",
+    "psr_timestamp": "2024-10-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hamburger-rice-casserole/",
+    "timestamp": "2024-10-29",
+    "cpe_timestamp": "2024-10-29",
+    "psr_timestamp": "2024-10-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/four-cheese-mac-and-cheese/",
+    "timestamp": "2024-10-25",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-lentil-soup/",
+    "timestamp": "2024-10-13",
+    "cpe_timestamp": "2025-09-16",
+    "psr_timestamp": "2024-10-13",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cream-of-celery-soup-2/",
+    "timestamp": "2024-10-29",
+    "cpe_timestamp": "2025-04",
+    "psr_timestamp": "2024-10-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/portuguese-bean-soup/",
+    "timestamp": "2024-10-28",
+    "cpe_timestamp": "2024-10-28",
+    "psr_timestamp": "2024-10-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/snickerdoodle-cheesecake-bars/",
+    "timestamp": "2024-10-28",
+    "cpe_timestamp": "2024-10-28",
+    "psr_timestamp": "2024-10-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/eggnog-latte/",
+    "timestamp": "2024-10-28",
+    "cpe_timestamp": "2024-10-28",
+    "psr_timestamp": "2024-10-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/french-meat-stuffing/",
+    "timestamp": "2024-10-28",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-10-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/purple-mashed-potatoes/",
+    "timestamp": "2024-10-30",
+    "cpe_timestamp": "2024-10-30",
+    "psr_timestamp": "2024-10-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/venison-steaks/",
+    "timestamp": "2024-10-30",
+    "cpe_timestamp": "2024-10-30",
+    "psr_timestamp": "2024-10-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-tortelloni-alfredo-from-olive-garden/",
+    "timestamp": "2024-10-29",
+    "cpe_timestamp": "2024-10-29",
+    "psr_timestamp": "2024-10-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/slow-cooker-cheesy-potatoes/",
+    "timestamp": "2024-10-26",
+    "cpe_timestamp": "2024-10-26",
+    "psr_timestamp": "2024-10-26",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/eggplant-meatballs/",
+    "timestamp": "2024-10-28",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hot-water-cornbread/",
+    "timestamp": "2024-10-22",
+    "cpe_timestamp": "2024-10-22",
+    "psr_timestamp": "2024-10-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/sopapilla-cheesecake/",
+    "timestamp": "2024-10-22",
+    "cpe_timestamp": "2025-05",
+    "psr_timestamp": "2024-10-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cream-of-jalapeno-soup/",
+    "timestamp": "2024-10-22",
+    "cpe_timestamp": "2025-09",
+    "psr_timestamp": "2024-10-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/red-lentil-soup/",
+    "timestamp": "2024-10-23",
+    "cpe_timestamp": "2025-09-16",
+    "psr_timestamp": "2024-10-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-shawarma/",
+    "timestamp": "2024-10-22",
+    "cpe_timestamp": "2024-10-22",
+    "psr_timestamp": "2024-10-22",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cranberry-jalapeno-dip/",
+    "timestamp": "2024-10-30",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-10-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/brioche-french-toast-casserole/",
+    "timestamp": "2024-10-23",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-10-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-taco-cups/",
+    "timestamp": "2024-09-21",
+    "cpe_timestamp": "2024-09-21",
+    "psr_timestamp": "2024-09-21",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/honey-glazed-chicken-kabobs/",
+    "timestamp": "2025-07-03",
+    "cpe_timestamp": "2025-07-03",
+    "psr_timestamp": "2025-07-03",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/blueberry-sour-cream-coffee-cake/",
+    "timestamp": "2024-08-14",
+    "cpe_timestamp": "2025-09-04",
+    "psr_timestamp": "2024-08-14",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/keto-taco-casserole/",
+    "timestamp": "2024-10-23",
+    "cpe_timestamp": "2024-10-23",
+    "psr_timestamp": "2024-10-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-cheesecake-factory-pumpkin-cheesecake/",
+    "timestamp": "2024-10-28",
+    "cpe_timestamp": "2024-10-28",
+    "psr_timestamp": "2024-10-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cast-iron-apple-nutmeg-coffee-cake/",
+    "timestamp": "2025-04-10",
+    "cpe_timestamp": "2025-12",
+    "psr_timestamp": "2025-04-10",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/asparagus-tuna-noodle-casserole/",
+    "timestamp": "2024-06-06",
+    "cpe_timestamp": "2024-06-06",
+    "psr_timestamp": "2024-06-06",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/roasted-cauliflower-soup/",
+    "timestamp": "2024-10-28",
+    "cpe_timestamp": "2024-10-28",
+    "psr_timestamp": "2024-10-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/garlic-bread-pizza-sandwiches/",
+    "timestamp": "2024-07-30",
+    "cpe_timestamp": "2024-09",
+    "psr_timestamp": "2024-07-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/caramel-gingerbread-cupcakes/",
+    "timestamp": "2024-06-24",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-06-24",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/beef-taco-chili/",
+    "timestamp": "2024-10-17",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-10-17",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pressure-cooker-steak-fajitas/",
+    "timestamp": "2024-11-18",
+    "cpe_timestamp": "2024-11-18",
+    "psr_timestamp": "2024-11-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/jalapeno-pepper-jelly/",
+    "timestamp": "2024-10-15",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "2024-10-15",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/butterscotch-pumpkin-fudge/",
+    "timestamp": "2024-08-08",
+    "cpe_timestamp": "2025-02",
+    "psr_timestamp": "2024-08-08",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-kfc-mashed-potatoes/",
+    "timestamp": "2024-10-29",
+    "cpe_timestamp": "2024-10-29",
+    "psr_timestamp": "2024-10-29",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/biscoff-cheesecake/",
+    "timestamp": "2024-10-25",
+    "cpe_timestamp": "2025-07",
+    "psr_timestamp": "2024-10-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/butter-chicken/",
+    "timestamp": "2024-10-25",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-10-25",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/dutch-oven-apple-cobbler/",
+    "timestamp": "2024-01-30",
+    "cpe_timestamp": "2024-01-30",
+    "psr_timestamp": "2024-01-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/dutch-oven-chocolate-dump-cake/",
+    "timestamp": "2024-07-18",
+    "cpe_timestamp": "2024-07-18",
+    "psr_timestamp": "2024-07-18",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/crab-cake-stuffed-mushrooms/",
+    "timestamp": "2024-10-28",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-28",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/chicken-matzo-ball-soup/",
+    "timestamp": "2024-08-23",
+    "cpe_timestamp": "2024-08-23",
+    "psr_timestamp": "2024-08-23",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/finnish-mulled-wine/",
+    "timestamp": "2023-12-11",
+    "cpe_timestamp": "2023-12-11",
+    "psr_timestamp": "2023-12-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/cranberry-moscow-mule/",
+    "timestamp": "2024-10-30",
+    "cpe_timestamp": "2024-12",
+    "psr_timestamp": "2024-10-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/steakhouse-soup/",
+    "timestamp": "2024-06-27",
+    "cpe_timestamp": "2024-10",
+    "psr_timestamp": "2024-06-27",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/gluten-free-meatballs/",
+    "timestamp": "2024-10-11",
+    "cpe_timestamp": "2025-01",
+    "psr_timestamp": "2024-10-11",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/pandan-cake/",
+    "timestamp": "2024-10-31",
+    "cpe_timestamp": "2024-10-31",
+    "psr_timestamp": "2024-10-31",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lemon-hawaiian-sweet-rolls/",
+    "timestamp": "2024-10-30",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-10-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/lime-and-dill-chimichurri-shrimp/",
+    "timestamp": "2024-04-12",
+    "cpe_timestamp": "2025-09-23",
+    "psr_timestamp": "2024-04-12",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/vegetable-beef-shepherds-pie/",
+    "timestamp": "2024-10-30",
+    "cpe_timestamp": "2024-10-30",
+    "psr_timestamp": "2024-10-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/peach-caprese-salad-2/",
+    "timestamp": "2024-10-30",
+    "cpe_timestamp": "2024-10-30",
+    "psr_timestamp": "2024-10-30",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/copycat-kfc-mashed-potato-bowl/",
+    "timestamp": "2024-10-31",
+    "cpe_timestamp": "2024-10-31",
+    "psr_timestamp": "2024-10-31",
+    "system_confidence": "high"
+},
+{
+    "url": "https://www.tasteofhome.com/recipes/hot-and-sour-soup-2/",
+    "timestamp": "2024-10-30",
+    "cpe_timestamp": "2024-11",
+    "psr_timestamp": "2024-10-30",
+    "system_confidence": "high"
+}
+]

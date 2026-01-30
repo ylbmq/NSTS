@@ -1,0 +1,9 @@
+include README_PYPI.md
+include LICENSE
+recursive-include src/nsts *.py
+prune assets
+prune benchmarks
+prune examples
+prune .*
+exclude .env .env.* .pypirc README.md
+global-exclude *.py[cod]

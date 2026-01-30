@@ -1,0 +1,52 @@
+[build-system]
+requires = ["setuptools>=77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "NSTS"
+version = "0.1.0"
+description = "A neuro-symbolic system for webpage validity timestamp determination"
+readme = "README_PYPI.md"
+requires-python = ">=3.10"
+license = "MIT"
+license-files = ["LICENSE"]
+classifiers = ["Programming Language :: Python :: 3"]
+dependencies = [
+    "apify-client",
+    "beautifulsoup4",
+    "openai",
+    "requests",
+    "tqdm",
+    "urllib3",
+]
+
+[project.urls]
+Repository = "https://github.com/ylbmq/NSTS"
+Issues = "https://github.com/ylbmq/NSTS/issues"
+
+[project.optional-dependencies]
+benchmarks = [
+    "pandas",
+    "openpyxl",
+    "ijson",
+    "Pillow",
+    "python-dateutil",
+    "selenium",
+    "articleDateExtractor",
+    "htmldate",
+    "mediacloud-metadata",
+    "python-dotenv",
+]
+dev = ["pytest", "build", "twine"]
+
+[tool.setuptools]
+include-package-data = false
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["nsts", "nsts.*"]
+namespaces = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--import-mode=importlib"

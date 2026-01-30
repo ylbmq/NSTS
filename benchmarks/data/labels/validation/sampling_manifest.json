@@ -1,0 +1,94 @@
+{
+  "seed": 42,
+  "requested_sample_size": 100,
+  "domains": {
+    "apple": {
+      "label_file": "apple_labels.json",
+      "label_sha256": "efd49cb8d7df12d9e1a3e50909467fbfc204f443d53bd3b5ba03ea0ebeb6da1b",
+      "population_size": 101,
+      "sample_size": 100,
+      "workbook_file": "label_validation.xlsx",
+      "sheet_name": "apple"
+    },
+    "au": {
+      "label_file": "au_labels.json",
+      "label_sha256": "aa5c87a93f4913107f6b5c150a502988eecba5a58b4e77f377be7602bcdcbea6",
+      "population_size": 1374,
+      "sample_size": 100,
+      "workbook_file": "label_validation.xlsx",
+      "sheet_name": "au"
+    },
+    "cafnr": {
+      "label_file": "cafnr_labels.json",
+      "label_sha256": "659f2adf5d0591cbb3c19b70ab709b6a5b07215bb7606fd47dd8c0f8b2be06e1",
+      "population_size": 1282,
+      "sample_size": 100,
+      "workbook_file": "label_validation.xlsx",
+      "sheet_name": "cafnr"
+    },
+    "coas": {
+      "label_file": "coas_labels.json",
+      "label_sha256": "4f74647358ece7d3ca279a257d66000ac33537043d861662cf96d85650276f9e",
+      "population_size": 234,
+      "sample_size": 100,
+      "workbook_file": "label_validation.xlsx",
+      "sheet_name": "coas"
+    },
+    "google": {
+      "label_file": "google_labels.json",
+      "label_sha256": "fa2a778b11451144810e115b0aeb3719d70d32f00fc11cfc5e7d415f1ab78615",
+      "population_size": 3989,
+      "sample_size": 100,
+      "workbook_file": "label_validation.xlsx",
+      "sheet_name": "google"
+    },
+    "healthline": {
+      "label_file": "healthline_labels.json",
+      "label_sha256": "d96d90d81148bd106034c185fbaf92fad082485f4663cc10a8f1e0e4187cfac2",
+      "population_size": 2233,
+      "sample_size": 100,
+      "workbook_file": "label_validation.xlsx",
+      "sheet_name": "healthline"
+    },
+    "hollywood": {
+      "label_file": "hollywood_labels.json",
+      "label_sha256": "4cb4cf4f5a5728ae9eda89957c5db34cb86731ad2724d12103031d91014cb68a",
+      "population_size": 1588,
+      "sample_size": 100,
+      "workbook_file": "label_validation.xlsx",
+      "sheet_name": "hollywood"
+    },
+    "so": {
+      "label_file": "so_labels.json",
+      "label_sha256": "aa110e0fbd15e44207504e5b257cb1f1eb847475162e0c4c476dd129da20f78d",
+      "population_size": 2380,
+      "sample_size": 100,
+      "workbook_file": "label_validation.xlsx",
+      "sheet_name": "so"
+    },
+    "toh": {
+      "label_file": "toh_labels.json",
+      "label_sha256": "2ed7a67df1c2ef0144c5e79e4342ab6cfa10d5ac521c16e14cb66c75ad295c8d",
+      "population_size": 747,
+      "sample_size": 100,
+      "workbook_file": "label_validation.xlsx",
+      "sheet_name": "toh"
+    },
+    "treasury": {
+      "label_file": "treasury_labels.json",
+      "label_sha256": "035ccce2c07fff9760a0e12d973c3a50522f05ca5a1d38f8b122df27766afcc6",
+      "population_size": 4956,
+      "sample_size": 100,
+      "workbook_file": "label_validation.xlsx",
+      "sheet_name": "treasury"
+    },
+    "voa": {
+      "label_file": "voa_labels.json",
+      "label_sha256": "f631dd69c337cd867c75e1e1bf10b80da94bd260e867a02a968d1bcaa2467f1b",
+      "population_size": 15080,
+      "sample_size": 100,
+      "workbook_file": "label_validation.xlsx",
+      "sheet_name": "voa"
+    }
+  }
+}

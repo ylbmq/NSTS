@@ -1,0 +1,810 @@
+[
+    {
+        "url": "https://www.apple.com/newsroom/2016/08/apple-celebrates-diversity-with-the-human-family/",
+        "timestamp": "2016-08-04",
+        "symbolic_timestamp": "2016-08-04",
+        "psr_timestamp": "2016-08-04",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2017/12/how-apple-and-finisar-are-transforming-the-future-of-this-texas-town/",
+        "timestamp": "2017-12-13",
+        "symbolic_timestamp": "2017-12-13",
+        "psr_timestamp": "2017-12-13",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2020/07/future-forward-the-40-year-mission-of-an-apple-distinguished-educator/",
+        "timestamp": "2020-07-23",
+        "symbolic_timestamp": "2020-07-23",
+        "psr_timestamp": "2020-07-23",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2020/05/as-pride-goes-virtual-apple-watch-pride-edition-helps-community-and-advocacy-continue-worldwide/",
+        "timestamp": "2020-05-18",
+        "symbolic_timestamp": "2020-05-18",
+        "psr_timestamp": "2020-05-18",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2020/07/apple-creatives-and-disability-rights-activists-reflect-on-30-years-of-the-americans-with-disabilities-act/",
+        "timestamp": "2020-07-22",
+        "symbolic_timestamp": "2020-07-22",
+        "psr_timestamp": "2020-07-22",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2020/01/at-risk-youth-get-a-fresh-look-and-a-fresh-start/",
+        "timestamp": "2020-01-16",
+        "symbolic_timestamp": "2020-01-16",
+        "psr_timestamp": "2020-01-16",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2019/10/students-across-europe-learn-swift-to-unlock-new-opportunities/",
+        "timestamp": "2019-10-02",
+        "symbolic_timestamp": "2019-10-02",
+        "psr_timestamp": "2019-10-02",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2019/11/apple-partners-with-100cameras-to-teach-chicago-students-photography-with-iphone/",
+        "timestamp": "2019-11-19",
+        "symbolic_timestamp": "2019-11-19",
+        "psr_timestamp": "2019-11-19",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2019/11/the-augmented-reality-app-helping-veterans-manage-anxiety/",
+        "timestamp": "2019-11-11",
+        "symbolic_timestamp": "2019-11-11",
+        "psr_timestamp": "2019-11-11",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2019/08/searching-for-gold-with-habitat-restoration-in-mind/",
+        "timestamp": "2019-08-13",
+        "symbolic_timestamp": "2019-08-13",
+        "psr_timestamp": "2019-08-13",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2019/08/creativity-and-community-come-together-at-apples-teacher-coding-academies/",
+        "timestamp": "2019-08-07",
+        "symbolic_timestamp": "2019-08-07",
+        "psr_timestamp": "2019-08-07",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2019/05/photographer-rachael-short-explores-the-beauty-of-simplicity-with-iphone/",
+        "timestamp": "2019-05-16",
+        "symbolic_timestamp": "2019-05-16",
+        "psr_timestamp": "2019-05-16",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2019/05/thousands-of-stories-one-wwdc/",
+        "timestamp": "2019-05-30",
+        "symbolic_timestamp": "2019-05-30",
+        "psr_timestamp": "2019-05-30",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2019/06/when-words-arent-enough-teachers-find-a-common-language-with-ipad/",
+        "timestamp": "2019-06-11",
+        "symbolic_timestamp": "2019-06-11",
+        "psr_timestamp": "2019-06-11",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2019/04/conserving-mangroves-a-lifeline-for-the-world/",
+        "timestamp": "2019-04-22",
+        "symbolic_timestamp": "2019-04-22",
+        "psr_timestamp": "2019-04-22",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2019/02/a-career-in-tech-built-with-coding-and-determination/",
+        "timestamp": "2019-02-18",
+        "symbolic_timestamp": "2019-02-18",
+        "psr_timestamp": "2019-02-18",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2019/02/huntington-beach-educators-mold-musicians-of-tomorrow/",
+        "timestamp": "2019-02-27",
+        "symbolic_timestamp": "2019-02-27",
+        "psr_timestamp": "2019-02-27",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/07/educators-in-australia-embrace-swift-to-forge-a-new-future/",
+        "timestamp": "2021-07-28",
+        "symbolic_timestamp": "2021-07-28",
+        "psr_timestamp": "2021-07-28",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2019/01/out-of-a-culture-of-giving-a-world-of-difference/",
+        "timestamp": "2019-01-21",
+        "symbolic_timestamp": "2019-01-21",
+        "psr_timestamp": "2019-01-21",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2018/11/the-hiv-positive-caregivers-working-to-end-aids-in-africa/",
+        "timestamp": "2018-11-29",
+        "symbolic_timestamp": "2018-11-29",
+        "psr_timestamp": "2018-11-29",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2019/02/behind-the-mac-creator-celebrates-his-literary-icon/",
+        "timestamp": "2019-02-13",
+        "symbolic_timestamp": "2019-02-13",
+        "psr_timestamp": "2019-02-13",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/06/in-a-year-apart-apple-technology-helped-educators-and-learners-stay-connected/",
+        "timestamp": "2021-06-23",
+        "symbolic_timestamp": "2021-06-23",
+        "psr_timestamp": "2021-06-23",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2018/11/blind-veteran-catches-second-wave-with-a-surfboard-and-iphone/",
+        "timestamp": "2018-11-09",
+        "symbolic_timestamp": "2018-11-09",
+        "psr_timestamp": "2018-11-09",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/05/celebrating-mothers-day-with-the-creators-of-winnie-an-app-to-find-child-care/",
+        "timestamp": "2021-05-04",
+        "symbolic_timestamp": "2021-05-04",
+        "psr_timestamp": "2021-05-04",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/05/a-new-generation-of-black-male-teachers-starts-its-journey-in-partnership-with-apple/",
+        "timestamp": "2021-05-03",
+        "symbolic_timestamp": "2021-05-03",
+        "psr_timestamp": "2021-05-03",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/05/endel-app-creator-on-the-power-of-endless-ambient-music/",
+        "timestamp": "2021-05-18",
+        "symbolic_timestamp": "2021-05-18",
+        "psr_timestamp": "2021-05-18",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/05/apple-entrepreneur-camp-participants-break-barriers-on-their-coding-journeys/",
+        "timestamp": "2021-05-26",
+        "symbolic_timestamp": "2021-05-26",
+        "psr_timestamp": "2021-05-26",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/04/three-apps-enabling-financial-wellness-for-all/",
+        "timestamp": "2021-04-27",
+        "symbolic_timestamp": "2021-04-27",
+        "psr_timestamp": "2021-04-27",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/03/artists-reimagine-the-baseball-card-with-ipad-pro-and-apple-pencil/",
+        "timestamp": "2021-03-31",
+        "symbolic_timestamp": "2021-03-31",
+        "psr_timestamp": "2021-03-31",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/03/new-zealand-students-prototype-their-own-samoan-language-app-with-ipad/",
+        "timestamp": "2021-03-01",
+        "symbolic_timestamp": "2021-03-01",
+        "psr_timestamp": "2021-03-01",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/03/caria-app-helps-debunk-the-myths-of-menopause/",
+        "timestamp": "2021-03-17",
+        "symbolic_timestamp": "2021-03-17",
+        "psr_timestamp": "2021-03-17",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2018/10/the-secret-world-of-mac-mini/",
+        "timestamp": "2018-10-30",
+        "symbolic_timestamp": "2018-10-30",
+        "psr_timestamp": "2018-10-30",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/02/we-read-too-app-developer-kaya-thomas-explores-trends-in-black-literature/",
+        "timestamp": "2021-02-11",
+        "symbolic_timestamp": "2021-02-11",
+        "psr_timestamp": "2021-02-11",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/02/apple-helps-encircle-expand-its-support-for-lgbtq-youth-and-their-families/",
+        "timestamp": "2021-02-25",
+        "symbolic_timestamp": "2021-02-25",
+        "psr_timestamp": "2021-02-25",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2018/07/app-store-turns-10/",
+        "timestamp": "2018-07-05",
+        "symbolic_timestamp": "2018-07-05",
+        "psr_timestamp": "2018-07-05",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/03/australian-primary-school-drives-innovation-and-creativity-with-ipad/",
+        "timestamp": "2021-03-25",
+        "symbolic_timestamp": "2021-03-25",
+        "psr_timestamp": "2021-03-25",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2018/01/emerging-la-filmmakers-create-short-films-with-small-budgets-and-big-ideas/",
+        "timestamp": "2018-01-25",
+        "symbolic_timestamp": "2018-01-25",
+        "psr_timestamp": "2018-01-25",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2018/03/doctors-put-patients-in-charge-with-apples-health-records-feature/",
+        "timestamp": "2018-03-29",
+        "symbolic_timestamp": "2018-03-29",
+        "psr_timestamp": "2018-03-29",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2018/03/students-succeed-at-their-own-speed-with-ipad-and-mac/",
+        "timestamp": "2018-03-27",
+        "symbolic_timestamp": "2018-03-27",
+        "psr_timestamp": "2018-03-27",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2020/12/apple-ppe-donation-helps-zambia-in-the-fight-against-covid-19-and-hiv/",
+        "timestamp": "2020-12-01",
+        "symbolic_timestamp": "2020-12-01",
+        "psr_timestamp": "2020-12-01",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2020/11/apples-cork-campus-celebrates-40-years-of-community-and-looks-to-the-future/",
+        "timestamp": "2020-11-17",
+        "symbolic_timestamp": "2020-11-17",
+        "psr_timestamp": "2020-11-17",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/02/hometown-shot-on-iphone-12-pro/",
+        "timestamp": "2021-02-01",
+        "symbolic_timestamp": "2021-02-01",
+        "psr_timestamp": "2021-02-01",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/02/an-apple-watch-anniversary-gift-and-the-future-it-helped-change/",
+        "timestamp": "2021-02-04",
+        "symbolic_timestamp": "2021-02-04",
+        "psr_timestamp": "2021-02-04",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2020/12/a-landmark-year-of-giving-from-apple/",
+        "timestamp": "2020-12-16",
+        "symbolic_timestamp": "2020-12-16",
+        "psr_timestamp": "2020-12-16",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2020/11/atlantic-city-educators-reimagine-after-school-learning-to-lift-a-community/",
+        "timestamp": "2020-11-19",
+        "symbolic_timestamp": "2020-11-19",
+        "psr_timestamp": "2020-11-19",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2020/11/developers-see-a-world-of-possibilities-with-new-app-store-small-business-program/",
+        "timestamp": "2020-11-18",
+        "symbolic_timestamp": "2020-11-18",
+        "psr_timestamp": "2020-11-18",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2020/09/sowing-new-seeds-dallas-science-teacher-brings-students-closer-to-nature-with-ipad/",
+        "timestamp": "2020-09-02",
+        "symbolic_timestamp": "2020-09-02",
+        "psr_timestamp": "2020-09-02",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2025/11/mapping-the-future-with-3d-printed-titanium-apple-watch-cases/",
+        "timestamp": "2025-11-18",
+        "symbolic_timestamp": "2025-11-18",
+        "psr_timestamp": "2025-11-18",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2020/08/how-one-teacher-is-preparing-for-a-year-like-no-other-with-support-from-apple/",
+        "timestamp": "2020-08-27",
+        "symbolic_timestamp": "2020-08-27",
+        "psr_timestamp": "2020-08-27",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2020/10/apple-and-gallaudet-university-foster-innovation-in-education/",
+        "timestamp": "2020-10-08",
+        "symbolic_timestamp": "2020-10-08",
+        "psr_timestamp": "2020-10-08",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2025/05/meet-four-of-this-years-swift-student-challenge-winners/",
+        "timestamp": "2025-05-08",
+        "symbolic_timestamp": "2025-05-08",
+        "psr_timestamp": "2025-05-08",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/",
+        "timestamp": "2025-04-15",
+        "symbolic_timestamp": "2025-04-15",
+        "psr_timestamp": "2025-04-15",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2025/11/developers-decode-their-journeys-from-app-ideas-to-app-store/",
+        "timestamp": "2025-11-06",
+        "symbolic_timestamp": "2025-11-06",
+        "psr_timestamp": "2025-11-06",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2024/10/how-apple-developed-the-worlds-first-end-to-end-hearing-health-experience/",
+        "timestamp": "2024-10-28",
+        "symbolic_timestamp": "2024-10-28",
+        "psr_timestamp": "2024-10-28",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/",
+        "timestamp": "2025-02-21",
+        "symbolic_timestamp": "2025-02-21",
+        "psr_timestamp": "2025-02-21",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/",
+        "timestamp": "2025-03-26",
+        "symbolic_timestamp": "2025-03-26",
+        "psr_timestamp": "2025-03-26",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2024/11/driving-the-game-forward-ipad-teams-up-with-college-football/",
+        "timestamp": "2024-11-01",
+        "symbolic_timestamp": "2024-11-01",
+        "psr_timestamp": "2024-11-01",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2025/02/new-orleans-students-showcase-their-creativity-with-ipad-and-mac/",
+        "timestamp": "2025-02-03",
+        "symbolic_timestamp": "2025-02-03",
+        "psr_timestamp": "2025-02-03",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2024/08/apple-and-4-h-are-bringing-technology-to-a-new-generation-of-learners/",
+        "timestamp": "2024-08-21",
+        "symbolic_timestamp": "2024-08-21",
+        "psr_timestamp": "2024-08-21",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2024/06/hbcu-students-chart-their-career-paths-in-americas-music-city/",
+        "timestamp": "2024-06-27",
+        "symbolic_timestamp": "2024-06-27",
+        "psr_timestamp": "2024-06-27",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2024/03/apples-restore-fund-cultivates-new-roots-in-the-atlantic-forest/",
+        "timestamp": "2024-03-13",
+        "symbolic_timestamp": "2024-03-13",
+        "psr_timestamp": "2024-03-13",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2024/05/meet-three-swift-student-challenge-winners-changing-the-future-through-coding/",
+        "timestamp": "2024-05-01",
+        "symbolic_timestamp": "2024-05-01",
+        "psr_timestamp": "2024-05-01",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2024/03/three-app-creators-shaping-the-future-of-education-fitness-and-health/",
+        "timestamp": "2024-03-06",
+        "symbolic_timestamp": "2024-03-06",
+        "psr_timestamp": "2024-03-06",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2024/01/apple-unveils-2024-black-unity-collection-and-announces-six-reji-grantees/",
+        "timestamp": "2024-01-17",
+        "symbolic_timestamp": "2024-01-17",
+        "psr_timestamp": "2024-01-17",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2023/11/a-disability-advocate-preserves-his-voice-with-iphone/",
+        "timestamp": "2023-11-30",
+        "symbolic_timestamp": "2023-11-30",
+        "psr_timestamp": "2023-11-30",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2023/08/a-new-generation-preserves-tribal-land-and-culture-in-americas-national-parks/",
+        "timestamp": "2023-08-24",
+        "symbolic_timestamp": "2023-08-24",
+        "psr_timestamp": "2023-08-24",
+        "system_confidence": "conflicted",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2023/07/apple-partnerships-help-californians-access-affordable-housing-and-resources/",
+        "timestamp": "2023-07-26",
+        "symbolic_timestamp": "2023-07-26",
+        "psr_timestamp": "2023-07-26",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/01/apple-distinguished-educator-mike-lang-draws-blueprint-for-change-in-las-vegas/",
+        "timestamp": "2021-01-18",
+        "symbolic_timestamp": "2021-01-18",
+        "psr_timestamp": "2021-01-18",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2023/10/houston-educators-nurture-the-next-generation-of-hispanic-leaders-with-apple/",
+        "timestamp": "2023-10-04",
+        "symbolic_timestamp": "2023-10-04",
+        "psr_timestamp": "2023-10-04",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2023/07/new-immersive-ar-experience-brings-student-creativity-to-life/",
+        "timestamp": "2023-07-05",
+        "symbolic_timestamp": "2023-07-05",
+        "psr_timestamp": "2023-07-05",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2023/05/meet-3-winners-of-the-wwdc23-swift-student-challenge/",
+        "timestamp": "2023-05-30",
+        "symbolic_timestamp": "2023-05-30",
+        "psr_timestamp": "2023-05-30",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2023/05/assistiveware-ushers-in-next-generation-of-aac-technology/",
+        "timestamp": "2023-05-17",
+        "symbolic_timestamp": "2023-05-17",
+        "psr_timestamp": "2023-05-17",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2023/05/a-california-school-district-is-reimagining-education-with-apple-learning-coach/",
+        "timestamp": "2023-05-08",
+        "symbolic_timestamp": "2023-05-08",
+        "psr_timestamp": "2023-05-08",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2023/04/apple-empowers-small-businesses-to-grow-and-serve-their-customers/",
+        "timestamp": "2023-04-26",
+        "symbolic_timestamp": "2023-04-26",
+        "psr_timestamp": "2023-04-26",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2023/04/behind-the-scenes-of-mls-season-pass/",
+        "timestamp": "2023-04-04",
+        "symbolic_timestamp": "2023-04-04",
+        "psr_timestamp": "2023-04-04",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2023/03/meet-four-women-using-apps-and-games-to-drive-culture-and-create-change/",
+        "timestamp": "2023-03-14",
+        "symbolic_timestamp": "2023-03-14",
+        "psr_timestamp": "2023-03-14",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2023/02/mcintosh-seed-preserves-land-and-legacy-with-black-landowners-in-the-us-south/",
+        "timestamp": "2023-02-15",
+        "symbolic_timestamp": "2023-02-15",
+        "psr_timestamp": "2023-02-15",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/12/across-the-globe-apple-and-its-teams-find-new-ways-to-give/",
+        "timestamp": "2022-12-08",
+        "symbolic_timestamp": "2022-12-08",
+        "psr_timestamp": "2022-12-08",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2023/03/at-exceptional-minds-autistic-artists-turn-creativity-into-careers/",
+        "timestamp": "2023-03-31",
+        "symbolic_timestamp": "2023-03-31",
+        "psr_timestamp": "2023-03-31",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/11/reach-new-depths-with-the-oceanic-plus-app-and-apple-watch-ultra/",
+        "timestamp": "2022-11-28",
+        "symbolic_timestamp": "2022-11-28",
+        "psr_timestamp": "2022-11-28",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/11/seven-app-store-creators-share-their-tips-for-forging-a-career-in-coding/",
+        "timestamp": "2022-11-02",
+        "symbolic_timestamp": "2022-11-02",
+        "psr_timestamp": "2022-11-02",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/11/veterans-find-relief-from-nightmares-with-nightware-and-apple-watch/",
+        "timestamp": "2022-11-07",
+        "symbolic_timestamp": "2022-11-07",
+        "psr_timestamp": "2022-11-07",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/10/meet-seven-hispanic-and-latin-app-creators-breaking-barriers-with-technology/",
+        "timestamp": "2022-10-06",
+        "symbolic_timestamp": "2022-10-06",
+        "psr_timestamp": "2022-10-06",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/09/ipad-pro-is-revolutionizing-how-archaeologists-preserve-the-history-of-pompeii/",
+        "timestamp": "2022-09-27",
+        "symbolic_timestamp": "2022-09-27",
+        "psr_timestamp": "2022-09-27",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/08/seeing-chicago-differently-with-iphone-and-ipad/",
+        "timestamp": "2022-08-18",
+        "symbolic_timestamp": "2022-08-18",
+        "psr_timestamp": "2022-08-18",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/07/apple-partnerships-are-helping-build-new-homes-and-new-starts-in-communities-across-california/",
+        "timestamp": "2022-07-25",
+        "symbolic_timestamp": "2022-07-25",
+        "psr_timestamp": "2022-07-25",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/05/swupnil-sahai-and-his-co-founder-serve-an-ace-with-ai-powered-swingvision/",
+        "timestamp": "2022-05-26",
+        "symbolic_timestamp": "2022-05-26",
+        "psr_timestamp": "2022-05-26",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/05/three-aapi-founders-building-apps-on-the-app-store-that-cultivate-community/",
+        "timestamp": "2022-05-12",
+        "symbolic_timestamp": "2022-05-12",
+        "psr_timestamp": "2022-05-12",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/05/uncovering-the-sounds-of-a-galaxy-far-far-away-with-mac/",
+        "timestamp": "2022-05-04",
+        "symbolic_timestamp": "2022-05-04",
+        "psr_timestamp": "2022-05-04",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/04/conserving-mangroves-to-protect-local-livelihoods-and-the-planet/",
+        "timestamp": "2022-04-21",
+        "symbolic_timestamp": "2022-04-21",
+        "psr_timestamp": "2022-04-21",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/03/lettering-artist-belinda-kou-on-the-power-of-creative-community-and-ipad-air/",
+        "timestamp": "2022-03-30",
+        "symbolic_timestamp": "2022-03-30",
+        "psr_timestamp": "2022-03-30",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/03/apples-impact-accelerator-unlocks-new-opportunities-for-us-businesses/",
+        "timestamp": "2022-03-15",
+        "symbolic_timestamp": "2022-03-15",
+        "psr_timestamp": "2022-03-15",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/02/simmone-taitt-wants-to-eliminate-maternal-health-inequities/",
+        "timestamp": "2022-02-24",
+        "symbolic_timestamp": "2022-02-24",
+        "psr_timestamp": "2022-02-24",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2024/04/pushing-the-limit-with-apple-watch-ultra-and-the-speed-project/",
+        "timestamp": "2024-04-08",
+        "symbolic_timestamp": "2024-04-08",
+        "psr_timestamp": "2024-04-08",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2024/05/gravity-water-prepares-the-next-generation-of-water-stewards-in-vietnam/",
+        "timestamp": "2024-05-21",
+        "symbolic_timestamp": "2024-05-21",
+        "psr_timestamp": "2024-05-21",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2022/06/chronicling-the-faces-of-juneteenth-with-ipad-pro-and-apple-pencil/",
+        "timestamp": "2022-06-17",
+        "symbolic_timestamp": "2022-06-17",
+        "psr_timestamp": "2022-06-17",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/12/community-caregivers-spread-hope-in-ghana-with-support-from-apple/",
+        "timestamp": "2021-12-01",
+        "symbolic_timestamp": "2021-12-01",
+        "psr_timestamp": "2021-12-01",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/12/apple-marks-a-year-of-giving-in-the-communities-it-calls-home/",
+        "timestamp": "2021-12-14",
+        "symbolic_timestamp": "2021-12-14",
+        "psr_timestamp": "2021-12-14",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/11/veterans-use-apple-technology-to-revolutionize-trauma-medicine/",
+        "timestamp": "2021-11-10",
+        "symbolic_timestamp": "2021-11-10",
+        "psr_timestamp": "2021-11-10",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2019/03/art-and-form-dancer-hope-boykin-explores-freedom-with-airpods/",
+        "timestamp": "2019-03-26",
+        "symbolic_timestamp": "2019-03-26",
+        "psr_timestamp": "2019-03-26",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/08/a-new-type-of-healing-supported-by-apple/",
+        "timestamp": "2021-08-26",
+        "symbolic_timestamp": "2021-08-26",
+        "psr_timestamp": "2021-08-26",
+        "system_confidence": "high",
+        "symbolic_partner": "mcmetadata"
+    }
+]
